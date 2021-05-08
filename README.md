@@ -1,4 +1,4 @@
-# CMSC320_Final
+# CMSC320 Final Project
 Data choice:
   - Wanted to do music but spotify data had a limited timeframe, so we looked at Billboard instead.
   - Billboard dataset had data by week, which was too much, so we looked at an API instead.
