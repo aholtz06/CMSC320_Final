@@ -8,6 +8,4 @@ Challenge Notes:
  - grabbed wrong table 2012 and 2013 and fixed by adding "wikitable" into find
  - "No." vs. no. symbol and fixed by renaming columns before adding 
  - One random additional entry, found that it was TIE??? which turned some of the rankings into string, the entry was listed as rank 100 in the magazine so we just set it to 100
-
-
-RANDOM NOTES
+ - Multiple versions of songs with slightly different values in parameters, which one do we pick?
