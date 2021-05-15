@@ -1,0 +1,440 @@
+Rank,Song,Artist(s),Year,Query,ID,Popularity,Release Date
+1,Somebody That I Used to Know,Gotye  ,2012,track:Somebody That I Used to Know artist:Gotye  ,4wCmqSrbyCgxEXROQE6vtV,77,2011-01-01
+1,Somebody That I Used to Know,Gotye  ,2012,track:Somebody That I Used to Know artist:Gotye  ,2llbj6W90VcwPBSnfQXLrt,44,2012-01-01
+1,Somebody That I Used to Know,Gotye  ,2012,track:Somebody That I Used to Know artist:Gotye  ,0RtMRbaqeadQFvlYxcAczv,37,2012-01-01
+1,Somebody That I Used to Know,Gotye  ,2012,track:Somebody That I Used to Know artist:Gotye  ,5M6QQY0erG5hRmjuvAlLUD,34,2012-01-01
+1,Somebody That I Used to Know,Gotye  ,2012,track:Somebody That I Used to Know artist:Gotye  ,1iDIw4DDH0d4BynkTnzBAY,27,2011-01-01
+2,Call Me Maybe,Carly Rae Jepsen,2012,track:Call Me Maybe artist:Carly Rae Jepsen,3TGRqZ0a2l1LRblBkJoaDx,70,2012-01-01
+2,Call Me Maybe,Carly Rae Jepsen,2012,track:Call Me Maybe artist:Carly Rae Jepsen,6d4d7n7aKfXHXi3uYoxI4H,0,2021-05-10
+2,Call Me Maybe,Carly Rae Jepsen,2012,track:Call Me Maybe artist:Carly Rae Jepsen,0JxDtNqgfimhT37t9YAB7b,0,2021-05-10
+2,Call Me Maybe,Carly Rae Jepsen,2012,track:Call Me Maybe artist:Carly Rae Jepsen,6wy1px9eBrAw4N7W57rTlO,0,2021-05-12
+2,Call Me Maybe,Carly Rae Jepsen,2012,track:Call Me Maybe artist:Carly Rae Jepsen,6ol4ZSifr7r3Lb2a9L5ZAB,51,2012-01-01
+3,We Are Young,Fun  ,2012,track:We Are Young artist:Fun  ,7a86XRg84qjasly9f6bPSD,73,2012-02-21
+3,We Are Young,Fun  ,2012,track:We Are Young artist:Fun  ,5tbz0VnVwfF3jubvjDGdHo,43,2012-02-21
+3,We Are Young,Fun  ,2012,track:We Are Young artist:Fun  ,6iYGkAU67Xyhr1sYQuYY4H,41,2020-04-07
+3,We Are Young,Fun  ,2012,track:We Are Young artist:Fun  ,4fz20fbPHtJg8CLuxKOGFV,36,2012-02-21
+3,We Are Young,Fun  ,2012,track:We Are Young artist:Fun  ,1TOIrGIGW0EumcukTr5v8Z,30,2012-03-19
+4,Payphone,Maroon 5  ,2012,track:Payphone artist:Maroon 5  ,1LmN9SSHISbtp9LoaR5ZVJ,75,2012-01-01
+4,Payphone,Maroon 5  ,2012,track:Payphone artist:Maroon 5  ,5kyA28ieYl85S2N4slUBIU,0,2021-05-12
+4,Payphone,Maroon 5  ,2012,track:Payphone artist:Maroon 5  ,4P0osvTXoSYZZC2n8IFH3c,52,2012-01-01
+4,Payphone,Maroon 5  ,2012,track:Payphone artist:Maroon 5  ,4cdgQp78RyRzI04Bmw8o44,48,2012-01-01
+4,Payphone,Maroon 5  ,2012,track:Payphone artist:Maroon 5  ,6xwxBfr1BpYRtv8Y5z87tP,32,2012-06-01
+5,Lights,Ellie Goulding,2012,track:Lights artist:Ellie Goulding,7gUpO6td4OOnu0Lf9vhcIV,60,2010
+5,Lights,Ellie Goulding,2012,track:Lights artist:Ellie Goulding,11ozIUBoXAgRTVWelDn4pL,59,2010-01-01
+5,Lights,Ellie Goulding,2012,track:Lights artist:Ellie Goulding,3nPpCn5nYTMg0ajmzv57Jq,50,2011-01-01
+5,Lights,Ellie Goulding,2012,track:Lights artist:Ellie Goulding,4qxUFzBKlmP98kIRKFszju,49,2011-01-01
+5,Lights,Ellie Goulding,2012,track:Lights artist:Ellie Goulding,5aTsxlQlq0vIedDWZoqMWN,64,2010-01-01
+6,Glad You Came,The Wanted,2012,track:Glad You Came artist:The Wanted,3AGOgQzp0YcPH41u9p7dOp,70,2012-01-01
+6,Glad You Came,The Wanted,2012,track:Glad You Came artist:The Wanted,0dw7G0QDuW7UwyL0boHKMU,44,2012-01-01
+6,Glad You Came,The Wanted,2012,track:Glad You Came artist:The Wanted,3ZShCgwUuSNcd3iDomFvbE,51,2012-01-01
+6,Glad You Came,The Wanted,2012,track:Glad You Came artist:The Wanted,6pZowwAC1A7qNLTp2g3ON4,37,2011-01-01
+6,Glad You Came,The Wanted,2012,track:Glad You Came artist:The Wanted,1aft04H65PHSe2oEu1u2FA,22,2013-01-01
+7,Stronger (What Doesn t Kill You),Kelly Clarkson,2012,track:Stronger (What Doesn t Kill You) artist:Kelly Clarkson,6D60klaHqbCl9ySc8VcRss,66,2011-10-24
+7,Stronger (What Doesn t Kill You),Kelly Clarkson,2012,track:Stronger (What Doesn t Kill You) artist:Kelly Clarkson,35a4Kzyo9XY4FI9FaSIzzF,47,2012-11-19
+7,Stronger (What Doesn t Kill You),Kelly Clarkson,2012,track:Stronger (What Doesn t Kill You) artist:Kelly Clarkson,7uftyV6y31qQpA1O3WUbt5,15,2018-10-26
+7,Stronger (What Doesn t Kill You),Kelly Clarkson,2012,track:Stronger (What Doesn t Kill You) artist:Kelly Clarkson,3e0JaDmvOptSDJ6ssErlFj,15,2014-06-10
+7,Stronger (What Doesn t Kill You),Kelly Clarkson,2012,track:Stronger (What Doesn t Kill You) artist:Kelly Clarkson,00b09Hp7Q8P9oLaK1PspfX,16,2012-02-03
+8,We Found Love,Rihanna  ,2012,track:We Found Love artist:Rihanna  ,6qn9YLKt13AGvpq9jfO8py,75,2011-11-18
+8,We Found Love,Rihanna  ,2012,track:We Found Love artist:Rihanna  ,0U10zFw4GlBacOy9VDGfGL,74,2011-11-19
+8,We Found Love,Rihanna  ,2012,track:We Found Love artist:Rihanna  ,3t4HeVfURZ5DuqMWz0Cmqg,60,2012-07-18
+8,We Found Love,Rihanna  ,2012,track:We Found Love artist:Rihanna  ,3eiljiHHlpZKkfj2uQTunn,40,2011-09-22
+8,We Found Love,Rihanna  ,2012,track:We Found Love artist:Rihanna  ,300u3cHkFvI7SQyouWkIfQ,33,2011-09-22
+9,Starships,Nicki Minaj,2012,track:Starships artist:Nicki Minaj,1oHNvJVbFkexQc0BpQp7Y4,73,2011-01-01
+9,Starships,Nicki Minaj,2012,track:Starships artist:Nicki Minaj,59RSrxkSKSixEWBAIvE5Wa,63,2012-01-01
+9,Starships,Nicki Minaj,2012,track:Starships artist:Nicki Minaj,2qblnYRaKJO8K5dx39bP68,44,2012-01-01
+9,Starships,Nicki Minaj,2012,track:Starships artist:Nicki Minaj,1UgW0l9aia2l4SjQSGwF2q,53,2012-04-03
+9,Starships,Nicki Minaj,2012,track:Starships artist:Nicki Minaj,4AiGz7pTyLXBHjniRuioaw,50,2012-01-01
+10,What Makes You Beautiful,One Direction,2012,track:What Makes You Beautiful artist:One Direction,4cluDES4hQEUhmXj6TXkSo,83,2012-05-25
+10,What Makes You Beautiful,One Direction,2012,track:What Makes You Beautiful artist:One Direction,4qfqoM4vizhpCZwXRXWPxQ,40,2010-11-29
+10,What Makes You Beautiful,One Direction,2012,track:What Makes You Beautiful artist:One Direction,77pmvyWSdGYAQFDZlCfMQP,20,2014-06-10
+10,What Makes You Beautiful,One Direction,2012,track:What Makes You Beautiful artist:One Direction,2M4JeeHaLCAVgzze2C07zM,0,2012-03-22
+10,What Makes You Beautiful,One Direction,2012,track:What Makes You Beautiful artist:One Direction,0ClchddLQfxHkHEJLTRcAZ,0,2012-03-22
+11,Wild Ones,Flo Rida  ,2012,track:Wild Ones artist:Flo Rida  ,1NpW5kyvO4XrNJ3rnfcNy3,77,2012-06-22
+11,Wild Ones,Flo Rida  ,2012,track:Wild Ones artist:Flo Rida  ,5Z7ygHQo02SUrFmcgpwsKW,55,2011-12-19
+11,Wild Ones,Flo Rida  ,2012,track:Wild Ones artist:Flo Rida  ,6Zgff84ArpQosabjzUhvlP,36,2011-12-19
+11,Wild Ones,Flo Rida  ,2012,track:Wild Ones artist:Flo Rida  ,6On8EpyfcrkQMVBgQ81wOz,28,2012-04-24
+11,Wild Ones,Flo Rida  ,2012,track:Wild Ones artist:Flo Rida  ,02j4EgmynGX4k3uC18INk1,22,2012-02-10
+12,Set Fire to the Rain,Adele,2012,track:Set Fire to the Rain artist:Adele,73CMRj62VK8nUS4ezD2wvi,75,2011-01-24
+12,Set Fire to the Rain,Adele,2012,track:Set Fire to the Rain artist:Adele,6zqIa3F59uQvZxmuyhBQ8K,2,2012-04-23
+12,Set Fire to the Rain,Adele,2012,track:Set Fire to the Rain artist:Adele,1Px4BmMUy1UXP7YuAIBGMs,22,2019-05-17
+12,Set Fire to the Rain,Adele,2012,track:Set Fire to the Rain artist:Adele,09fq5EOmHTUGW8EsCLg2yd,8,2011-03-14
+12,Set Fire to the Rain,Adele,2012,track:Set Fire to the Rain artist:Adele,4XH7pJ1wSqcuvJD154j6ID,9,2011-05-17
+13,Sexy and I Know It,LMFAO,2012,track:Sexy and I Know It artist:LMFAO,0obBFrPYkSoBJbvHfUIhkv,63,2011-01-01
+13,Sexy and I Know It,LMFAO,2012,track:Sexy and I Know It artist:LMFAO,7in46wlBseKBTcLi6lyhF9,45,2011-01-01
+13,Sexy and I Know It,LMFAO,2012,track:Sexy and I Know It artist:LMFAO,0hNTWtUGZYJUzgCqRT0nUw,29,2011-01-01
+13,Sexy and I Know It,LMFAO,2012,track:Sexy and I Know It artist:LMFAO,0iwXbd0pMg07ntvi4jo2V4,33,2020-03-20
+13,Sexy and I Know It,LMFAO,2012,track:Sexy and I Know It artist:LMFAO,2AZArX9znZPLlPIOyNCpWR,27,2019-05-10
+14,Some Nights,Fun,2012,track:Some Nights artist:Fun,6t6oULCRS6hnI7rm0h5gwl,71,2012-02-21
+14,Some Nights,Fun,2012,track:Some Nights artist:Fun,0kR4Gn7FljUY4t8SKIFyZh,40,2012-02-21
+14,Some Nights,Fun,2012,track:Some Nights artist:Fun,1JAI5Ia020mdGH2wMQEacy,39,2012-02-21
+14,Some Nights,Fun,2012,track:Some Nights artist:Fun,7eeh7qlZRgDc5G8XroPwTG,23,2012-02-21
+14,Some Nights,Fun,2012,track:Some Nights artist:Fun,4kgGRUu5Sv4NLzHAnWpppI,20,2012-02-21
+15,Wide Awake,Katy Perry,2012,track:Wide Awake artist:Katy Perry,5JLv62qFIS1DR3zGEcApRt,67,2012-03-12
+15,Wide Awake,Katy Perry,2012,track:Wide Awake artist:Katy Perry,1rUQmXEy41tXwHIKFECNTa,54,2012-01-01
+15,Wide Awake,Katy Perry,2012,track:Wide Awake artist:Katy Perry,4DCFe4ZsltfBW98VrLmjW8,40,2020-12-18
+15,Wide Awake,Katy Perry,2012,track:Wide Awake artist:Katy Perry,4qPaKLbyN4uS4QcFLes5HT,2,2012-05-08
+16,Good Feeling,Flo Rida,2012,track:Good Feeling artist:Flo Rida,2LEF1A8DOZ9wRYikWgVlZ8,76,2012-06-22
+16,Good Feeling,Flo Rida,2012,track:Good Feeling artist:Flo Rida,3NcO4jGK1Opb5ea0mYLpxb,59,2011-08-29
+16,Good Feeling,Flo Rida,2012,track:Good Feeling artist:Flo Rida,0toNWTt0AASIF5QQLkkF4z,28,2011-11-15
+16,Good Feeling,Flo Rida,2012,track:Good Feeling artist:Flo Rida,4kJU5TgXqeZSDySJYAibzf,23,2011-11-15
+16,Good Feeling,Flo Rida,2012,track:Good Feeling artist:Flo Rida,4K5NTQoESSay9Xx8wCNna9,16,2011-11-15
+17,Whistle,Flo Rida,2012,track:Whistle artist:Flo Rida,3bC1ahPIYt1btJzSSEyyrF,78,2012-06-22
+17,Whistle,Flo Rida,2012,track:Whistle artist:Flo Rida,0ltBH1JNzSvQJPjJpvTu9B,61,2012-04-24
+17,Whistle,Flo Rida,2012,track:Whistle artist:Flo Rida,5oHF4TGeQib4ILA2WhOIEg,32,2012-06-26
+17,Whistle,Flo Rida,2012,track:Whistle artist:Flo Rida,28ala4zzsTkOmtTcoZo54H,20,2012-06-26
+17,Whistle,Flo Rida,2012,track:Whistle artist:Flo Rida,0IIE4HBySJIu76R4Eo71g0,21,2020-11-06
+18,One More Night,Maroon 5,2012,track:One More Night artist:Maroon 5,4XNrMwGx1SqP01sqkGTDmo,68,2012-01-01
+18,One More Night,Maroon 5,2012,track:One More Night artist:Maroon 5,423oRmTgCWl8nF9Oac1fvA,47,2012-01-01
+18,One More Night,Maroon 5,2012,track:One More Night artist:Maroon 5,3icobpUUcKEbt2zQUqRpvM,32,2012-01-01
+18,One More Night,Maroon 5,2012,track:One More Night artist:Maroon 5,7iE6lqF14wDrTMsRT4cBYh,47,2021-04-13
+18,One More Night,Maroon 5,2012,track:One More Night artist:Maroon 5,0Aal3JdqxI9p7p801HiQQ2,33,2012-01-01
+19,Drive By,Train,2012,track:Drive By artist:Train,0KAiuUOrLTIkzkpfpn9jb9,77,2012-04-17
+19,Drive By,Train,2012,track:Drive By artist:Train,4haj5xs3smcDcGRkdPrKQu,33,2018-11-09
+19,Drive By,Train,2012,track:Drive By artist:Train,6KMqaHJUR0aH9pak2u8mWH,31,2019-04-11
+19,Drive By,Train,2012,track:Drive By artist:Train,4q8y0HDdmoInafI7kYsLQz,5,2009-08-01
+20,The Motto,Drake  ,2012,track:The Motto artist:Drake  ,4Kz4RdRCceaA9VgTqBhBfa,73,2011-11-15
+20,The Motto,Drake  ,2012,track:The Motto artist:Drake  ,3U9w4E6zI2amnboVXaW8UX,43,2011-11-15
+20,The Motto,Drake  ,2012,track:The Motto artist:Drake  ,1kPrEf0qjfxOLP05kaXgkb,26,2012-04-02
+21,Where Have You Been,Rihanna,2012,track:Where Have You Been artist:Rihanna,5WQQIDU3HRaMyPkob8mpFb,75,2011-11-18
+21,Where Have You Been,Rihanna,2012,track:Where Have You Been artist:Rihanna,3tyPOhuVnt5zd5kGfxbCyL,74,2011-11-19
+21,Where Have You Been,Rihanna,2012,track:Where Have You Been artist:Rihanna,6BZJSdeVicl1LEtWUQKP4o,58,2012-07-18
+21,Where Have You Been,Rihanna,2012,track:Where Have You Been artist:Rihanna,0Qv6D0PaNKZHepRct8kbyX,34,2012-05-25
+21,Where Have You Been,Rihanna,2012,track:Where Have You Been artist:Rihanna,2jubJDJlUK7xz5ClvU10Ug,33,2012-05-25
+22,Everybody Talks,Neon Trees,2012,track:Everybody Talks artist:Neon Trees,2iUmqdfGZcHIhS3b9E9EWq,81,2012-01-01
+22,Everybody Talks,Neon Trees,2012,track:Everybody Talks artist:Neon Trees,3528IXKpbb7OMjdjWYlbfD,65,2012-01-01
+22,Everybody Talks,Neon Trees,2012,track:Everybody Talks artist:Neon Trees,4rtB6DwF7YE0qSFX8nE9aE,2,2021-05-07
+22,Everybody Talks,Neon Trees,2012,track:Everybody Talks artist:Neon Trees,1akkzUk0nUq90X56xDVGHZ,38,2012-01-01
+22,Everybody Talks,Neon Trees,2012,track:Everybody Talks artist:Neon Trees,6MdPvaZn1TGIEhpWc8EdOH,28,2012-01-01
+23,Take Care,Drake  ,2012,track:Take Care artist:Drake  ,124NFj84ppZ5pAxTuVQYCQ,74,2011-11-15
+23,Take Care,Drake  ,2012,track:Take Care artist:Drake  ,5lzkZ4SfaAhAHTZArLdX2K,41,2011-11-15
+23,Take Care,Drake  ,2012,track:Take Care artist:Drake  ,71FWalsgKB4B82A8SNh40B,12,2018-04-17
+23,Take Care,Drake  ,2012,track:Take Care artist:Drake  ,0LhuXw3d3aS71nKCb7AwNC,4,2011-11-11
+24,Titanium,David Guetta  ,2012,track:Titanium artist:David Guetta  ,0lHAMNU8RGiIObScrsRgmP,67,2011-08-26
+24,Titanium,David Guetta  ,2012,track:Titanium artist:David Guetta  ,77TT8Xvx637TpzV8kKGkUw,63,2011-08-31
+24,Titanium,David Guetta  ,2012,track:Titanium artist:David Guetta  ,1fI5yYMJEYkAHI5YRdnikY,40,2012-01-20
+24,Titanium,David Guetta  ,2012,track:Titanium artist:David Guetta  ,38p5XtUGu6YoPiwS9rsuzB,31,2012-01-20
+24,Titanium,David Guetta  ,2012,track:Titanium artist:David Guetta  ,0j7pTqhCfMmIgv2e4kf7ZP,26,2011-08-30
+25,I Won t Give Up,Jason Mraz,2012,track:I Won t Give Up artist:Jason Mraz,53QF56cjZA9RTuuMZDrSA6,72,2012-04-13
+25,I Won t Give Up,Jason Mraz,2012,track:I Won t Give Up artist:Jason Mraz,05pKAafT85jeeNhZ6kq7HT,67,2012-01-03
+25,I Won t Give Up,Jason Mraz,2012,track:I Won t Give Up artist:Jason Mraz,6RLkxQmjmbB6ItZBOwSK73,32,2012-04-13
+25,I Won t Give Up,Jason Mraz,2012,track:I Won t Give Up artist:Jason Mraz,1GKWYqTTCl2w2RhBMajUYo,18,2014-08-25
+25,I Won t Give Up,Jason Mraz,2012,track:I Won t Give Up artist:Jason Mraz,7n0eawBDfRfSIBrJR5IWOS,11,2020-08-14
+26,It Will Rain,Bruno Mars,2012,track:It Will Rain artist:Bruno Mars,0RUGuh2uSNFJpGMSsD1F5C,70,2011-11-04
+26,It Will Rain,Bruno Mars,2012,track:It Will Rain artist:Bruno Mars,6ns0DIYkYygwMfyoTUtWjb,39,2021-03-12
+26,It Will Rain,Bruno Mars,2012,track:It Will Rain artist:Bruno Mars,6AsGkl2laAolxpgiQYDLsq,33,2021-04-09
+26,It Will Rain,Bruno Mars,2012,track:It Will Rain artist:Bruno Mars,2I3ECoj7kCjnyuVkH4MSMm,0,2011-11-04
+26,It Will Rain,Bruno Mars,2012,track:It Will Rain artist:Bruno Mars,0uC3pqopvnHXC3cmBm8B37,9,2011-09-27
+28,Boyfriend,Justin Bieber,2012,track:Boyfriend artist:Justin Bieber,3UGIZ8qcrMTwzLbx6Kttqt,71,2012-01-01
+28,Boyfriend,Justin Bieber,2012,track:Boyfriend artist:Justin Bieber,2L7rZWg9RLxIwnysmxm4xk,64,2012-06-15
+28,Boyfriend,Justin Bieber,2012,track:Boyfriend artist:Justin Bieber,16YdPF3ZGFIfouwajAhv6C,38,2013-01-01
+28,Boyfriend,Justin Bieber,2012,track:Boyfriend artist:Justin Bieber,3ZsOYk34IQMrH4B1PBdofL,52,2013-01-01
+28,Boyfriend,Justin Bieber,2012,track:Boyfriend artist:Justin Bieber,1pN9xIJIc8ldDe7LYn7L45,22,2012-01-01
+29,Party Rock Anthem,LMFAO  ,2012,track:Party Rock Anthem artist:LMFAO  ,0IkKz2J93C94Ei4BvDop7P,68,2011-01-01
+29,Party Rock Anthem,LMFAO  ,2012,track:Party Rock Anthem artist:LMFAO  ,0OoEAN7MtFPQTVyJdCH1kH,37,2013-01-01
+29,Party Rock Anthem,LMFAO  ,2012,track:Party Rock Anthem artist:LMFAO  ,7FwaX3u4lo5wqF2mdHQlsC,38,2011-01-01
+29,Party Rock Anthem,LMFAO  ,2012,track:Party Rock Anthem artist:LMFAO  ,6EYSO8eKxrUmTT5ENU9kLI,44,2019-11-01
+29,Party Rock Anthem,LMFAO  ,2012,track:Party Rock Anthem artist:LMFAO  ,5y1jZxXIpECpclpbA76zVm,31,2011-01-01
+30,Too Close,Alex Clare,2012,track:Too Close artist:Alex Clare,4sK96UnGx3NjBaqvfTG2dm,59,2011
+30,Too Close,Alex Clare,2012,track:Too Close artist:Alex Clare,0K8zQwhQ7EBudIiSrjctGK,25,2011
+30,Too Close,Alex Clare,2012,track:Too Close artist:Alex Clare,2yXkgkvGf1P1ZvPkYpoUy9,23,2011
+30,Too Close,Alex Clare,2012,track:Too Close artist:Alex Clare,0D0CrN6cgr2QNNmmY8Jukw,21,2011
+30,Too Close,Alex Clare,2012,track:Too Close artist:Alex Clare,3aad1d1dcCy8fuFPQ22g5H,34,2018-09-14
+31,Part of Me,Katy Perry,2012,track:Part of Me artist:Katy Perry,1nZzRJbFvCEct3uzu04ZoL,73,2012-03-12
+31,Part of Me,Katy Perry,2012,track:Part of Me artist:Katy Perry,6yARPLK0PV4heEyh7pVMGz,64,2012-01-01
+31,Part of Me,Katy Perry,2012,track:Part of Me artist:Katy Perry,6iHs3aYNU1U9kBdIGzywov,23,2012-01-01
+31,Part of Me,Katy Perry,2012,track:Part of Me artist:Katy Perry,4153K7DDSjoFWsfDoxhMlr,27,2012-01-01
+31,Part of Me,Katy Perry,2012,track:Part of Me artist:Katy Perry,7KcCUp0CijdtqYNx75WUyl,28,2021-03-12
+32,"Young, Wild & Free",Snoop Dogg  and  Wiz Khalifa  ,2012,"track:Young, Wild & Free artist:Snoop Dogg  and  Wiz Khalifa  ",5HQVUIKwCEXpe7JIHyY734,78,2011-10-11
+32,"Young, Wild & Free",Snoop Dogg  and  Wiz Khalifa  ,2012,"track:Young, Wild & Free artist:Snoop Dogg  and  Wiz Khalifa  ",6YbhspuOar1D9WSSnfe7ds,65,2011-12-12
+32,"Young, Wild & Free",Snoop Dogg  and  Wiz Khalifa  ,2012,"track:Young, Wild & Free artist:Snoop Dogg  and  Wiz Khalifa  ",2g7uRZ68eLtv74XrxgdT2q,68,2011-12-09
+32,"Young, Wild & Free",Snoop Dogg  and  Wiz Khalifa  ,2012,"track:Young, Wild & Free artist:Snoop Dogg  and  Wiz Khalifa  ",3FNy4yzOhHhFBeA5p4ofoq,68,2011-10-21
+33,We Are Never Ever Getting Back Together,Taylor Swift,2012,track:We Are Never Ever Getting Back Together artist:Taylor Swift,0VwNdo84DaVYLIkbVO86ND,76,2012-10-22
+33,We Are Never Ever Getting Back Together,Taylor Swift,2012,track:We Are Never Ever Getting Back Together artist:Taylor Swift,7AEAGTc8cReDqcbPoY9gwo,65,2012-10-22
+33,We Are Never Ever Getting Back Together,Taylor Swift,2012,track:We Are Never Ever Getting Back Together artist:Taylor Swift,1OYARuagDrpgNNQ4loO1Cs,58,2012-10-22
+33,We Are Never Ever Getting Back Together,Taylor Swift,2012,track:We Are Never Ever Getting Back Together artist:Taylor Swift,0kfTOGpi5eZCBxcRF5LFIh,24,2012-10-22
+33,We Are Never Ever Getting Back Together,Taylor Swift,2012,track:We Are Never Ever Getting Back Together artist:Taylor Swift,66dysKYG1MmbvaMj9ljuOA,17,2018-08-24
+34,As Long as You Love Me,Justin Bieber  ,2012,track:As Long as You Love Me artist:Justin Bieber  ,0pwYLVXVknPSGUQb39cePC,69,2012-06-15
+34,As Long as You Love Me,Justin Bieber  ,2012,track:As Long as You Love Me artist:Justin Bieber  ,75lo8VozcCLRG9WGG674iD,62,2012-01-01
+34,As Long as You Love Me,Justin Bieber  ,2012,track:As Long as You Love Me artist:Justin Bieber  ,1kN9UiyOSRVCrSc49ft0lp,54,2013-01-01
+34,As Long as You Love Me,Justin Bieber  ,2012,track:As Long as You Love Me artist:Justin Bieber  ,49rJsV4jSGjCLoks1fvzhP,39,2013-01-01
+34,As Long as You Love Me,Justin Bieber  ,2012,track:As Long as You Love Me artist:Justin Bieber  ,3b5x40hyui8iwPUlmljPb0,25,2012-09-07
+35,Turn Me On,David Guetta  ,2012,track:Turn Me On artist:David Guetta  ,6JOlNkT0QdHeZB0wPbI9IR,56,2011-08-26
+35,Turn Me On,David Guetta  ,2012,track:Turn Me On artist:David Guetta  ,0zlD8JjDsFUUmofqPE83Cj,45,2011-08-31
+35,Turn Me On,David Guetta  ,2012,track:Turn Me On artist:David Guetta  ,4zTnEW54zezqmWyeGibRGV,39,2012-01-27
+35,Turn Me On,David Guetta  ,2012,track:Turn Me On artist:David Guetta  ,3fpWr8PyhF46N4SU42sRiY,31,2012-01-27
+35,Turn Me On,David Guetta  ,2012,track:Turn Me On artist:David Guetta  ,1fHEdEz8YyzEDlecYbEypY,22,2011-08-30
+36,Moves like Jagger,Maroon 5  ,2012,track:Moves like Jagger artist:Maroon 5  ,609mpee5GT3xwRMcju1ohf,0,2021-05-11
+36,Moves like Jagger,Maroon 5  ,2012,track:Moves like Jagger artist:Maroon 5  ,6ZK5dFp7R3jRGIoj6KaXpd,0,2021-05-12
+36,Moves like Jagger,Maroon 5  ,2012,track:Moves like Jagger artist:Maroon 5  ,7LcfRTgAVTs5pQGEQgUEzN,69,2010
+36,Moves like Jagger,Maroon 5  ,2012,track:Moves like Jagger artist:Maroon 5  ,64QftS2rGzpynevjuCsJXW,56,2018-02-02
+36,Moves like Jagger,Maroon 5  ,2012,track:Moves like Jagger artist:Maroon 5  ,2LNbLA2JSQlv6NRz1xdZRj,47,2010
+39,Give Your Heart a Break,Demi Lovato,2012,track:Give Your Heart a Break artist:Demi Lovato,3mfqHQQoC3aVbc9nU1uKEg,0,2021-05-12
+39,Give Your Heart a Break,Demi Lovato,2012,track:Give Your Heart a Break artist:Demi Lovato,3sP3c86WFjOzHHnbhhZcLA,71,2011-01-01
+39,Give Your Heart a Break,Demi Lovato,2012,track:Give Your Heart a Break artist:Demi Lovato,28QHrjRML8oEP7fvOlihbe,29,2012-01-01
+39,Give Your Heart a Break,Demi Lovato,2012,track:Give Your Heart a Break artist:Demi Lovato,0Tdv2MTrOloAfbCgqbkiGw,26,2021-04-13
+39,Give Your Heart a Break,Demi Lovato,2012,track:Give Your Heart a Break artist:Demi Lovato,7tHPL51DVexbA5J6pKcsj8,22,2021-04-16
+41,The One That Got Away,Katy Perry,2012,track:The One That Got Away artist:Katy Perry,3oL3XRtkP1WVbMxf7dtTdu,75,2012-03-12
+41,The One That Got Away,Katy Perry,2012,track:The One That Got Away artist:Katy Perry,6hkOqJ5mE093AQf2lbZnsG,67,2010-01-01
+41,The One That Got Away,Katy Perry,2012,track:The One That Got Away artist:Katy Perry,5jx8tCxiO0uIbo2uNia23K,69,2012-03-12
+41,The One That Got Away,Katy Perry,2012,track:The One That Got Away artist:Katy Perry,4FFSK1xgCLkTZJLUERLZKG,61,2012-01-01
+41,The One That Got Away,Katy Perry,2012,track:The One That Got Away artist:Katy Perry,1OmbyCaS7DnRZpPDNu3wkT,41,2010-01-01
+42,Feel So Close,Calvin Harris,2012,track:Feel So Close artist:Calvin Harris,1gihuPhrLraKYrJMAEONyc,81,2012-10-29
+42,Feel So Close,Calvin Harris,2012,track:Feel So Close artist:Calvin Harris,2lLFCl7O5GWhR6RcuC4VXd,38,2011-07-23
+42,Feel So Close,Calvin Harris,2012,track:Feel So Close artist:Calvin Harris,3bP2xPaVWXlo9gQwRSLyor,36,2013-02-05
+42,Feel So Close,Calvin Harris,2012,track:Feel So Close artist:Calvin Harris,5sWuxzZYvJMgJBFIqTxbzq,31,2018-10-26
+42,Feel So Close,Calvin Harris,2012,track:Feel So Close artist:Calvin Harris,7my7OZvSNkcOqi4CJ4uYyE,32,2011-07-23
+43,Someone like You,Adele,2012,track:Someone like You artist:Adele,1zwMYTA5nlNjZxYrvBB2pV,78,2011-01-24
+43,Someone like You,Adele,2012,track:Someone like You artist:Adele,4VvQbH1H6OjRWLKAPEJ4LZ,25,2013-01-01
+43,Someone like You,Adele,2012,track:Someone like You artist:Adele,132WTqpRbK7GIqBjpM1f6G,10,2020-01-28
+43,Someone like You,Adele,2012,track:Someone like You artist:Adele,56pE0wLH6sRSrYzX8EMd0K,13,2015-10-26
+43,Someone like You,Adele,2012,track:Someone like You artist:Adele,6LTDxd1bM6XSH67IDWOIFN,0,2012-10-23
+44,Scream,Usher,2012,track:Scream artist:Usher,12eMQUn2GzfsfsQLH53M19,67,2012-06-12
+44,Scream,Usher,2012,track:Scream artist:Usher,6Ltazu9gACwcvRwM6GrxeA,26,2012-08-13
+44,Scream,Usher,2012,track:Scream artist:Usher,6l8FFM51YwBFg2MQjMLwlD,29,2012-08-13
+44,Scream,Usher,2012,track:Scream artist:Usher,2mOADR2qzrazyJiYG0ix3P,22,2012-08-13
+44,Scream,Usher,2012,track:Scream artist:Usher,7kfddiKDx5Nya2EFDQHieJ,13,2012-08-13
+45,Rack City,Tyga,2012,track:Rack City artist:Tyga,0srwKuJPH8yBzzFUJMBQM2,66,2012-01-01
+45,Rack City,Tyga,2012,track:Rack City artist:Tyga,21nFIDqoD1L7ELsprVSzOR,61,2012-01-01
+45,Rack City,Tyga,2012,track:Rack City artist:Tyga,7rPLYmabWMobWhoIqZe6rh,36,2012-01-01
+45,Rack City,Tyga,2012,track:Rack City artist:Tyga,2d5YXKPWsS4eUHUmh5HYjb,33,2012-01-01
+45,Rack City,Tyga,2012,track:Rack City artist:Tyga,6RTrHqhePQvYKtGfsnSDdu,15,2012-04-02
+46,Domino,Jessie J,2012,track:Domino artist:Jessie J,6MAdEUilV2p9RQUqE5bMAK,66,2011-01-01
+46,Domino,Jessie J,2012,track:Domino artist:Jessie J,2goIGoOaPjYknHmc3WW8zV,36,2020-03-20
+46,Domino,Jessie J,2012,track:Domino artist:Jessie J,0uBk5Op7XVtzYkghCpM0rr,26,2017-10-20
+46,Domino,Jessie J,2012,track:Domino artist:Jessie J,6HBO2AHkCeY29glTeYnolh,23,2013-01-01
+46,Domino,Jessie J,2012,track:Domino artist:Jessie J,2bI4BEN0URr3JiIYdwVB8o,21,2011-01-01
+47,Gangnam Style,Psy,2012,track:Gangnam Style artist:Psy,03UrZgTINDqvnUMbbIMhql,72,2012-01-01
+47,Gangnam Style,Psy,2012,track:Gangnam Style artist:Psy,7cuBwxBkmy3njuq50Df9x8,39,2013-01-01
+47,Gangnam Style,Psy,2012,track:Gangnam Style artist:Psy,2DTGiVlsMRLRsSexzGtXVz,31,2013-01-01
+47,Gangnam Style,Psy,2012,track:Gangnam Style artist:Psy,7nb1X32kkXWkkilN4eS5So,28,2013-01-01
+47,Gangnam Style,Psy,2012,track:Gangnam Style artist:Psy,6j1k1HnByumvk0fqbdbhiA,27,2021-02-20
+48,International Love,Pitbull  ,2012,track:International Love artist:Pitbull  ,62zFEHfAYl5kdHYOivj4BC,75,2011-06-17
+48,International Love,Pitbull  ,2012,track:International Love artist:Pitbull  ,3hqHdgE3D1T7az8q8H5wR3,41,2017-12-01
+48,International Love,Pitbull  ,2012,track:International Love artist:Pitbull  ,5o9JV34izXSnaKVyMjaMdE,45,2011-06-17
+48,International Love,Pitbull  ,2012,track:International Love artist:Pitbull  ,2pitnjLfZIsCmzQ9IgWeA0,18,2011-06-17
+48,International Love,Pitbull  ,2012,track:International Love artist:Pitbull  ,1CFm4Ms8CP0luKtQ7ciis7,18,2011-06-17
+49,Home,Phillip Phillips,2012,track:Home artist:Phillip Phillips,4rsW3WCZBGwhHfJWuHRwyT,68,2013-01-01
+49,Home,Phillip Phillips,2012,track:Home artist:Phillip Phillips,10Ypu0yOfBL9LgqZDmQSnH,30,2013-01-01
+49,Home,Phillip Phillips,2012,track:Home artist:Phillip Phillips,55oPHqN7fwbbfZnZlG1EG5,28,1971
+49,Home,Phillip Phillips,2012,track:Home artist:Phillip Phillips,5zpTVsdCpVGr6lnkpxlbWn,26,2013-01-01
+49,Home,Phillip Phillips,2012,track:Home artist:Phillip Phillips,2D1OlTpjdlkIsPLNB1uMDe,26,2008-09-30
+50,Without You,David Guetta  ,2012,track:Without You artist:David Guetta  ,1tAutlhI9FwnKn7fVgmd5P,63,2011-08-26
+50,Without You,David Guetta  ,2012,track:Without You artist:David Guetta  ,7rGMKCgeYXpBecQ1FPb3oc,53,2011-08-31
+50,Without You,David Guetta  ,2012,track:Without You artist:David Guetta  ,0V6J3G6SyYGQzzLUSAlAKe,52,2011-10-21
+50,Without You,David Guetta  ,2012,track:Without You artist:David Guetta  ,3YoB9nPUR47VXI3gxh5YMk,24,2011-08-30
+50,Without You,David Guetta  ,2012,track:Without You artist:David Guetta  ,74Q1QTUocQrqnDgzTVVQJj,35,2011-10-21
+51,Ass Back Home,Gym Class Heroes  ,2012,track:Ass Back Home artist:Gym Class Heroes  ,3bfqkspKABT4pPicm6wC9F,63,2011-11-11
+51,Ass Back Home,Gym Class Heroes  ,2012,track:Ass Back Home artist:Gym Class Heroes  ,34VrmzK032vNVXylYLrOuX,26,2011-11-15
+51,Ass Back Home,Gym Class Heroes  ,2012,track:Ass Back Home artist:Gym Class Heroes  ,25BU1YwIUmu6hiih7tLNUN,11,2012-02-14
+51,Ass Back Home,Gym Class Heroes  ,2012,track:Ass Back Home artist:Gym Class Heroes  ,1bu6pm2hmye1Z5w5l3XC3i,11,2012-02-14
+51,Ass Back Home,Gym Class Heroes  ,2012,track:Ass Back Home artist:Gym Class Heroes  ,18p8OFhr2EPMLjAp4gII1p,7,2011-11-15
+52,Wanted,Hunter Hayes,2012,track:Wanted artist:Hunter Hayes,0p1BcEcYVO3uk4KDf3gzkY,69,2011
+52,Wanted,Hunter Hayes,2012,track:Wanted artist:Hunter Hayes,2Xc1eSqm1mDhd5lB1ZywfT,27,2014-08-20
+52,Wanted,Hunter Hayes,2012,track:Wanted artist:Hunter Hayes,1CXCoqmr6X415rswwWjWIp,28,2019-02-08
+52,Wanted,Hunter Hayes,2012,track:Wanted artist:Hunter Hayes,6pFTlLpp5kjeoBP3TSLLBC,20,2016-11-04
+52,Wanted,Hunter Hayes,2012,track:Wanted artist:Hunter Hayes,2KAi4hBAeK0PmtKtcYPVwi,13,2017-06-09
+53,Drunk on You,Luke Bryan,2012,track:Drunk on You artist:Luke Bryan,3b7CDTKB0SRTmQ6ytYi5vZ,63,2011-08-09
+53,Drunk on You,Luke Bryan,2012,track:Drunk on You artist:Luke Bryan,0mlItNVGE6ssg8x4LUo7g4,55,2011-01-01
+53,Drunk on You,Luke Bryan,2012,track:Drunk on You artist:Luke Bryan,3kv6omImmKEfOVJWjstusF,38,2011-01-01
+53,Drunk on You,Luke Bryan,2012,track:Drunk on You artist:Luke Bryan,15PNY2eRNWVl1iahpidYXj,13,2017-07-07
+53,Drunk on You,Luke Bryan,2012,track:Drunk on You artist:Luke Bryan,6atduecXvDwzoWZoUuhw2n,9,2019-11-15
+54,No Lie,2 Chainz  ,2012,track:No Lie artist:2 Chainz  ,6j9iyrrmqWlQZ5SD1hSTaq,61,2012-01-01
+54,No Lie,2 Chainz  ,2012,track:No Lie artist:2 Chainz  ,4Ox97hNeJSWFCZ8vp76vog,52,2012-01-01
+54,No Lie,2 Chainz  ,2012,track:No Lie artist:2 Chainz  ,7iSuH2U27gRoDelazYMPBL,31,2012-01-01
+54,No Lie,2 Chainz  ,2012,track:No Lie artist:2 Chainz  ,7yOfFxDE2kZtDKa2B54MkS,17,2012-08-14
+54,No Lie,2 Chainz  ,2012,track:No Lie artist:2 Chainz  ,2MPtF2QRafYohTm4jn1tFK,17,2018-08-03
+55,Want U Back,Cher Lloyd,2012,track:Want U Back artist:Cher Lloyd,6E11E0lT5Zy7yb6iT3y8DN,65,2012-10-02
+55,Want U Back,Cher Lloyd,2012,track:Want U Back artist:Cher Lloyd,4ILeYl9H01S7Rn9efwu5du,16,2014-06-10
+56,Don t Wake Me Up,Chris Brown,2012,track:Don t Wake Me Up artist:Chris Brown,18VfHIPaCo0s6FTi1Fnp6T,64,2012-07-03
+56,Don t Wake Me Up,Chris Brown,2012,track:Don t Wake Me Up artist:Chris Brown,1lLDna8O9VdoKbsWcLS38L,34,2012-05-18
+56,Don t Wake Me Up,Chris Brown,2012,track:Don t Wake Me Up artist:Chris Brown,4xJzZkAP33kMkknd8cZBiM,31,2012-05-18
+56,Don t Wake Me Up,Chris Brown,2012,track:Don t Wake Me Up artist:Chris Brown,1bSSW9oSb3g0UbHrTsh05W,14,2014-06-10
+56,Don t Wake Me Up,Chris Brown,2012,track:Don t Wake Me Up artist:Chris Brown,5wgDNDAkrpefhRy3PItbUZ,18,2012-05-18
+57,Dance (A$$),Big Sean  ,2012,track:Dance (A$$) artist:Big Sean  ,3ZAMtgYJFoHwJjFkhkXqKr,64,2011-01-01
+57,Dance (A$$),Big Sean  ,2012,track:Dance (A$$) artist:Big Sean  ,67W5fd1ld7dqHNCfaQu52I,51,2011-01-01
+57,Dance (A$$),Big Sean  ,2012,track:Dance (A$$) artist:Big Sean  ,4dMfcca0nQNXXj1etzeME4,50,2011-01-01
+57,Dance (A$$),Big Sean  ,2012,track:Dance (A$$) artist:Big Sean  ,00JA27dAnIPXljobCwtS36,34,2011-01-01
+57,Dance (A$$),Big Sean  ,2012,track:Dance (A$$) artist:Big Sean  ,3B6faHGFrDFpySFVQLbFFE,23,2011-01-01
+58,Springsteen,Eric Church,2012,track:Springsteen artist:Eric Church,05ZACkzW8YbRq3eFgIfSNB,74,2011-01-01
+58,Springsteen,Eric Church,2012,track:Springsteen artist:Eric Church,4jHIeyxOGYQYUEWBHptdQH,0,2021-05-12
+58,Springsteen,Eric Church,2012,track:Springsteen artist:Eric Church,2KD8cBEtdAz4UpGg4qfKCa,37,2013-01-01
+58,Springsteen,Eric Church,2012,track:Springsteen artist:Eric Church,6c7mfaXPENpe4GIdQkd4g1,27,2019-05-24
+58,Springsteen,Eric Church,2012,track:Springsteen artist:Eric Church,4TUd1nna0hpd8lnXDqlxX8,24,2017-12-29
+59,Brokenhearted,Karmin,2012,track:Brokenhearted artist:Karmin,4urcG6Nfubqsuqy3juMjBi,65,2012-05-07
+59,Brokenhearted,Karmin,2012,track:Brokenhearted artist:Karmin,2OmXKnBU4bYj2PPdPzAOyX,17,2012-06-04
+59,Brokenhearted,Karmin,2012,track:Brokenhearted artist:Karmin,4EGCZU56HHS1GdLjj4ZyL5,6,2012-06-04
+59,Brokenhearted,Karmin,2012,track:Brokenhearted artist:Karmin,1lfA2Q82fT1DzaGGvhX2md,4,2012-06-04
+59,Brokenhearted,Karmin,2012,track:Brokenhearted artist:Karmin,7m8fp0SIJAmRdDcKJIsB2z,3,2012-06-04
+60,Not Over You,Gavin DeGraw,2012,track:Not Over You artist:Gavin DeGraw,6j7hih15xG2cdYwIJnQXsq,70,2011-09-16
+60,Not Over You,Gavin DeGraw,2012,track:Not Over You artist:Gavin DeGraw,2AtE18nG6GqezjXcTd6TsI,32,2014
+60,Not Over You,Gavin DeGraw,2012,track:Not Over You artist:Gavin DeGraw,4mgPGcUcNNg3hAPOXkoaF2,29,2012-12-03
+60,Not Over You,Gavin DeGraw,2012,track:Not Over You artist:Gavin DeGraw,2MDSDatjTfycwRG0EP8Ayk,15,2014-02-10
+60,Not Over You,Gavin DeGraw,2012,track:Not Over You artist:Gavin DeGraw,0cF82LzRhQdapO5ITHu9Fl,14,2014-06-10
+61,Stereo Hearts,Gym Class Heroes  ,2012,track:Stereo Hearts artist:Gym Class Heroes  ,0qOnSQQF0yzuPWsXrQ9paz,83,2011-11-11
+61,Stereo Hearts,Gym Class Heroes  ,2012,track:Stereo Hearts artist:Gym Class Heroes  ,4ywvnllm7kpaXDsa1VNNpY,64,2011-11-15
+61,Stereo Hearts,Gym Class Heroes  ,2012,track:Stereo Hearts artist:Gym Class Heroes  ,2BqX3BD2aY2SKU0lYH4zDW,54,2021-02-10
+61,Stereo Hearts,Gym Class Heroes  ,2012,track:Stereo Hearts artist:Gym Class Heroes  ,7DSkEJbO6LFpkXHUuHs3WJ,18,2011-11-15
+61,Stereo Hearts,Gym Class Heroes  ,2012,track:Stereo Hearts artist:Gym Class Heroes  ,0sl2i77eDmbGKao7shE2of,30,2021-03-26
+62,Back in Time,Pitbull,2012,track:Back in Time artist:Pitbull,3eQlGeyuSibgAGPEJugaDW,54,2012
+62,Back in Time,Pitbull,2012,track:Back in Time artist:Pitbull,2U2ONBrf1HJCDxQlynpD6J,47,2012-03-26
+62,Back in Time,Pitbull,2012,track:Back in Time artist:Pitbull,0xED55IK1uDhpNYKejoySq,30,2012-11-19
+62,Back in Time,Pitbull,2012,track:Back in Time artist:Pitbull,5ILWTxrFPnXbk3NGpQ36nv,10,2012-11-19
+62,Back in Time,Pitbull,2012,track:Back in Time artist:Pitbull,6jM9LSgVo5rdVvtSswQQUi,15,2012
+63,Work Out,J. Cole,2012,track:Work Out artist:J. Cole,2wAJTrFhCnQyNSD3oUgTZO,80,2011-09-27
+63,Work Out,J. Cole,2012,track:Work Out artist:J. Cole,08AJrzWJWILgewSASbc5xQ,45,2011-09-27
+64,Rumour Has It,Adele,2012,track:Rumour Has It artist:Adele,2A73XBDBQgmdXO8VsXPWIs,64,2011-01-24
+65,Let s Go,Calvin Harris  ,2012,track:Let s Go artist:Calvin Harris  ,4wkQmYpAaMe41Rc3sYZ7Vz,66,2012-10-29
+65,Let s Go,Calvin Harris  ,2012,track:Let s Go artist:Calvin Harris  ,5Oa4jjIe7d4tGsXevIQdrK,36,2012-04-02
+65,Let s Go,Calvin Harris  ,2012,track:Let s Go artist:Calvin Harris  ,0k3yajjoN6uZINmPe2uKrt,30,2012-01-01
+65,Let s Go,Calvin Harris  ,2012,track:Let s Go artist:Calvin Harris  ,5ALjQRIQsdI4lISGTheWne,26,2017-08-04
+65,Let s Go,Calvin Harris  ,2012,track:Let s Go artist:Calvin Harris  ,3azxloGg3lYYMv2gm0fCPb,36,2012-01-01
+66,Good Girl,Carrie Underwood,2012,track:Good Girl artist:Carrie Underwood,20DfkHC5grnKNJCzZQB6KC,62,2012-05-01
+66,Good Girl,Carrie Underwood,2012,track:Good Girl artist:Carrie Underwood,7kyTShMdMLi45EGFaDBp5E,38,2014-12-09
+66,Good Girl,Carrie Underwood,2012,track:Good Girl artist:Carrie Underwood,3tafUiswv4gToylxYvu8QE,10,2012-05-01
+66,Good Girl,Carrie Underwood,2012,track:Good Girl artist:Carrie Underwood,0HRqyCxfo2X8ix2HhqAWpX,7,2014-12-08
+66,Good Girl,Carrie Underwood,2012,track:Good Girl artist:Carrie Underwood,2ascQs2YhEii3xadWwHWKy,0,2012-02-24
+67,Pontoon,Little Big Town,2012,track:Pontoon artist:Little Big Town,2Gy3XMLbBxACZ4tXdFRGr7,65,2013-01-01
+67,Pontoon,Little Big Town,2012,track:Pontoon artist:Little Big Town,4BUxVaQazGDJUo95cuUbyO,17,2016-11-04
+67,Pontoon,Little Big Town,2012,track:Pontoon artist:Little Big Town,28uhC00QIUn2W9F6S8F6ZC,17,2021-01-15
+67,Pontoon,Little Big Town,2012,track:Pontoon artist:Little Big Town,4yGDYQolVcdT1DIAwrNTgm,14,2019-11-08
+67,Pontoon,Little Big Town,2012,track:Pontoon artist:Little Big Town,2qoBF3NvpUALDDcqhvKfcb,10,2019-12-20
+68,Ho Hey,The Lumineers,2012,track:Ho Hey artist:The Lumineers,0W4Kpfp1w2xkY3PrV714B7,72,2012-04-03
+68,Ho Hey,The Lumineers,2012,track:Ho Hey artist:The Lumineers,1Mack10LMsmGP9SDeg6Tbf,40,2013
+68,Ho Hey,The Lumineers,2012,track:Ho Hey artist:The Lumineers,0HoyyrNzpA5AfxCqikVWHj,15,2020-08-31
+68,Ho Hey,The Lumineers,2012,track:Ho Hey artist:The Lumineers,71x5vAflxm7sCZwZG9Pbhz,10,2020-03-20
+68,Ho Hey,The Lumineers,2012,track:Ho Hey artist:The Lumineers,0ZhS1Mm2BOJEd7v0wivDQL,6,2020-03-13
+69,Paradise,Coldplay,2012,track:Paradise artist:Coldplay,6nek1Nin9q48AVZcWs9e9D,80,2011-10-24
+69,Paradise,Coldplay,2012,track:Paradise artist:Coldplay,0pjMTISKHTJkogN1BPZxaC,53,2012-06-01
+69,Paradise,Coldplay,2012,track:Paradise artist:Coldplay,314gi4w3RdZxlocdWw0Khr,50,2018-12-07
+69,Paradise,Coldplay,2012,track:Paradise artist:Coldplay,1lWLwMV3peo5fJp5hHRCHS,46,2012-11-19
+69,Paradise,Coldplay,2012,track:Paradise artist:Coldplay,0NCNpPmEVeau2v5CoRb2sc,30,2020-09-04
+70,Blown Away,Carrie Underwood,2012,track:Blown Away artist:Carrie Underwood,0vFMQi8ZnOM2y8cuReZTZ2,63,2012-05-01
+70,Blown Away,Carrie Underwood,2012,track:Blown Away artist:Carrie Underwood,0LbaxqqbUVE1kANizaaL0F,37,2014-12-09
+70,Blown Away,Carrie Underwood,2012,track:Blown Away artist:Carrie Underwood,0d1MqBEtk6EPc7mu5iUOGn,7,2014-12-08
+70,Blown Away,Carrie Underwood,2012,track:Blown Away artist:Carrie Underwood,7cajRTzYRXfIUicfxSlhsW,0,2012-05-01
+71,Rolling in the Deep,Adele,2012,track:Rolling in the Deep artist:Adele,1c8gk2PeTE04A1pIDH9YMk,76,2011-01-24
+71,Rolling in the Deep,Adele,2012,track:Rolling in the Deep artist:Adele,3GkqnS8Lt8LDZV565ITUwh,30,2011-01-17
+71,Rolling in the Deep,Adele,2012,track:Rolling in the Deep artist:Adele,2PWhPwrYiG3VM3VRd8Nlkx,25,2014-08-25
+71,Rolling in the Deep,Adele,2012,track:Rolling in the Deep artist:Adele,3eQRB7chBxnqKhJQTCcseu,0,2017-08-11
+71,Rolling in the Deep,Adele,2012,track:Rolling in the Deep artist:Adele,1Lb1Cui3YR5qqBGylZcxVY,0,2017-08-11
+72,Climax,Usher,2012,track:Climax artist:Usher,5pyVqlqThcxI7tPDjHIzPh,62,2012-06-12
+72,Climax,Usher,2012,track:Climax artist:Usher,6bwvfH8bvUUax5GwOP493c,26,2012-05-28
+72,Climax,Usher,2012,track:Climax artist:Usher,2K23uiTZsCVF1nbudGwisB,12,2016-12-30
+72,Climax,Usher,2012,track:Climax artist:Usher,7l6bUDk0fLtMMH4YQ8EWAq,0,2012-02-22
+73,"Work Hard, Play Hard",Wiz Khalifa,2012,"track:Work Hard, Play Hard artist:Wiz Khalifa",1ms5tNNdPouTtcD2oVF9Oz,63,2012-12-04
+73,"Work Hard, Play Hard",Wiz Khalifa,2012,"track:Work Hard, Play Hard artist:Wiz Khalifa",62csqLJbdvAKb38rYijV1R,46,2012-04-23
+73,"Work Hard, Play Hard",Wiz Khalifa,2012,"track:Work Hard, Play Hard artist:Wiz Khalifa",5qUZwxppCoVl7TdRs9O6lL,36,2012-12-04
+73,"Work Hard, Play Hard",Wiz Khalifa,2012,"track:Work Hard, Play Hard artist:Wiz Khalifa",1mCOgCL3TTnkhk7nwNz2MV,26,2012-12-04
+73,"Work Hard, Play Hard",Wiz Khalifa,2012,"track:Work Hard, Play Hard artist:Wiz Khalifa",57GW1huSj2wV52Gz9YplHp,1,2012-04-24
+74,Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,2012,track:Let Me Love You (Until You Learn to Love Yourself) artist:Ne-Yo,4kte3OcW800TPvOVgrLLj8,69,2012-01-01
+74,Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,2012,track:Let Me Love You (Until You Learn to Love Yourself) artist:Ne-Yo,1Ejsu5JglwIgrFW7Bt2GuL,48,2012-01-01
+74,Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,2012,track:Let Me Love You (Until You Learn to Love Yourself) artist:Ne-Yo,7qBNjRElxOnNlf1xAn5DIZ,23,2012-01-01
+74,Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,2012,track:Let Me Love You (Until You Learn to Love Yourself) artist:Ne-Yo,34T665jdl4CSbHZeYllgjA,15,2012-01-01
+74,Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,2012,track:Let Me Love You (Until You Learn to Love Yourself) artist:Ne-Yo,3bvKn6ooJ36mLiGJkHOClf,22,2020-10-06
+75,Pound the Alarm,Nicki Minaj,2012,track:Pound the Alarm artist:Nicki Minaj,0LohatbcUXRauoeMlR1jnS,62,2011-01-01
+75,Pound the Alarm,Nicki Minaj,2012,track:Pound the Alarm artist:Nicki Minaj,5kcE7pp02ezLZaUbbMv3Iq,66,2012-01-01
+75,Pound the Alarm,Nicki Minaj,2012,track:Pound the Alarm artist:Nicki Minaj,1ZE7udl5NLMXkcEz8xSoeg,44,2012-04-03
+75,Pound the Alarm,Nicki Minaj,2012,track:Pound the Alarm artist:Nicki Minaj,7nvcYOcku4V1XmopEmPAY5,42,2012-01-01
+75,Pound the Alarm,Nicki Minaj,2012,track:Pound the Alarm artist:Nicki Minaj,7lr0mH8Lt4B07ZIFtLpV9s,36,2012-01-01
+76,Come Over,Kenny Chesney,2012,track:Come Over artist:Kenny Chesney,6BCrbWBpb8d6KWmEqZ41tr,58,2012-06-19
+76,Come Over,Kenny Chesney,2012,track:Come Over artist:Kenny Chesney,4OxZWnYG6PRvqhA6yna0mP,17,2016-11-04
+77,Heart Attack,Trey Songz,2012,track:Heart Attack artist:Trey Songz,25CA8QVJQrh5R05UUCaODM,55,2012-08-17
+77,Heart Attack,Trey Songz,2012,track:Heart Attack artist:Trey Songz,1J36RjF8Mx8Yp2QWvFSPmv,43,2012-03-26
+77,Heart Attack,Trey Songz,2012,track:Heart Attack artist:Trey Songz,1p2u2c7jOrhz6z1TwQpJtK,33,2012-08-17
+78,Drank in My Cup,Kirko Bangz,2012,track:Drank in My Cup artist:Kirko Bangz,3m8CQnnfJJp4eQMWWl3zay,63,2011-09-16
+78,Drank in My Cup,Kirko Bangz,2012,track:Drank in My Cup artist:Kirko Bangz,7JmaiCwcoqQmFb063jHr6y,36,2012-05-25
+78,Drank in My Cup,Kirko Bangz,2012,track:Drank in My Cup artist:Kirko Bangz,1jBID2VtJls7gz3UrjEsNo,22,2012-01-19
+78,Drank in My Cup,Kirko Bangz,2012,track:Drank in My Cup artist:Kirko Bangz,0s4Vh4sMkSlHeQKBf8uDNg,21,2011-09-20
+78,Drank in My Cup,Kirko Bangz,2012,track:Drank in My Cup artist:Kirko Bangz,5G2PcYpAjOtiKKTFRe4RHP,18,2012-05-29
+79,Birthday Cake,Rihanna  ,2012,track:Birthday Cake artist:Rihanna  ,4EfN6bixdOOgoLYR5C4cWo,58,2011-11-19
+79,Birthday Cake,Rihanna  ,2012,track:Birthday Cake artist:Rihanna  ,7lUhtLCdqomO7jsZFkVcBW,47,2012-07-18
+79,Birthday Cake,Rihanna  ,2012,track:Birthday Cake artist:Rihanna  ,2holReRruSgsAE4xaYg55K,30,2011-11-18
+79,Birthday Cake,Rihanna  ,2012,track:Birthday Cake artist:Rihanna  ,1ChI5Y67h3wstHuHO87KSC,22,2012-07-18
+79,Birthday Cake,Rihanna  ,2012,track:Birthday Cake artist:Rihanna  ,5EWTtSRqu7vn5f3CfAA4LQ,19,2019-08-02
+80,So Good,B.o.B,2012,track:So Good artist:B.o.B,28GUjBGqZVcAV4PHSYzkj2,65,2012-04-27
+80,So Good,B.o.B,2012,track:So Good artist:B.o.B,3FjPRoxtACgDhIK3u60CsP,35,2012-04-30
+80,So Good,B.o.B,2012,track:So Good artist:B.o.B,65tnUurKGhIRAxqdabKACN,15,2018-04-25
+80,So Good,B.o.B,2012,track:So Good artist:B.o.B,4u4Vg9Zci2xgaVp48rodPq,24,2019-03-21
+80,So Good,B.o.B,2012,track:So Good artist:B.o.B,4AqLDAobfZ2o9RdmqRZg55,7,2020-08-21
+81,50 Ways to Say Goodbye,Train,2012,track:50 Ways to Say Goodbye artist:Train,2NniAhAtkRACaMeYt48xlD,67,2012-04-17
+81,50 Ways to Say Goodbye,Train,2012,track:50 Ways to Say Goodbye artist:Train,3P8LJqmPlgIxiV0by4Qspa,30,2018-11-09
+81,50 Ways to Say Goodbye,Train,2012,track:50 Ways to Say Goodbye artist:Train,1eKlnqPp8Jbty3pdpYbl56,1,2013-03-22
+82,Red Solo Cup,Toby Keith,2012,track:Red Solo Cup artist:Toby Keith,4YKAOXyqkKZ5gOZR0AmVMN,66,2011-10-21
+82,Red Solo Cup,Toby Keith,2012,track:Red Solo Cup artist:Toby Keith,1c4Pc7mwRZrCLxkRZbGs6l,32,2019-10-25
+82,Red Solo Cup,Toby Keith,2012,track:Red Solo Cup artist:Toby Keith,2yCbRPxitrniQ4QBBK75RW,18,2012
+83,Love You like a Love Song,Selena Gomez & the Scene,2012,track:Love You like a Love Song artist:Selena Gomez & the Scene,0laYHRpNTS6i8FXdupHkJ4,77,2011-01-01
+83,Love You like a Love Song,Selena Gomez & the Scene,2012,track:Love You like a Love Song artist:Selena Gomez & the Scene,6Azo8mqZglgzc8upeoOjK7,0,2021-05-10
+83,Love You like a Love Song,Selena Gomez & the Scene,2012,track:Love You like a Love Song artist:Selena Gomez & the Scene,7lAoovVf67mECK18oOpJbc,55,2014-11-24
+83,Love You like a Love Song,Selena Gomez & the Scene,2012,track:Love You like a Love Song artist:Selena Gomez & the Scene,2qCQ8uX4Za5QqlUSChKbi0,41,2011-01-01
+83,Love You like a Love Song,Selena Gomez & the Scene,2012,track:Love You like a Love Song artist:Selena Gomez & the Scene,4VIsrc2bekjqbOWZUcmFqQ,22,2011-01-01
+84,Turn Up the Music,Chris Brown,2012,track:Turn Up the Music artist:Chris Brown,1RMRkCn07y2xtBip9DzwmC,65,2012-07-03
+84,Turn Up the Music,Chris Brown,2012,track:Turn Up the Music artist:Chris Brown,0ogwsFfHXf3qrwfoddOsj9,15,2016-12-30
+84,Turn Up the Music,Chris Brown,2012,track:Turn Up the Music artist:Chris Brown,02xsSzG8ZkoA2RgdV0JCTw,0,2012-01-30
+85,Die Young,Kesha,2012,track:Die Young artist:Kesha,7EQGXaVSyEDsCWKmUcfpLk,78,2012-11-30
+85,Die Young,Kesha,2012,track:Die Young artist:Kesha,0jdG1iWjXoflspU3IExAwe,45,2012-11-30
+85,Die Young,Kesha,2012,track:Die Young artist:Kesha,36ZozCXSEcvsudnUNxeVsx,29,2012-11-30
+85,Die Young,Kesha,2012,track:Die Young artist:Kesha,3Q24nB1uSmsYgS6rjWW8Ac,32,2012-09-25
+85,Die Young,Kesha,2012,track:Die Young artist:Kesha,50WYpyvM6qXfqiUl0wvJU8,27,2014
+86,5 O Clock,T-Pain  ,2012,track:5 O Clock artist:T-Pain  ,42EMFjvFtOki8MA0JNZqVK,59,2011-12-06
+86,5 O Clock,T-Pain  ,2012,track:5 O Clock artist:T-Pain  ,55mmAPgKnlhsU6QgCHVutw,35,2014
+86,5 O Clock,T-Pain  ,2012,track:5 O Clock artist:T-Pain  ,0mOPkfWpQqF9dXnEjQ2GNB,33,2011-12-07
+86,5 O Clock,T-Pain  ,2012,track:5 O Clock artist:T-Pain  ,0xkCOxHdXlrVB2ho27h8tZ,27,2011-12-06
+86,5 O Clock,T-Pain  ,2012,track:5 O Clock artist:T-Pain  ,5EXvDnJVedC39IhnOr8RJE,8,2014
+87,A Thousand Years,Christina Perri,2012,track:A Thousand Years artist:Christina Perri,6lanRgr6wXibZr8KgzXxBl,80,2011-10-18
+87,A Thousand Years,Christina Perri,2012,track:A Thousand Years artist:Christina Perri,1QUpqu8865jfasDr8M3IKN,58,2011-11-04
+87,A Thousand Years,Christina Perri,2012,track:A Thousand Years artist:Christina Perri,7hn8Q8WAxFdL4aZ159GI7C,64,2012-11-09
+87,A Thousand Years,Christina Perri,2012,track:A Thousand Years artist:Christina Perri,028XHgG0mzo6iJH3YiFQd5,28,2017-05-05
+87,A Thousand Years,Christina Perri,2012,track:A Thousand Years artist:Christina Perri,1Vv1MiSEgBAd7McyzJxoAB,26,2021-02-10
+88,Take a Little Ride,Jason Aldean,2012,track:Take a Little Ride artist:Jason Aldean,2o5mwv7hvas1jdUg14Nihv,60,2012-10-16
+89,You da One,Rihanna,2012,track:You da One artist:Rihanna,3Yt9lRtS5V4nbJnwcgFgvC,66,2011-11-19
+89,You da One,Rihanna,2012,track:You da One artist:Rihanna,2tSFTvHVaLxkqXHaofPKQk,55,2012-07-18
+89,You da One,Rihanna,2012,track:You da One artist:Rihanna,51PJ2iCdBMEfxtVk3iy4p1,37,2011-11-18
+89,You da One,Rihanna,2012,track:You da One artist:Rihanna,2lx2uATZ8VTb5257DYXXXD,25,2012-07-18
+89,You da One,Rihanna,2012,track:You da One artist:Rihanna,5rgXQkviG52oqJ2HvbEwli,28,2011-11-14
+90,We Run the Night,Havana Brown  ,2012,track:We Run the Night artist:Havana Brown  ,0mtPNQl5vePVwiI9Vykp7L,55,2011-01-01
+90,We Run the Night,Havana Brown  ,2012,track:We Run the Night artist:Havana Brown  ,33tORbMH4bNhiDVKUGbqEF,32,2012-01-01
+90,We Run the Night,Havana Brown  ,2012,track:We Run the Night artist:Havana Brown  ,6eaWTilqjtc5fC64vh13Lm,20,2012-01-01
+90,We Run the Night,Havana Brown  ,2012,track:We Run the Night artist:Havana Brown  ,7sYnvBtz5jDrjXjbrnhXrn,8,2012-01-01
+90,We Run the Night,Havana Brown  ,2012,track:We Run the Night artist:Havana Brown  ,23QrpOmEYXRbAIm7jwt9Eb,26,2018-05-25
+91,It s Time,Imagine Dragons,2012,track:It s Time artist:Imagine Dragons,6BtmXhTJMM9sBTHeYYASGz,67,2012-09-04
+91,It s Time,Imagine Dragons,2012,track:It s Time artist:Imagine Dragons,7pUYFGnZwLa7I3UmDypJGy,57,2012-09-04
+91,It s Time,Imagine Dragons,2012,track:It s Time artist:Imagine Dragons,6jbQUhEx3SX4utDzTBMLrR,35,2020-03-20
+91,It s Time,Imagine Dragons,2012,track:It s Time artist:Imagine Dragons,42M35GsUidMAgXfH1mPUa3,37,2013-01-01
+91,It s Time,Imagine Dragons,2012,track:It s Time artist:Imagine Dragons,6vRPkStwQmUrs13jpDG6Sd,25,2012-01-01
+92,Cashin  Out,Cash Out,2012,track:Cashin  Out artist:Cash Out,4ml7bnBLi2BPGZpWnlXFL6,0,2019-09-23
+92,Cashin  Out,Cash Out,2012,track:Cashin  Out artist:Cash Out,1TCp4cWvfPwu4hk4nKHnnK,0,2020-03-24
+92,Cashin  Out,Cash Out,2012,track:Cashin  Out artist:Cash Out,2Ig41dMfbex62qQ4BpvUf7,0,2020-01-08
+92,Cashin  Out,Cash Out,2012,track:Cashin  Out artist:Cash Out,4luskHapPLwthzGhau8d44,0,2020-04-22
+93,I Don t Want This Night to End,Luke Bryan,2012,track:I Don t Want This Night to End artist:Luke Bryan,0cV4xwUA4ue2deqq4CZFko,66,2011-08-09
+93,I Don t Want This Night to End,Luke Bryan,2012,track:I Don t Want This Night to End artist:Luke Bryan,1hsvGdqzYUSb2s19xKp1wX,55,2011-01-01
+93,I Don t Want This Night to End,Luke Bryan,2012,track:I Don t Want This Night to End artist:Luke Bryan,7c1KTn1z8Gw8ouYdcF4qaG,39,2011-01-01
+93,I Don t Want This Night to End,Luke Bryan,2012,track:I Don t Want This Night to End artist:Luke Bryan,65zbUHNlFQJy4loajs1dys,14,2018-10-26
+93,I Don t Want This Night to End,Luke Bryan,2012,track:I Don t Want This Night to End artist:Luke Bryan,0KnxaOycZxIF2gFWc7Kdip,15,2015-07-31
+94,Diamonds,Rihanna,2012,track:Diamonds artist:Rihanna,1z9kQ14XBSN0r2v6fx4IdG,67,2012-01-01
+94,Diamonds,Rihanna,2012,track:Diamonds artist:Rihanna,7Kt59L2ZZGtOnIhvMwzG6f,57,2012-12-11
+94,Diamonds,Rihanna,2012,track:Diamonds artist:Rihanna,65YsalQBmQCzIPaay72CzQ,57,2012-01-01
+94,Diamonds,Rihanna,2012,track:Diamonds artist:Rihanna,5pDUMdIiW0rNLzFryqpC9j,56,2012-12-11
+94,Diamonds,Rihanna,2012,track:Diamonds artist:Rihanna,4JQSMg83F8qYwSBt5xOXsQ,59,2012-12-10
+95,Hard to Love,Lee Brice,2012,track:Hard to Love artist:Lee Brice,6E9V9TRlVOLjenGjHemzEH,69,2012-04-24
+95,Hard to Love,Lee Brice,2012,track:Hard to Love artist:Lee Brice,0XLT6mvfZRAqydb68mDqN9,37,2012-10-30
+96,Somethin   Bout a Truck,Kip Moore,2012,track:Somethin   Bout a Truck artist:Kip Moore,6Ymvlzom4TQeoKqAWsZRD8,69,2012-01-01
+96,Somethin   Bout a Truck,Kip Moore,2012,track:Somethin   Bout a Truck artist:Kip Moore,27uWdBrHEye8UR3jTXGjYK,27,2015-07-31
+96,Somethin   Bout a Truck,Kip Moore,2012,track:Somethin   Bout a Truck artist:Kip Moore,0K43Q1daaUGVngJg6CoEGS,28,2015-02-16
+96,Somethin   Bout a Truck,Kip Moore,2012,track:Somethin   Bout a Truck artist:Kip Moore,4XDdmpWzb2g4ePprSm4nzz,14,2019-10-04
+96,Somethin   Bout a Truck,Kip Moore,2012,track:Somethin   Bout a Truck artist:Kip Moore,1sI8au6BjyiFxK8Saq24Yz,12,2019-12-20
+97,Adorn,Miguel,2012,track:Adorn artist:Miguel,25cUhiAod71TIQSNicOaW3,66,2012-09-28
+97,Adorn,Miguel,2012,track:Adorn artist:Miguel,3trS6e40JCVUOpPVt5OdHj,50,2012-10-02
+97,Adorn,Miguel,2012,track:Adorn artist:Miguel,0qzVwZGdK1G2NBwFIAebhN,33,2021-03-24
+97,Adorn,Miguel,2012,track:Adorn artist:Miguel,3w9PVE3uF2fnOx8atB690c,31,2013-07-02
+97,Adorn,Miguel,2012,track:Adorn artist:Miguel,73VaZiWQOOs0GkU1QuF2d9,23,2018-02-02
+98,Fly Over States,Jason Aldean,2012,track:Fly Over States artist:Jason Aldean,17X2tSzibD9n9QRjdExcWT,61,2010-11-02
+99,Even If It Breaks Your Heart,Eli Young Band,2012,track:Even If It Breaks Your Heart artist:Eli Young Band,0Nu9WA8kEbBWEsay2s8Q0U,67,2011-01-01
+99,Even If It Breaks Your Heart,Eli Young Band,2012,track:Even If It Breaks Your Heart artist:Eli Young Band,1obv6rfYRbDu4ClbfkW8Ck,29,2019-03-29
+99,Even If It Breaks Your Heart,Eli Young Band,2012,track:Even If It Breaks Your Heart artist:Eli Young Band,5lqyQ6a3MKZZEsgVaJlsD6,27,2011-01-01
+99,Even If It Breaks Your Heart,Eli Young Band,2012,track:Even If It Breaks Your Heart artist:Eli Young Band,0XmQygCOCSFnxFEaqyu66q,18,2011-01-01
+99,Even If It Breaks Your Heart,Eli Young Band,2012,track:Even If It Breaks Your Heart artist:Eli Young Band,4uaT0voRvID1C3T13Ngmiu,9,2019-03-29
+100,Burn It Down,Linkin Park,2012,track:Burn It Down artist:Linkin Park,7oVEtyuv9NBmnytsCIsY5I,73,2012-06-20
+100,Burn It Down,Linkin Park,2012,track:Burn It Down artist:Linkin Park,0zKs47fghFBtrEpxyUR1Wz,45,2017-12-15
+100,Burn It Down,Linkin Park,2012,track:Burn It Down artist:Linkin Park,1buWPBwvTd6VnIdBV48yQM,36,2013-10-25
+100,Burn It Down,Linkin Park,2012,track:Burn It Down artist:Linkin Park,3kZGc67pfba76tkIGg2brD,30,2012-06-25
+100,Burn It Down,Linkin Park,2012,track:Burn It Down artist:Linkin Park,3Sx7miLHvMXU2DZ4iiuhy7,29,2012-06-25

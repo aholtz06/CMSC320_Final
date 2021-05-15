@@ -1,0 +1,422 @@
+Rank,Song,Artist(s),Year,Query,ID,Popularity,Release Date
+1,Call Me,Blondie,1980,track:Call Me artist:Blondie,7HKxTNVlkHsfMLhigmhC0I,66,2004-01-01
+1,Call Me,Blondie,1980,track:Call Me artist:Blondie,0vLwL4xuJ3s7SeaCdvMqkY,60,1981-10-31
+1,Call Me,Blondie,1980,track:Call Me artist:Blondie,6wzbWsPbfIR0nBjSqdbV7m,39,1980-11-01
+1,Call Me,Blondie,1980,track:Call Me artist:Blondie,0FkY5kxtIIwqzXdsYEngUf,32,2002-01-01
+1,Call Me,Blondie,1980,track:Call Me artist:Blondie,2Rp5y2FVCyY5L57iQHcx50,32,2006-01-01
+3,Magic,Olivia Newton-John,1980,track:Magic artist:Olivia Newton-John,1H5A1GNZUv4eUf1t9RFdid,44,2002-02-05
+3,Magic,Olivia Newton-John,1980,track:Magic artist:Olivia Newton-John,56BSwBKWHYldQOgYLHiehs,40,1980-01-01
+3,Magic,Olivia Newton-John,1980,track:Magic artist:Olivia Newton-John,14d4L1iSXXkgO1jJ8zu9M7,32,2008-01-01
+3,Magic,Olivia Newton-John,1980,track:Magic artist:Olivia Newton-John,5Zpjf07lpZxADR0vWZnTtL,28,2015-03-03
+4,Rock with You,Michael Jackson,1980,track:Rock with You artist:Michael Jackson,7oOOI85fVQvVnK5ynNMdW7,74,1979-08-10
+4,Rock with You,Michael Jackson,1980,track:Rock with You artist:Michael Jackson,5yxIenY5kSLlgTr3XGYw9p,56,1995-06-16
+4,Rock with You,Michael Jackson,1980,track:Rock with You artist:Michael Jackson,36eWbpGbM3DxpErvZImHgD,50,2005-07-19
+4,Rock with You,Michael Jackson,1980,track:Rock with You artist:Michael Jackson,0mckKOsMlBypUfD6gzdNhY,40,2003-11-18
+4,Rock with You,Michael Jackson,1980,track:Rock with You artist:Michael Jackson,0C5fyTHHj75kMc1VijJzMA,6,2009-09-08
+5,Do That to Me One More Time,Captain & Tennille,1980,track:Do That to Me One More Time artist:Captain & Tennille,0m4jVVZrsv0bLkAr1uM6UG,66,1979-01-01
+5,Do That to Me One More Time,Captain & Tennille,1980,track:Do That to Me One More Time artist:Captain & Tennille,0rxnEy8c8jsfvdBTEeCU1c,0,2021-05-07
+5,Do That to Me One More Time,Captain & Tennille,1980,track:Do That to Me One More Time artist:Captain & Tennille,2gFnSurc2aUja58m4Jq41f,35,2001-01-01
+5,Do That to Me One More Time,Captain & Tennille,1980,track:Do That to Me One More Time artist:Captain & Tennille,4OqbIfA4l8zGnGBnjBBlFg,23,2005-01-01
+5,Do That to Me One More Time,Captain & Tennille,1980,track:Do That to Me One More Time artist:Captain & Tennille,5vyNCVCLgr4rdKd7rutDfM,11,2007-01-01
+6,Crazy Little Thing Called Love,Queen,1980,track:Crazy Little Thing Called Love artist:Queen,35ItUJlMtjOQW3SSiTCrrw,67,1980-06-27
+6,Crazy Little Thing Called Love,Queen,1980,track:Crazy Little Thing Called Love artist:Queen,0xqaviScnf68cFZf0caB4V,44,2018-10-19
+6,Crazy Little Thing Called Love,Queen,1980,track:Crazy Little Thing Called Love artist:Queen,61cJFE80UmxuAr47TZ1hik,43,1981-10-26
+6,Crazy Little Thing Called Love,Queen,1980,track:Crazy Little Thing Called Love artist:Queen,2NpKgRCZfFb8fVmvk16iMx,39,1980-06-27
+6,Crazy Little Thing Called Love,Queen,1980,track:Crazy Little Thing Called Love artist:Queen,6LRIeceMebqu7TmyyXCRTA,37,2011-01-01
+7,Coming Up,Paul McCartney,1980,track:Coming Up artist:Paul McCartney,4Ku6X72Q815qNd7ChuiDdD,49,1980-05-16
+7,Coming Up,Paul McCartney,1980,track:Coming Up artist:Paul McCartney,3HCQPIYsCT6JBf79KdYtA4,30,1993-01-01
+7,Coming Up,Paul McCartney,1980,track:Coming Up artist:Paul McCartney,1gQ2I5ZB1dQlVmIBPDhdHv,25,1987-11-02
+7,Coming Up,Paul McCartney,1980,track:Coming Up artist:Paul McCartney,0Ix1999mTT1A3TF6Bywgv5,28,1980-05-16
+7,Coming Up,Paul McCartney,1980,track:Coming Up artist:Paul McCartney,1SGY7icr8DsQHb1Yo62PZO,28,1980-05-16
+8,Funkytown,Lipps Inc,1980,track:Funkytown artist:Lipps Inc,0KQh7AuuZvpTKWhcJa8Pbr,62,1996-04-04
+8,Funkytown,Lipps Inc,1980,track:Funkytown artist:Lipps Inc,3JU7GqkbT5S51rgCbYJ20t,66,2004-05-19
+8,Funkytown,Lipps Inc,1980,track:Funkytown artist:Lipps Inc,5fbuzpBKuAiRnprx9wpIi8,1,2021-05-07
+8,Funkytown,Lipps Inc,1980,track:Funkytown artist:Lipps Inc,24Dls5Kr9vkYQbXmsHAQys,48,2021-04-30
+8,Funkytown,Lipps Inc,1980,track:Funkytown artist:Lipps Inc,5dIKF6uVJ206hj0pO0gg0I,50,2003-01-01
+9,It s Still Rock and Roll to Me,Billy Joel,1980,track:It s Still Rock and Roll to Me artist:Billy Joel,64UioB4Nmwgn2f4cbIpAkl,67,1980-03-12
+9,It s Still Rock and Roll to Me,Billy Joel,1980,track:It s Still Rock and Roll to Me artist:Billy Joel,7LbOQt7isddrw3Bs3Czl7E,57,2001-10-02
+9,It s Still Rock and Roll to Me,Billy Joel,1980,track:It s Still Rock and Roll to Me artist:Billy Joel,5yKtR2R8FsoZ64HKSpwaQr,31,2010
+9,It s Still Rock and Roll to Me,Billy Joel,1980,track:It s Still Rock and Roll to Me artist:Billy Joel,7l7Z8o9JeetyPgaDFgEiPz,30,1985-06-29
+9,It s Still Rock and Roll to Me,Billy Joel,1980,track:It s Still Rock and Roll to Me artist:Billy Joel,6y1MiuB3zS74YHMlvZxwdY,24,2006-06-13
+10,The Rose,Bette Midler,1980,track:The Rose artist:Bette Midler,562JrM9b7jiu8LgzV62x3o,68,1979
+10,The Rose,Bette Midler,1980,track:The Rose artist:Bette Midler,5iUzEn2QzBW0KEWNQO1KQC,45,2008-01-09
+10,The Rose,Bette Midler,1980,track:The Rose artist:Bette Midler,1Yp8dnd7cF56E4sojAquSx,30,1993
+10,The Rose,Bette Midler,1980,track:The Rose artist:Bette Midler,0d3qQLw7KJRGu1ikIuu26A,23,2015-12-04
+10,The Rose,Bette Midler,1980,track:The Rose artist:Bette Midler,35JdH47CZudp4AuXZnrS31,21,1995-06-27
+11,Escape (The Piña Colada Song),Rupert Holmes,1980,track:Escape (The Piña Colada Song) artist:Rupert Holmes,5IMtdHjJ1OtkxbGe4zfUxQ,74,1979-01-01
+11,Escape (The Piña Colada Song),Rupert Holmes,1980,track:Escape (The Piña Colada Song) artist:Rupert Holmes,2OodgrQjx6Ggn3yRA2Nvei,31,2007-01-01
+11,Escape (The Piña Colada Song),Rupert Holmes,1980,track:Escape (The Piña Colada Song) artist:Rupert Holmes,1REZCqaScFvlosol2KRWXK,32,2019-06-14
+11,Escape (The Piña Colada Song),Rupert Holmes,1980,track:Escape (The Piña Colada Song) artist:Rupert Holmes,15O2EtC4FWyAD8hWnEocir,23,2017-10-20
+11,Escape (The Piña Colada Song),Rupert Holmes,1980,track:Escape (The Piña Colada Song) artist:Rupert Holmes,2E8mUhxhdpOMf0t9uXPaC1,17,2019-08-02
+12,Cars,Gary Numan,1980,track:Cars artist:Gary Numan,4QQEzkxcONBthDLfzqIh9S,63,1979-09-07
+12,Cars,Gary Numan,1980,track:Cars artist:Gary Numan,4zejia18gcGShkkzdDvhWE,19,2009-09-21
+12,Cars,Gary Numan,1980,track:Cars artist:Gary Numan,03na9sWKGXIudg6HLdJVyO,21,1997-03-25
+12,Cars,Gary Numan,1980,track:Cars artist:Gary Numan,4CLhlghUrGFm8V2TZQMRlR,19,2016-02-19
+12,Cars,Gary Numan,1980,track:Cars artist:Gary Numan,0NhRaNgBIhU06G9aUji7kf,14,2006-03-07
+13,Cruisin,Smokey Robinson,1980,track:Cruisin artist:Smokey Robinson,2gliw3L0oa4w8LqaHploje,63,1979-05-22
+13,Cruisin,Smokey Robinson,1980,track:Cruisin artist:Smokey Robinson,3rpp2A5bFoZETJn3MHigBh,42,2004-01-01
+13,Cruisin,Smokey Robinson,1980,track:Cruisin artist:Smokey Robinson,1Bh99nlusyJjGkhlrnzbkI,40,2000-09-26
+13,Cruisin,Smokey Robinson,1980,track:Cruisin artist:Smokey Robinson,3HaYLn3KGQ6PF7O3TbhNat,22,1999-01-01
+13,Cruisin,Smokey Robinson,1980,track:Cruisin artist:Smokey Robinson,2OVDzw9LV2aaZ5AOBYt73M,15,1997-03-25
+14,"Working My Way Back to You  /Forgive Me, Girl",The Spinners,1980,"track:Working My Way Back to You  /Forgive Me, Girl artist:The Spinners",1wouF9mtyiwZDYiq5YElaq,39,2007-10-30
+14,"Working My Way Back to You  /Forgive Me, Girl",The Spinners,1980,"track:Working My Way Back to You  /Forgive Me, Girl artist:The Spinners",5OU4PqYhwypDsiviprGhSy,43,1979
+14,"Working My Way Back to You  /Forgive Me, Girl",The Spinners,1980,"track:Working My Way Back to You  /Forgive Me, Girl artist:The Spinners",0TS3SWC1e57uJtN7n6m4yl,22,2002
+14,"Working My Way Back to You  /Forgive Me, Girl",The Spinners,1980,"track:Working My Way Back to You  /Forgive Me, Girl artist:The Spinners",17SzpqSYjfUgpFQAUSln96,9,2018-12-28
+14,"Working My Way Back to You  /Forgive Me, Girl",The Spinners,1980,"track:Working My Way Back to You  /Forgive Me, Girl artist:The Spinners",4VptbvRWDyewpq4PRh52Ol,9,2007-10-30
+15,Lost in Love,Air Supply,1980,track:Lost in Love artist:Air Supply,6MfVSA5iKBPHzo6RGARjL0,60,1980-02-25
+15,Lost in Love,Air Supply,1980,track:Lost in Love artist:Air Supply,6MhK1gPrgtgRedEjSUz18I,56,2003-05-29
+15,Lost in Love,Air Supply,1980,track:Lost in Love artist:Air Supply,5xUnexOUxzzuBzn1bylSzi,54,2018-02-02
+15,Lost in Love,Air Supply,1980,track:Lost in Love artist:Air Supply,4IduKUxNfcLblWVdT7NlPC,42,2014-06-24
+15,Lost in Love,Air Supply,1980,track:Lost in Love artist:Air Supply,6Dd2AwXNtNInSEGOdjrMjb,29,1999-08-23
+16,Little Jeannie,Elton John,1980,track:Little Jeannie artist:Elton John,19Kf8FxBJ5a1Bb8uKCrIIe,54,1980-05-13
+16,Little Jeannie,Elton John,1980,track:Little Jeannie artist:Elton John,7pgAdesi3gGZO8lAyzOTvu,42,1980-05-13
+16,Little Jeannie,Elton John,1980,track:Little Jeannie artist:Elton John,5gJMFiVp0Mlfr2zbLNX3AK,36,2017-11-10
+16,Little Jeannie,Elton John,1980,track:Little Jeannie artist:Elton John,678coEeU0K3rn9dYld7D5l,22,1990-11-08
+16,Little Jeannie,Elton John,1980,track:Little Jeannie artist:Elton John,78vLb8uib731YB3DE7CcBn,14,2018-04-20
+17,Ride Like the Wind,Christopher Cross,1980,track:Ride Like the Wind artist:Christopher Cross,7gUMShP1l20tC0xf17Zplk,66,1979
+17,Ride Like the Wind,Christopher Cross,1980,track:Ride Like the Wind artist:Christopher Cross,62leJoS03BiNzdoQmb9ByN,48,2005-04-19
+17,Ride Like the Wind,Christopher Cross,1980,track:Ride Like the Wind artist:Christopher Cross,7JzJuSCIP43KIyqWurGooS,27,2017-06-23
+17,Ride Like the Wind,Christopher Cross,1980,track:Ride Like the Wind artist:Christopher Cross,41v09Lrld49q4cy6MakTDz,22,2020-08-07
+17,Ride Like the Wind,Christopher Cross,1980,track:Ride Like the Wind artist:Christopher Cross,4QeMDAJhY8KIuNBtoTSTE5,21,2019-12-13
+18,Upside Down,Diana Ross,1980,track:Upside Down artist:Diana Ross,3pbtBomO4Zt5gGiqsYeiBH,58,1980-05-22
+18,Upside Down,Diana Ross,1980,track:Upside Down artist:Diana Ross,0vEdee4EZveZa8Jf2ETm2D,0,2021-05-11
+18,Upside Down,Diana Ross,1980,track:Upside Down artist:Diana Ross,2wEjqCh1c1dRtF9XrgfnUi,1,2021-05-07
+18,Upside Down,Diana Ross,1980,track:Upside Down artist:Diana Ross,1DjLQFQRBsm9D8aCO4FqR2,52,2018-08-10
+18,Upside Down,Diana Ross,1980,track:Upside Down artist:Diana Ross,76as3dkOkHGMAvwmaKXPMD,30,2000-01-01
+22,Shining Star,The Manhattans,1980,track:Shining Star artist:The Manhattans,0np4arBSp4ZBOfXGZhXQ4I,53,1980
+22,Shining Star,The Manhattans,1980,track:Shining Star artist:The Manhattans,4VO88hvgij1NzgmGpV1MPV,45,1995-10-30
+22,Shining Star,The Manhattans,1980,track:Shining Star artist:The Manhattans,4V6MLLNhOQfYEzEcNcnXFU,30,2001-08-08
+22,Shining Star,The Manhattans,1980,track:Shining Star artist:The Manhattans,1sCIUw34SKhOxgh9h5RxaN,29,2000-01-11
+22,Shining Star,The Manhattans,1980,track:Shining Star artist:The Manhattans,3rbuoed2rDFJdG3SoKhdxN,20,1973
+24,"Yes, I m Ready",Teri DeSario  &  KC,1980,"track:Yes, I m Ready artist:Teri DeSario  &  KC",71k4FgJ4GuBq35Zre9BCdc,33,1996-04-04
+25,Sexy Eyes,Dr. Hook,1980,track:Sexy Eyes artist:Dr. Hook,6uxGAruWvj6O2hVBBTNITa,52,2009-01-01
+25,Sexy Eyes,Dr. Hook,1980,track:Sexy Eyes artist:Dr. Hook,3i5lBv18B3RBnzjdxh9oFR,44,2007-01-01
+25,Sexy Eyes,Dr. Hook,1980,track:Sexy Eyes artist:Dr. Hook,2OpPCaqCbFFLXGerrllGo3,13,2020-08-07
+25,Sexy Eyes,Dr. Hook,1980,track:Sexy Eyes artist:Dr. Hook,4g84f9pzYpdCpKl9wHTfV3,16,2018-04-20
+25,Sexy Eyes,Dr. Hook,1980,track:Sexy Eyes artist:Dr. Hook,7gw6Ha6xOjze3UkVy1OQ7u,11,1999
+26,Steal Away,Robbie Dupree,1980,track:Steal Away artist:Robbie Dupree,7v5rsCN3LhX9XaIlWyTdx3,60,1980-12-01
+26,Steal Away,Robbie Dupree,1980,track:Steal Away artist:Robbie Dupree,1fJBpVwVWGHonE3u7k0TU0,28,2018-10-12
+26,Steal Away,Robbie Dupree,1980,track:Steal Away artist:Robbie Dupree,7eVFW2EsXwfDBDo6vLv65k,14,2013-05-01
+26,Steal Away,Robbie Dupree,1980,track:Steal Away artist:Robbie Dupree,0dBP0Rc1IgZtorPBuCanVe,6,2017-12-01
+26,Steal Away,Robbie Dupree,1980,track:Steal Away artist:Robbie Dupree,24KDKXD4IDFthCDZrgdmkh,6,2018-12-14
+27,Biggest Part of Me,Ambrosia,1980,track:Biggest Part of Me artist:Ambrosia,6JHXiRD1QjMK1N6AQEnL04,62,1980-03-26
+27,Biggest Part of Me,Ambrosia,1980,track:Biggest Part of Me artist:Ambrosia,5APylRvEGGAegrESwuG3A0,46,2002-06-18
+27,Biggest Part of Me,Ambrosia,1980,track:Biggest Part of Me artist:Ambrosia,0CWD6Vq8az9trL6L5IyrIj,41,2005-04-19
+27,Biggest Part of Me,Ambrosia,1980,track:Biggest Part of Me artist:Ambrosia,5diNJotfL0t5gKqWraeUcu,21,2005-08-09
+27,Biggest Part of Me,Ambrosia,1980,track:Biggest Part of Me artist:Ambrosia,3g79r7hIQA9iXa3cRGUi7a,17,2013-05-01
+28,This Is It,Kenny Loggins,1980,track:This Is It artist:Kenny Loggins,0YO8KsprTrEUEvJevpI7Na,60,1979
+28,This Is It,Kenny Loggins,1980,track:This Is It artist:Kenny Loggins,7MCS6iTSxj7XhhlXpNSCv7,25,2014-07-17
+28,This Is It,Kenny Loggins,1980,track:This Is It artist:Kenny Loggins,66BJ5N1QWWP7zIbREIXfuF,25,1997-03-25
+28,This Is It,Kenny Loggins,1980,track:This Is It artist:Kenny Loggins,41nhQDti29ElV8LUW8z7uW,22,1993-07-20
+28,This Is It,Kenny Loggins,1980,track:This Is It artist:Kenny Loggins,2lke5xBPvUFdH4QTfHTXK9,10,2019-08-02
+29,Cupid  /I ve Loved You for a Long Time,The Spinners,1980,track:Cupid  /I ve Loved You for a Long Time artist:The Spinners,6zKFVGEDGLtf63Yxpz8kzJ,36,1993
+29,Cupid  /I ve Loved You for a Long Time,The Spinners,1980,track:Cupid  /I ve Loved You for a Long Time artist:The Spinners,2TOaW7Hwpt4AYeQUFQ5sJp,24,1980
+29,Cupid  /I ve Loved You for a Long Time,The Spinners,1980,track:Cupid  /I ve Loved You for a Long Time artist:The Spinners,5z3LawThM0b0jiH5RNuDml,18,2007-10-30
+29,Cupid  /I ve Loved You for a Long Time,The Spinners,1980,track:Cupid  /I ve Loved You for a Long Time artist:The Spinners,5U0dlevVReSHtIcYytZlvL,17,2002
+29,Cupid  /I ve Loved You for a Long Time,The Spinners,1980,track:Cupid  /I ve Loved You for a Long Time artist:The Spinners,39v4Qt76NfzcmMkLiP2dwN,6,2018-05-05
+30,Let s Get Serious,Jermaine Jackson,1980,track:Let s Get Serious artist:Jermaine Jackson,416LkbWckopGVSUoJKgOiR,31,1993-01-15
+30,Let s Get Serious,Jermaine Jackson,1980,track:Let s Get Serious artist:Jermaine Jackson,3vIIAuHISijzVhoI1e0lM0,17,1991-01-01
+30,Let s Get Serious,Jermaine Jackson,1980,track:Let s Get Serious artist:Jermaine Jackson,3UB2w0dNDycNWK1NfkC8aM,21,1980-01-01
+30,Let s Get Serious,Jermaine Jackson,1980,track:Let s Get Serious artist:Jermaine Jackson,69e7ecz6uoMNmL0yZGz5W5,11,2019-05-24
+30,Let s Get Serious,Jermaine Jackson,1980,track:Let s Get Serious artist:Jermaine Jackson,4j36aYXGXhp8ADZ7guRiXE,11,2018-04-20
+32,Sailing,Christopher Cross,1980,track:Sailing artist:Christopher Cross,6Hu6dzwlvoyg3zBUC8k4BK,69,1979
+32,Sailing,Christopher Cross,1980,track:Sailing artist:Christopher Cross,22bMQPjn2JIbyIypTLr4fC,1,2021-05-07
+32,Sailing,Christopher Cross,1980,track:Sailing artist:Christopher Cross,5Ii750a5kcwanAaBfrOlZM,52,2005-04-19
+32,Sailing,Christopher Cross,1980,track:Sailing artist:Christopher Cross,2w24zPthGtJOB5E0Nl0MIm,25,2013-03-08
+32,Sailing,Christopher Cross,1980,track:Sailing artist:Christopher Cross,3hoNcBH9TL37iFftk4fe9U,12,2005-06-21
+33,Longer,Dan Fogelberg,1980,track:Longer artist:Dan Fogelberg,56ilrbKJF2bph5W6eZaM5E,62,1979
+33,Longer,Dan Fogelberg,1980,track:Longer artist:Dan Fogelberg,6OKrPnWUC8FccKiLVpxQWQ,49,1997
+33,Longer,Dan Fogelberg,1980,track:Longer artist:Dan Fogelberg,4VmQC6bJ4UFa0rUyjY9rtj,27,1979
+33,Longer,Dan Fogelberg,1980,track:Longer artist:Dan Fogelberg,03bUhMghwkl5sVb6dgIPg1,24,2003
+33,Longer,Dan Fogelberg,1980,track:Longer artist:Dan Fogelberg,0Wh0xjVxLNnWBFq2NZFdHX,28,2014-04-04
+34,Coward of the County,Kenny Rogers,1980,track:Coward of the County artist:Kenny Rogers,0JkIre0YxNmKGMU5V7ZiDx,62,1979-10-10
+34,Coward of the County,Kenny Rogers,1980,track:Coward of the County artist:Kenny Rogers,16WtiQMxCjXlQc0hlbJbIQ,52,2008-01-01
+34,Coward of the County,Kenny Rogers,1980,track:Coward of the County artist:Kenny Rogers,6w4qRwQf8J9tuprfWVtc4H,44,1993-01-01
+34,Coward of the County,Kenny Rogers,1980,track:Coward of the County artist:Kenny Rogers,1x8eJvgz7mZVvtBI4NIUzQ,31,2018-09-21
+34,Coward of the County,Kenny Rogers,1980,track:Coward of the County artist:Kenny Rogers,4IJ6XVTEkIPK4wkKC6JJ2m,10,2005-08-08
+35,Ladies  Night,Kool & the Gang,1980,track:Ladies  Night artist:Kool & the Gang,5mXELvil737DPiUKMlC5XZ,51,1994-01-01
+35,Ladies  Night,Kool & the Gang,1980,track:Ladies  Night artist:Kool & the Gang,1i2ZI3tXuJUEjCY6zF3G9w,47,2007-10-29
+35,Ladies  Night,Kool & the Gang,1980,track:Ladies  Night artist:Kool & the Gang,2uKJxjqcFu2Pr2CEsGGYJa,51,1979-05-13
+35,Ladies  Night,Kool & the Gang,1980,track:Ladies  Night artist:Kool & the Gang,2GUESfQxaSuauM5fwiRkXb,56,1994-06-07
+35,Ladies  Night,Kool & the Gang,1980,track:Ladies  Night artist:Kool & the Gang,6qh08qn3QIYmg04FLC4tNA,43,2005-01-01
+36,Too Hot,Kool & the Gang,1980,track:Too Hot artist:Kool & the Gang,1S3RMWe23mYX6h3fevsgDq,53,1999-03-01
+36,Too Hot,Kool & the Gang,1980,track:Too Hot artist:Kool & the Gang,0jNTJSaktLVy8iAi7KY2zB,40,1979-05-13
+36,Too Hot,Kool & the Gang,1980,track:Too Hot artist:Kool & the Gang,6Y8Yz6WW4iS5U6YVEH2ATR,21,2011-03-30
+36,Too Hot,Kool & the Gang,1980,track:Too Hot artist:Kool & the Gang,1OeLytrIIh6tl4frEOkN2d,30,2016-09-27
+36,Too Hot,Kool & the Gang,1980,track:Too Hot artist:Kool & the Gang,5a6fiog7RKn4HFXqKqeJZ3,16,2007-10-29
+37,Take Your Time (Do It Right),The SOS Band,1980,track:Take Your Time (Do It Right) artist:The SOS Band,4ctf7oL8fFRPvBstJCTYWu,55,2019-05-24
+37,Take Your Time (Do It Right),The SOS Band,1980,track:Take Your Time (Do It Right) artist:The SOS Band,5SdGr4xQQ3HMcMRROPBqYi,0,2021-05-07
+37,Take Your Time (Do It Right),The SOS Band,1980,track:Take Your Time (Do It Right) artist:The SOS Band,1vL2jApEjTYUtGaBAjm2nR,30,1998-02-28
+37,Take Your Time (Do It Right),The SOS Band,1980,track:Take Your Time (Do It Right) artist:The SOS Band,1u2IBAkbXPEA0YVfvgMIxs,25,2019-08-16
+37,Take Your Time (Do It Right),The SOS Band,1980,track:Take Your Time (Do It Right) artist:The SOS Band,0UxqRjOwE4HuklpbDtJRha,12,2021-02-01
+39,More Love,Kim Carnes,1980,track:More Love artist:Kim Carnes,4SRAf6doXKEuMJxrHB8ILC,41,1993-01-01
+39,More Love,Kim Carnes,1980,track:More Love artist:Kim Carnes,3joj4sGuct6qywsTExOh7g,10,2018-04-20
+39,More Love,Kim Carnes,1980,track:More Love artist:Kim Carnes,3cDuNYHsLL4YqoYCxFDueK,0,2011-07-03
+39,More Love,Kim Carnes,1980,track:More Love artist:Kim Carnes,2faiWUelsZpuI9QbGDd3A5,0,2010-08-10
+39,More Love,Kim Carnes,1980,track:More Love artist:Kim Carnes,2wcmipQy92OhiUVvH9ibLv,0,2005-11-18
+40,Pop Muzik,M,1980,track:Pop Muzik artist:M,0FBeVAGy58YREuZK2rpRVm,52,1979-01-01
+40,Pop Muzik,M,1980,track:Pop Muzik artist:M,3XZeIyga8YfyJKhboBdiV8,36,2009-09-04
+40,Pop Muzik,M,1980,track:Pop Muzik artist:M,6nEBAa6Rk60dffh4BIfeja,28,2009-09-27
+40,Pop Muzik,M,1980,track:Pop Muzik artist:M,7bgY6mMTCZAL1FRdinU3p8,25,1979-01-01
+40,Pop Muzik,M,1980,track:Pop Muzik artist:M,1c4xSA8MOmH1np8MiVgwZq,20,2009-09-04
+41,Brass in Pocket,The Pretenders,1980,track:Brass in Pocket artist:The Pretenders,03FjZ30iDfIXMJSiavbT5r,0,2011-04-26
+41,Brass in Pocket,The Pretenders,1980,track:Brass in Pocket artist:The Pretenders,5hK8QHLazPRgMb2hF20QI9,0,2011-01-25
+41,Brass in Pocket,The Pretenders,1980,track:Brass in Pocket artist:The Pretenders,095e9KtNTRuhkO1FzIXJuA,0,2012-09-20
+41,Brass in Pocket,The Pretenders,1980,track:Brass in Pocket artist:The Pretenders,0LpO8H9lJ6BuIVWDGSOWfT,0,2014-12-08
+41,Brass in Pocket,The Pretenders,1980,track:Brass in Pocket artist:The Pretenders,0PH5xI2yirNQ8aKGfh8cn1,0,2014-12-08
+42,Special Lady,"Ray, Goodman & Brown",1980,"track:Special Lady artist:Ray, Goodman & Brown",570KJytRkVHTIocq1qomWF,38,1996-01-01
+42,Special Lady,"Ray, Goodman & Brown",1980,"track:Special Lady artist:Ray, Goodman & Brown",6mLC6NVT4F6imglOG3huPM,33,2000-01-11
+42,Special Lady,"Ray, Goodman & Brown",1980,"track:Special Lady artist:Ray, Goodman & Brown",2BUZGtfcMCEV0cp7kZKp53,15,2007-01-01
+42,Special Lady,"Ray, Goodman & Brown",1980,"track:Special Lady artist:Ray, Goodman & Brown",69jcteyVeTTlCnBPnzdG8a,15,2018-04-20
+42,Special Lady,"Ray, Goodman & Brown",1980,"track:Special Lady artist:Ray, Goodman & Brown",6vrADuXS9VKGV8XX9Fuzde,10,2019-05-24
+43,Send One Your Love,Stevie Wonder,1980,track:Send One Your Love artist:Stevie Wonder,3GcHkmz4horYIEPYvdB0xF,37,1979-10-30
+43,Send One Your Love,Stevie Wonder,1980,track:Send One Your Love artist:Stevie Wonder,73cq57VIFVDdjRuhpcfgSK,29,1982-05-04
+43,Send One Your Love,Stevie Wonder,1980,track:Send One Your Love artist:Stevie Wonder,0IxCfL1854PdFRQGGrxTgq,26,1979-10-30
+43,Send One Your Love,Stevie Wonder,1980,track:Send One Your Love artist:Stevie Wonder,4vGoWsb41EJmxvHnmqZrDE,19,2007-08-21
+43,Send One Your Love,Stevie Wonder,1980,track:Send One Your Love artist:Stevie Wonder,226XymsZhuk1HSvEXLmHdm,22,2002-10-29
+44,The Second Time Around,Shalamar,1980,track:The Second Time Around artist:Shalamar,6yh8yf1jpPrTMA5cezYpbi,47,1979-01-01
+44,The Second Time Around,Shalamar,1980,track:The Second Time Around artist:Shalamar,6s0X1Gr7YLsJanEL22s93G,19,1993-01-01
+44,The Second Time Around,Shalamar,1980,track:The Second Time Around artist:Shalamar,0no57KxOV94n8BYTGaHIKY,13,1979-01-01
+44,The Second Time Around,Shalamar,1980,track:The Second Time Around artist:Shalamar,14kpJibKObvUWCD61Gwjwv,7,1979-01-01
+44,The Second Time Around,Shalamar,1980,track:The Second Time Around artist:Shalamar,4ucuew7f5Sn3KYYNCh8yiM,5,1979-01-01
+45,We Don t Talk Anymore,Cliff Richard,1980,track:We Don t Talk Anymore artist:Cliff Richard,3Ug96zKa29P3vICEEcYajZ,58,1979
+45,We Don t Talk Anymore,Cliff Richard,1980,track:We Don t Talk Anymore artist:Cliff Richard,3FLszcw0k0cWCLvgSShYRU,39,2013-08-09
+45,We Don t Talk Anymore,Cliff Richard,1980,track:We Don t Talk Anymore artist:Cliff Richard,2pjbLGZLKcaf1nc78KfbWH,23,1981-06-15
+45,We Don t Talk Anymore,Cliff Richard,1980,track:We Don t Talk Anymore artist:Cliff Richard,3XSNH1TZslhxYpyPIeBAAu,4,2020-03-20
+45,We Don t Talk Anymore,Cliff Richard,1980,track:We Don t Talk Anymore artist:Cliff Richard,2A3ReHhJ7H7YPveUgfQypF,4,2015-09-18
+46,Stomp!,The Brothers Johnson,1980,track:Stomp! artist:The Brothers Johnson,3EG65y2LtxWjfydabHdItb,60,2003-01-01
+46,Stomp!,The Brothers Johnson,1980,track:Stomp! artist:The Brothers Johnson,6VZdUa8JjaGF2LGsiRG9lC,49,1980-04-16
+46,Stomp!,The Brothers Johnson,1980,track:Stomp! artist:The Brothers Johnson,0b4q41r0pnYOfCyMvQVWAF,0,2021-05-07
+46,Stomp!,The Brothers Johnson,1980,track:Stomp! artist:The Brothers Johnson,1Vauxb0dB53UEQc600Shji,38,2019-08-16
+46,Stomp!,The Brothers Johnson,1980,track:Stomp! artist:The Brothers Johnson,63jnmXLj7QM9HCpgMwHsUh,33,2011-03-22
+47,Heartache Tonight,Eagles,1980,track:Heartache Tonight artist:Eagles,2bzgKuK3pVez40qUvo8sYr,61,1979
+47,Heartache Tonight,Eagles,1980,track:Heartache Tonight artist:Eagles,4eZg5DzelqM8If97vNddFa,46,1985
+47,Heartache Tonight,Eagles,1980,track:Heartache Tonight artist:Eagles,1vLlzUAREiFMWgskzefFPr,39,2003-10-21
+47,Heartache Tonight,Eagles,1980,track:Heartache Tonight artist:Eagles,6exfsW3tiYeKR8tV5AUPlb,38,1980-11-07
+47,Heartache Tonight,Eagles,1980,track:Heartache Tonight artist:Eagles,3EIUi8DMzaFOxcvV9KBSsP,32,2020-10-16
+48,Tired of Toein  the Line,Rocky Burnette,1980,track:Tired of Toein  the Line artist:Rocky Burnette,3E3K8IXR3o7XOBvaGE2e55,46,1979-09-07
+48,Tired of Toein  the Line,Rocky Burnette,1980,track:Tired of Toein  the Line artist:Rocky Burnette,46NER044ejNkJur8YIuvvq,41,2008-07-08
+48,Tired of Toein  the Line,Rocky Burnette,1980,track:Tired of Toein  the Line artist:Rocky Burnette,2eisQjXkkyUuxJSEAPyl9I,16,2019-11-01
+48,Tired of Toein  the Line,Rocky Burnette,1980,track:Tired of Toein  the Line artist:Rocky Burnette,14BkWXyKyDn5XAsROHmxUa,7,2019-11-01
+48,Tired of Toein  the Line,Rocky Burnette,1980,track:Tired of Toein  the Line artist:Rocky Burnette,2Mq9uPY7WWdXDMphF3yvQg,1,2020-07-02
+49,Better Love Next Time,Dr. Hook,1980,track:Better Love Next Time artist:Dr. Hook,2WHTHxUipSqJU9yJRnpO6S,36,2007-01-01
+49,Better Love Next Time,Dr. Hook,1980,track:Better Love Next Time artist:Dr. Hook,2RwLs2dPoY8Tt1FumMvimx,32,2009-01-01
+50,Him,Rupert Holmes,1980,track:Him artist:Rupert Holmes,5rMthFHPxRDi4Uxg06iK6H,50,1979-01-01
+50,Him,Rupert Holmes,1980,track:Him artist:Rupert Holmes,4BKsvXGLCzB6myaNZ8xH4j,28,2018-04-20
+50,Him,Rupert Holmes,1980,track:Him artist:Rupert Holmes,4gcsfr9GPNmhoilJ31MI9B,10,2000-01-01
+50,Him,Rupert Holmes,1980,track:Him artist:Rupert Holmes,3ObyXi8KncmXmHi5VtXTUo,10,2019-06-28
+50,Him,Rupert Holmes,1980,track:Him artist:Rupert Holmes,7Gi7UWdiuzL9LKIMhSVX9D,4,2021-01-22
+51,Against the Wind,Bob Seger and the Silver Bullet Band,1980,track:Against the Wind artist:Bob Seger and the Silver Bullet Band,1SWmFiFSIBoDbQJjNKC7SR,65,1980-02-25
+51,Against the Wind,Bob Seger and the Silver Bullet Band,1980,track:Against the Wind artist:Bob Seger and the Silver Bullet Band,0qSNv9JkuATfKQ2KII4et3,37,1994-10-25
+51,Against the Wind,Bob Seger and the Silver Bullet Band,1980,track:Against the Wind artist:Bob Seger and the Silver Bullet Band,1hCAHvx6W6ppg3VYE8zC6O,33,1981-09-05
+51,Against the Wind,Bob Seger and the Silver Bullet Band,1980,track:Against the Wind artist:Bob Seger and the Silver Bullet Band,3Cm3POmBIwJsElCfIUEpcN,31,2011-11-21
+51,Against the Wind,Bob Seger and the Silver Bullet Band,1980,track:Against the Wind artist:Bob Seger and the Silver Bullet Band,2gMALttqlOZO3NNPdIvHsI,9,2021-01-29
+52,On the Radio,Donna Summer,1980,track:On the Radio artist:Donna Summer,4bmg2jR1uNL3kTwR5EtItP,7,2021-05-05
+52,On the Radio,Donna Summer,1980,track:On the Radio artist:Donna Summer,41v23mPw4Se92JKUGvnkmW,60,1979-10-15
+52,On the Radio,Donna Summer,1980,track:On the Radio artist:Donna Summer,0B4mql8tVY5uD2QKW3INHx,37,1979-10-15
+52,On the Radio,Donna Summer,1980,track:On the Radio artist:Donna Summer,0bIPqZYXyiRkOeqOkpOT0R,31,1979-04-25
+52,On the Radio,Donna Summer,1980,track:On the Radio artist:Donna Summer,4lUVeOp7i7ijCRyOzUDrSJ,27,2018-04-20
+53,Emotional Rescue,The Rolling Stones,1980,track:Emotional Rescue artist:The Rolling Stones,5IATbFZds3cbOx8YxuMuko,56,1980-06-20
+53,Emotional Rescue,The Rolling Stones,1980,track:Emotional Rescue artist:The Rolling Stones,5At4b16uKSp3l3fJUgdee3,29,2019-04-19
+53,Emotional Rescue,The Rolling Stones,1980,track:Emotional Rescue artist:The Rolling Stones,45g193TFxU35vvlxOMIPEc,15,2020-11-20
+53,Emotional Rescue,The Rolling Stones,1980,track:Emotional Rescue artist:The Rolling Stones,6HQ1dHszlddTWpEd1GkyV9,2,2021-03-09
+53,Emotional Rescue,The Rolling Stones,1980,track:Emotional Rescue artist:The Rolling Stones,6kbtUpZDqoAwI9T3ifrREh,0,2011-09-20
+54,Rise,Herb Alpert,1980,track:Rise artist:Herb Alpert,1TsmHRIXvMTLP7Vu53XsUV,51,1979-09-01
+54,Rise,Herb Alpert,1980,track:Rise artist:Herb Alpert,2GTzxTZ4irs69SDlKI5ty3,17,2018-10-19
+54,Rise,Herb Alpert,1980,track:Rise artist:Herb Alpert,63PPFh1V4V53e6qBkCD559,13,2020-10-02
+55,All Out of Love,Air Supply,1980,track:All Out of Love artist:Air Supply,7dQC53NiYOY9gKg3Qsu2Bs,68,1980-02-25
+55,All Out of Love,Air Supply,1980,track:All Out of Love artist:Air Supply,01MXkFA8sL7at6txavDErt,70,2018-02-02
+55,All Out of Love,Air Supply,1980,track:All Out of Love artist:Air Supply,6Nq8YtPAHuL1outooeiFde,63,2003-05-29
+55,All Out of Love,Air Supply,1980,track:All Out of Love artist:Air Supply,2lmcH6prYo3BlR8LfRUJc3,65,2018-02-02
+55,All Out of Love,Air Supply,1980,track:All Out of Love artist:Air Supply,1qQkXsvHcyenlqtPlGL9kn,59,2003-05-29
+56,Cool Change,Little River Band,1980,track:Cool Change artist:Little River Band,1RaUxP6LHVAgbmLOn2naLl,60,1979
+56,Cool Change,Little River Band,1980,track:Cool Change artist:Little River Band,4TFo8kO1KlcgondsVKPuks,49,2014-01-01
+56,Cool Change,Little River Band,1980,track:Cool Change artist:Little River Band,3FeT13jgWHqwsAKlCeO0FW,38,2006
+56,Cool Change,Little River Band,1980,track:Cool Change artist:Little River Band,3xLQS5dmbSczl0zdqTcOYj,37,2002-01-01
+56,Cool Change,Little River Band,1980,track:Cool Change artist:Little River Band,7A1YIYMrprZIPKoUptyYQd,32,2016-10-01
+59,Let My Love Open the Door,Pete Townshend,1980,track:Let My Love Open the Door artist:Pete Townshend,0otlwsD3mSogk7VJCTp6Kg,60,1980-04-21
+59,Let My Love Open the Door,Pete Townshend,1980,track:Let My Love Open the Door artist:Pete Townshend,4DbJswRvJvdl70jsSS1bwC,18,2015-06-22
+59,Let My Love Open the Door,Pete Townshend,1980,track:Let My Love Open the Door artist:Pete Townshend,2wVwL1EBE9zmvwp6e0cepx,14,2018-04-20
+59,Let My Love Open the Door,Pete Townshend,1980,track:Let My Love Open the Door artist:Pete Townshend,74slITa1PDnbuL9nAIgf5j,7,2019-06-28
+59,Let My Love Open the Door,Pete Townshend,1980,track:Let My Love Open the Door artist:Pete Townshend,2dAt3Jun4ec3FFhEroBnzd,7,2020-02-14
+60,Romeo s Tune,Steve Forbert,1980,track:Romeo s Tune artist:Steve Forbert,4kPLmTsTwA6wvtcbb0LtbM,58,1979-12-07
+60,Romeo s Tune,Steve Forbert,1980,track:Romeo s Tune artist:Steve Forbert,3WkS8UHF7rzEzJjxPKtX2v,15,2011-01-01
+60,Romeo s Tune,Steve Forbert,1980,track:Romeo s Tune artist:Steve Forbert,16ewgulj18j83I4wSsCQ5A,8,2020-12-04
+60,Romeo s Tune,Steve Forbert,1980,track:Romeo s Tune artist:Steve Forbert,728A7oNK2JoYgGL9fIRqHE,3,2020-11-13
+60,Romeo s Tune,Steve Forbert,1980,track:Romeo s Tune artist:Steve Forbert,0LRupUnqxY7l6SCIKRRqAk,5,2020-12-04
+61,Daydream Believer,Anne Murray,1980,track:Daydream Believer artist:Anne Murray,6qnPCgHTRisbxBT19Gw7cN,39,1994-01-01
+61,Daydream Believer,Anne Murray,1980,track:Daydream Believer artist:Anne Murray,5cDJJ2Xh6dLJncvhqkP4XC,31,2000-01-01
+61,Daydream Believer,Anne Murray,1980,track:Daydream Believer artist:Anne Murray,4Vxmnwz9pS9IEolh5irl4W,13,2017-09-29
+61,Daydream Believer,Anne Murray,1980,track:Daydream Believer artist:Anne Murray,106861m7OMrN8n8ykQPuyv,15,2008
+61,Daydream Believer,Anne Murray,1980,track:Daydream Believer artist:Anne Murray,6uNMC5SWfnoyaDi3B2YzMm,0,2020-05-03
+62,I Can t Tell You Why,Eagles,1980,track:I Can t Tell You Why artist:Eagles,02BsTeJE4q5gWOTt58ur5U,64,1979
+62,I Can t Tell You Why,Eagles,1980,track:I Can t Tell You Why artist:Eagles,3h3BszqrL1wR70ib2ipSiG,46,1985
+62,I Can t Tell You Why,Eagles,1980,track:I Can t Tell You Why artist:Eagles,2faXZWArAmr7tpXTcLwyAM,38,2003-10-21
+62,I Can t Tell You Why,Eagles,1980,track:I Can t Tell You Why artist:Eagles,1Zl7sACtkrBOYZwAUDVSaq,39,1980-11-07
+62,I Can t Tell You Why,Eagles,1980,track:I Can t Tell You Why artist:Eagles,6LBkRggIjU2MEsnp1fGcPv,43,1994-11-08
+63,Don t Let Go,Isaac Hayes,1980,track:Don t Let Go artist:Isaac Hayes,0bFGteEuBXbVd0fbV2XpD3,34,1979-01-01
+63,Don t Let Go,Isaac Hayes,1980,track:Don t Let Go artist:Isaac Hayes,63eJr5SsnwE02bfACCpuFw,17,1979-01-01
+63,Don t Let Go,Isaac Hayes,1980,track:Don t Let Go artist:Isaac Hayes,4UnRAZNn38X1inlMO2IUlH,12,1979-01-01
+63,Don t Let Go,Isaac Hayes,1980,track:Don t Let Go artist:Isaac Hayes,2Z3Ni4Eq18LqZfJFbAFuvQ,8,2000-01-01
+63,Don t Let Go,Isaac Hayes,1980,track:Don t Let Go artist:Isaac Hayes,70GPfNVlLzL5HzvrGJWkWA,5,1996-02-06
+64,Don t Do Me Like That,Tom Petty and the Heartbreakers,1980,track:Don t Do Me Like That artist:Tom Petty and the Heartbreakers,5AzpZ5ADn1AFPxcEBd2Ugf,62,1979-10-19
+64,Don t Do Me Like That,Tom Petty and the Heartbreakers,1980,track:Don t Do Me Like That artist:Tom Petty and the Heartbreakers,76JhQ47ZGWLpPwSLjeYBB5,35,2008-05-20
+64,Don t Do Me Like That,Tom Petty and the Heartbreakers,1980,track:Don t Do Me Like That artist:Tom Petty and the Heartbreakers,4rJ2Ek7aEnkH8rnZGVXa5e,34,2019-03-01
+64,Don t Do Me Like That,Tom Petty and the Heartbreakers,1980,track:Don t Do Me Like That artist:Tom Petty and the Heartbreakers,2BgDUp12ytwJmLCab4VXsS,32,1979-10-19
+64,Don t Do Me Like That,Tom Petty and the Heartbreakers,1980,track:Don t Do Me Like That artist:Tom Petty and the Heartbreakers,0UJ22mBBMyGx6aDA83Ym0w,31,1979-10-19
+65,She s Out of My Life,Michael Jackson,1980,track:She s Out of My Life artist:Michael Jackson,6NGsHLZYGVAkXTFr75WWnn,58,1979-08-10
+65,She s Out of My Life,Michael Jackson,1980,track:She s Out of My Life artist:Michael Jackson,1UpdFu6w98DuTMW8twhT6D,45,1995-06-16
+65,She s Out of My Life,Michael Jackson,1980,track:She s Out of My Life artist:Michael Jackson,5CoYwKhisukni6UEDXc2Pr,29,2005-07-19
+65,She s Out of My Life,Michael Jackson,1980,track:She s Out of My Life artist:Michael Jackson,3oiEFdnT6VWhlrDjCYxxyk,32,2009
+65,She s Out of My Life,Michael Jackson,1980,track:She s Out of My Life artist:Michael Jackson,7u8yW7ZnnA2wIrHV8D0QDX,9,2015-09-04
+66,Fame,Irene Cara,1980,track:Fame artist:Irene Cara,38JtOksjkWmr9vAylvvqs6,61,2018-12-20
+66,Fame,Irene Cara,1980,track:Fame artist:Irene Cara,5CI1FP2Volc9wjz2MBZsGx,52,1980-05-16
+66,Fame,Irene Cara,1980,track:Fame artist:Irene Cara,4JopIaVb9G8gskkxjINKzz,9,2020-07-07
+66,Fame,Irene Cara,1980,track:Fame artist:Irene Cara,7dWdmPYrAq9t3vJyQEwCak,0,1996-01-01
+66,Fame,Irene Cara,1980,track:Fame artist:Irene Cara,2XJKgsKy6CEVToC0tWdjvs,0,2017-05-25
+67,Fire Lake,Bob Seger and the Silver Bullet Band,1980,track:Fire Lake artist:Bob Seger and the Silver Bullet Band,2fZw0ya0oI4pXsjkB0NBHs,52,1980-02-25
+67,Fire Lake,Bob Seger and the Silver Bullet Band,1980,track:Fire Lake artist:Bob Seger and the Silver Bullet Band,3scz4VGBMziJwCxQmE6a4v,30,2011-11-21
+67,Fire Lake,Bob Seger and the Silver Bullet Band,1980,track:Fire Lake artist:Bob Seger and the Silver Bullet Band,6wV3SvWKRIZJEinATSIoAP,29,1981-09-05
+67,Fire Lake,Bob Seger and the Silver Bullet Band,1980,track:Fire Lake artist:Bob Seger and the Silver Bullet Band,4cGQJRCMkwZks8yRk9RNBw,23,2003-11-04
+68,How Do I Make You,Linda Ronstadt,1980,track:How Do I Make You artist:Linda Ronstadt,2WX2HSBKkcKVvqTukHZS22,39,1980
+68,How Do I Make You,Linda Ronstadt,1980,track:How Do I Make You artist:Linda Ronstadt,6KZjLYrWZGU04xZqXH7mcd,25,2015-08-21
+68,How Do I Make You,Linda Ronstadt,1980,track:How Do I Make You artist:Linda Ronstadt,4hJzNRTaOmLJFfz0rAJY2f,16,2019-02-01
+68,How Do I Make You,Linda Ronstadt,1980,track:How Do I Make You artist:Linda Ronstadt,0DYvI1Fakx4LTX8qukmST2,11,2015-08-21
+68,How Do I Make You,Linda Ronstadt,1980,track:How Do I Make You artist:Linda Ronstadt,7y12TDKHoZyAoNEnH66Fa8,7,2014-04-14
+69,Into the Night,Benny Mardones,1980,track:Into the Night artist:Benny Mardones,0rhyBUAgNXwdyvGVXSrLzc,55,1980-01-01
+69,Into the Night,Benny Mardones,1980,track:Into the Night artist:Benny Mardones,3L6dQDUquuO9xORMBsxYao,43,1989
+69,Into the Night,Benny Mardones,1980,track:Into the Night artist:Benny Mardones,2Dfr8QFWR3GjnaspkWLYKj,34,2002
+69,Into the Night,Benny Mardones,1980,track:Into the Night artist:Benny Mardones,20YV8F9OyvKa7T2VumDli4,25,2008-07-29
+69,Into the Night,Benny Mardones,1980,track:Into the Night artist:Benny Mardones,73Vw24jqxeX6oGC0eIUGHb,31,2018-04-20
+70,Let Me Love You Tonight,Pure Prairie League,1980,track:Let Me Love You Tonight artist:Pure Prairie League,6vOMU2u38Z9Wru3CqPxcKs,42,1980-01-01
+70,Let Me Love You Tonight,Pure Prairie League,1980,track:Let Me Love You Tonight artist:Pure Prairie League,1WAgOLAwbYdscakb25EhQI,28,2018-04-20
+70,Let Me Love You Tonight,Pure Prairie League,1980,track:Let Me Love You Tonight artist:Pure Prairie League,21vLmXbMZmqmJM5FFMFcxb,16,2013-11-05
+70,Let Me Love You Tonight,Pure Prairie League,1980,track:Let Me Love You Tonight artist:Pure Prairie League,3vVT1iYYx38MIbKxRtFdGD,31,1995-01-01
+71,Misunderstanding,Genesis,1980,track:Misunderstanding artist:Genesis,7zjSZQkMoGKylSq6s1rK9Y,51,1980-03-28
+71,Misunderstanding,Genesis,1980,track:Misunderstanding artist:Genesis,2JPWiYKyPM9ST26TpKAeYd,29,1980-03-28
+71,Misunderstanding,Genesis,1980,track:Misunderstanding artist:Genesis,6tNDvizhWeWOdFSJhaxxrF,23,1982-06-01
+71,Misunderstanding,Genesis,1980,track:Misunderstanding artist:Genesis,0xUSe3hR7SRGg0sn9IpTuX,22,2004-11-29
+71,Misunderstanding,Genesis,1980,track:Misunderstanding artist:Genesis,3lwN4cu3ZGuYLsYEptxJIq,21,1999-10-25
+73,One Fine Day,Carole King,1980,track:One Fine Day artist:Carole King,0yFNDhDfpUudsjtpwokyx0,42,1980
+73,One Fine Day,Carole King,1980,track:One Fine Day artist:Carole King,5dCrCDsqpuSHYEAK5XOhDA,8,2005
+73,One Fine Day,Carole King,1980,track:One Fine Day artist:Carole King,2Ezxk9yeDk5bmJcXk3hii9,0,2004-07-26
+73,One Fine Day,Carole King,1980,track:One Fine Day artist:Carole King,2uwRT8b5YEKucubkBnsx9y,1,1991-09-01
+74,Dim All the Lights,Donna Summer,1980,track:Dim All the Lights artist:Donna Summer,27vdeVlzt3VEc82hK39T8B,43,1979-04-25
+74,Dim All the Lights,Donna Summer,1980,track:Dim All the Lights artist:Donna Summer,74aa4XTCUlLkEArligz0i7,31,1979-10-15
+74,Dim All the Lights,Donna Summer,1980,track:Dim All the Lights artist:Donna Summer,2lpRaRpMr5QvppR8w8yL4B,28,1979-04-25
+74,Dim All the Lights,Donna Summer,1980,track:Dim All the Lights artist:Donna Summer,5VsrXsGEbQ1tt64SOrqvJR,24,1979-04-25
+74,Dim All the Lights,Donna Summer,1980,track:Dim All the Lights artist:Donna Summer,49Z1w1DBNTejpwpSEpvsWm,20,1987-01-01
+75,You May Be Right,Billy Joel,1980,track:You May Be Right artist:Billy Joel,7gMOe0gXYcELUoVugfMmHP,63,1980-03-12
+75,You May Be Right,Billy Joel,1980,track:You May Be Right artist:Billy Joel,4qB3RW5ZifZpAHNXAn3JSf,41,2001-10-02
+75,You May Be Right,Billy Joel,1980,track:You May Be Right artist:Billy Joel,4XJyrGQgwFr4nV1UkSp9t9,34,2010
+75,You May Be Right,Billy Joel,1980,track:You May Be Right artist:Billy Joel,32q4GY7iBMpdhyg5hqhKrh,30,1985-06-29
+75,You May Be Right,Billy Joel,1980,track:You May Be Right artist:Billy Joel,58X3TivaTWRDTsLscXFUL0,29,2011-03-08
+77,Pilot of the Airwaves,Charlie Dore,1980,track:Pilot of the Airwaves artist:Charlie Dore,0aMgFXpZTDZvWqMXwPIMNK,30,1979-06-12
+77,Pilot of the Airwaves,Charlie Dore,1980,track:Pilot of the Airwaves artist:Charlie Dore,5e9AcaXYSeHVn3LL5j0XXT,31,2009-04-01
+77,Pilot of the Airwaves,Charlie Dore,1980,track:Pilot of the Airwaves artist:Charlie Dore,5tMooY5ypmwZ5wFMJnWcqh,1,2012-11-01
+77,Pilot of the Airwaves,Charlie Dore,1980,track:Pilot of the Airwaves artist:Charlie Dore,4XOBWvKyL89M3vrV5CZR9f,3,2010-03-01
+77,Pilot of the Airwaves,Charlie Dore,1980,track:Pilot of the Airwaves artist:Charlie Dore,6sNxXVoACCklJ3ZiEoqOks,1,2009-04-01
+78,Hurt So Bad,Linda Ronstadt,1980,track:Hurt So Bad artist:Linda Ronstadt,3c0Ys2ie05I4Csansv7Jhi,42,1980
+78,Hurt So Bad,Linda Ronstadt,1980,track:Hurt So Bad artist:Linda Ronstadt,4dcgQSGrWkA50vlKHpdwu1,26,2015-08-21
+78,Hurt So Bad,Linda Ronstadt,1980,track:Hurt So Bad artist:Linda Ronstadt,3waeJpd2edFVmaUFry2dhS,18,2019-02-01
+78,Hurt So Bad,Linda Ronstadt,1980,track:Hurt So Bad artist:Linda Ronstadt,2KttGD45G8q7pK4njAx1Ka,14,1969-03
+78,Hurt So Bad,Linda Ronstadt,1980,track:Hurt So Bad artist:Linda Ronstadt,3lwvYqkXJZtu7ic2l3SsTs,13,2015-08-21
+79,Off the Wall,Michael Jackson,1980,track:Off the Wall artist:Michael Jackson,3zYpRGnnoegSpt3SguSo3W,62,1979-08-10
+79,Off the Wall,Michael Jackson,1980,track:Off the Wall artist:Michael Jackson,4YgLH0GqoGeWas8hN7ehXn,41,2005-07-19
+79,Off the Wall,Michael Jackson,1980,track:Off the Wall artist:Michael Jackson,63hkD8xjWyMHFutYf3R8ay,0,2010-11-17
+80,I Pledge My Love,Peaches & Herb,1980,track:I Pledge My Love artist:Peaches & Herb,7mZBgeTb3oLqTRwC1suWXN,38,1995-03-14
+80,I Pledge My Love,Peaches & Herb,1980,track:I Pledge My Love artist:Peaches & Herb,3l0rRcGUWjTopZE3enqOfR,8,2002-07-02
+80,I Pledge My Love,Peaches & Herb,1980,track:I Pledge My Love artist:Peaches & Herb,6G8y45c8MUiIUnyq5I3Wi1,1,1996-02-06
+81,The Long Run,Eagles,1980,track:The Long Run artist:Eagles,2YOwVfcUTRjNpcLny4UC4r,57,1979
+81,The Long Run,Eagles,1980,track:The Long Run artist:Eagles,3fgch6faHYPKqE6C3hIYfo,54,1979
+81,The Long Run,Eagles,1980,track:The Long Run artist:Eagles,2OmmQuGEUq0aDWlbu3qAHw,48,1979
+81,The Long Run,Eagles,1980,track:The Long Run artist:Eagles,3MV4Upk8fO5sU2n3V03NWX,44,1985
+81,The Long Run,Eagles,1980,track:The Long Run artist:Eagles,43MEDRCyImNT0IIeVvfIx9,35,2003-10-21
+82,Stand by Me,Mickey Gilley,1980,track:Stand by Me artist:Mickey Gilley,3Fa7jdzVHdykpioJP1Qw7Z,51,1974
+82,Stand by Me,Mickey Gilley,1980,track:Stand by Me artist:Mickey Gilley,2nMQ88AKWrJe0Qv5tW3e9l,40,1993
+82,Stand by Me,Mickey Gilley,1980,track:Stand by Me artist:Mickey Gilley,51ASnvC2yePhcI3NpEzBzS,35,2015-01-09
+82,Stand by Me,Mickey Gilley,1980,track:Stand by Me artist:Mickey Gilley,1NznZVTpxWpcIysj6xyte3,28,2010-01-01
+82,Stand by Me,Mickey Gilley,1980,track:Stand by Me artist:Mickey Gilley,2wX9LBJogBB5s4m3JsDGBH,13,1974
+83,Heartbreaker,Pat Benatar,1980,track:Heartbreaker artist:Pat Benatar,22ML0MuFKfw16WejbxsLOy,63,1979-01-01
+83,Heartbreaker,Pat Benatar,1980,track:Heartbreaker artist:Pat Benatar,7Crfr7SSFmcxNXi64fKEaB,46,2008-01-01
+83,Heartbreaker,Pat Benatar,1980,track:Heartbreaker artist:Pat Benatar,49cjn3MnwvoNe31RqvWMK5,27,2008-01-01
+83,Heartbreaker,Pat Benatar,1980,track:Heartbreaker artist:Pat Benatar,6XYvjo7b2V47pf8nECvzur,28,2005-01-01
+83,Heartbreaker,Pat Benatar,1980,track:Heartbreaker artist:Pat Benatar,729sHcdTxtPoXO71bQrojt,26,2009-01-01
+84,Déjà Vu,Dionne Warwick,1980,track:Déjà Vu artist:Dionne Warwick,2AOunLYKGvwya5xDfFxiFj,42,1979-01-01
+84,Déjà Vu,Dionne Warwick,1980,track:Déjà Vu artist:Dionne Warwick,54Gl2ykRvOW95molvd0jFk,20,1989-10-31
+84,Déjà Vu,Dionne Warwick,1980,track:Déjà Vu artist:Dionne Warwick,3ZQfGkPLmXOwSAbC9YZXtX,19,1979-01-01
+84,Déjà Vu,Dionne Warwick,1980,track:Déjà Vu artist:Dionne Warwick,30VXv10G3aExEVOyPiDJKP,14,2016-07-15
+84,Déjà Vu,Dionne Warwick,1980,track:Déjà Vu artist:Dionne Warwick,1BjoCjPFQjZfpdNZA9zQ9s,12,1999-04-01
+85,Drivin  My Life Away,Eddie Rabbitt,1980,track:Drivin  My Life Away artist:Eddie Rabbitt,3PJ9yQv8IUmLx24KFvaVEI,56,1991
+85,Drivin  My Life Away,Eddie Rabbitt,1980,track:Drivin  My Life Away artist:Eddie Rabbitt,0ijdFzcMMkyr5FP73daA0Q,46,1980-06-20
+85,Drivin  My Life Away,Eddie Rabbitt,1980,track:Drivin  My Life Away artist:Eddie Rabbitt,7ITL5IjLVR683ZDNGpDqek,46,2009-10-05
+85,Drivin  My Life Away,Eddie Rabbitt,1980,track:Drivin  My Life Away artist:Eddie Rabbitt,6sZyPzR99RUvQiUQwxMPBW,35,2017-05-26
+85,Drivin  My Life Away,Eddie Rabbitt,1980,track:Drivin  My Life Away artist:Eddie Rabbitt,5menYBMHmWshyVEiAqMSsQ,32,2005-05-24
+86,Take the Long Way Home,Supertramp,1980,track:Take the Long Way Home artist:Supertramp,0v0XYK0pLgsPiq5u4FKHaw,65,1979-03-29
+86,Take the Long Way Home,Supertramp,1980,track:Take the Long Way Home artist:Supertramp,46TLlKsmMNRQc53ukyFCtM,41,1990-01-01
+86,Take the Long Way Home,Supertramp,1980,track:Take the Long Way Home artist:Supertramp,2V2vMp1KIyoUelGT2znztx,32,1979-03-29
+86,Take the Long Way Home,Supertramp,1980,track:Take the Long Way Home artist:Supertramp,5VnZeCSiH1Dq5kzuudlluZ,42,1979-03-29
+86,Take the Long Way Home,Supertramp,1980,track:Take the Long Way Home artist:Supertramp,3bdcWJPfW9Xxb78BAUiBuf,36,1979-03-29
+87,Sara,Fleetwood Mac,1980,track:Sara artist:Fleetwood Mac,0q1exbzIDRxqJ6VUKH3seg,61,1988-11-21
+87,Sara,Fleetwood Mac,1980,track:Sara artist:Fleetwood Mac,0YuCATlVwxG5Mq8lN2Omro,60,1979-10-12
+87,Sara,Fleetwood Mac,1980,track:Sara artist:Fleetwood Mac,1FNYYJsaNX0x9azDky286U,50,1979-10-12
+87,Sara,Fleetwood Mac,1980,track:Sara artist:Fleetwood Mac,59rSjZAHfFktNxjtx7oM4H,44,1979-10-12
+87,Sara,Fleetwood Mac,1980,track:Sara artist:Fleetwood Mac,3MjvXLXwQKvY6ZRzXHal7D,43,2018-11-16
+88,Wait for Me,Hall & Oates,1980,track:Wait for Me artist:Hall & Oates,3wiM6jj066wDeNaCnxKsRk,42,1979
+88,Wait for Me,Hall & Oates,1980,track:Wait for Me artist:Hall & Oates,6g8WWi9euV5uIjzsOfHRAo,30,2001-01-23
+88,Wait for Me,Hall & Oates,1980,track:Wait for Me artist:Hall & Oates,1e2OjcKniItiCfVL7c2uvY,22,2005-04-25
+88,Wait for Me,Hall & Oates,1980,track:Wait for Me artist:Hall & Oates,6nyhOg5ZylxY5iCcHN2eSJ,21,1983
+88,Wait for Me,Hall & Oates,1980,track:Wait for Me artist:Hall & Oates,0d2ReAbhzDMIDeYJPe1YJU,20,2001-11-05
+89,Jojo,Boz Scaggs,1980,track:Jojo artist:Boz Scaggs,3tPmepOCcFRoxuFmmRe0Kn,48,1980
+89,Jojo,Boz Scaggs,1980,track:Jojo artist:Boz Scaggs,4mGDtUyNxu4ZDqwMAwHh1Q,36,2006
+89,Jojo,Boz Scaggs,1980,track:Jojo artist:Boz Scaggs,74rGiYSgBy34Cw19WJGr0b,21,2013-10-29
+89,Jojo,Boz Scaggs,1980,track:Jojo artist:Boz Scaggs,2Wtc2rEBd6YJ66qJLCSqHD,28,1997
+89,Jojo,Boz Scaggs,1980,track:Jojo artist:Boz Scaggs,16im2IEu0r8ROz5aUNAGH5,18,2004-08-17
+90,September Morn,Neil Diamond,1980,track:September Morn artist:Neil Diamond,2CXkN6UAb3jAFwz4VbsDq0,60,1979-12-22
+90,September Morn,Neil Diamond,1980,track:September Morn artist:Neil Diamond,3QmS8ftR1392QHW9VT0iIP,39,2014-07-08
+90,September Morn,Neil Diamond,1980,track:September Morn artist:Neil Diamond,76lDKfdXlNdJPQlQpcNsla,28,2020-11-20
+90,September Morn,Neil Diamond,1980,track:September Morn artist:Neil Diamond,4eDhCP6K5uDDHQ8qZrd0iX,25,2017-03-31
+90,September Morn,Neil Diamond,1980,track:September Morn artist:Neil Diamond,0o1UeAB5iLeDjrWbfGnqwy,22,2018-08-17
+91,Give Me the Night,George Benson,1980,track:Give Me the Night artist:George Benson,62GYoGszQfROZswLee6W3O,66,1981
+91,Give Me the Night,George Benson,1980,track:Give Me the Night artist:George Benson,5gaUkg5JNk8c4mr2jnpX8H,55,1980-07-16
+91,Give Me the Night,George Benson,1980,track:Give Me the Night artist:George Benson,7IQMKJNcppgahjNWVPmxkl,58,1995-11-10
+91,Give Me the Night,George Benson,1980,track:Give Me the Night artist:George Benson,0P5huXbeAdO9YFY4e8Ydj5,40,2015-02-27
+91,Give Me the Night,George Benson,1980,track:Give Me the Night artist:George Benson,1ghJQBNe1SAPmxWUCCl9kQ,21,2017-06-23
+92,Broken Hearted Me,Anne Murray,1980,track:Broken Hearted Me artist:Anne Murray,07Cs882pDSCuggekDdmw4K,48,1994-01-01
+92,Broken Hearted Me,Anne Murray,1980,track:Broken Hearted Me artist:Anne Murray,73vzOFFjJn4LUGUL9jhH4i,41,2000-01-01
+92,Broken Hearted Me,Anne Murray,1980,track:Broken Hearted Me artist:Anne Murray,01MmBe2Te5fBgq5KMLHFnG,11,2017-09-29
+93,You Decorated My Life,Kenny Rogers,1980,track:You Decorated My Life artist:Kenny Rogers,6SFeCisbYSqaQwL9hucoF2,60,1979-10-10
+93,You Decorated My Life,Kenny Rogers,1980,track:You Decorated My Life artist:Kenny Rogers,3gJYzy6nRvEFZPDpf074jG,42,1993-01-01
+93,You Decorated My Life,Kenny Rogers,1980,track:You Decorated My Life artist:Kenny Rogers,5YKRunpeIZIlBAV8g53HvB,33,2004-01-01
+93,You Decorated My Life,Kenny Rogers,1980,track:You Decorated My Life artist:Kenny Rogers,4Ov0rdx9s2ucNkTuqLho4X,28,2018-09-21
+93,You Decorated My Life,Kenny Rogers,1980,track:You Decorated My Life artist:Kenny Rogers,6InCR6WV2ydJGZtMpM7eAH,39,2021-02-12
+94,Tusk,Fleetwood Mac,1980,track:Tusk artist:Fleetwood Mac,0iINibMKtoS8duvexsqnm5,60,1979-10-12
+94,Tusk,Fleetwood Mac,1980,track:Tusk artist:Fleetwood Mac,1iKVDnBTqmZErf96ldGrZe,55,1988-11-21
+94,Tusk,Fleetwood Mac,1980,track:Tusk artist:Fleetwood Mac,6U0NPtExZu3tKg8ZDozFxl,48,2018-11-16
+94,Tusk,Fleetwood Mac,1980,track:Tusk artist:Fleetwood Mac,3vXb9lf4z9fIWe4onGWdGl,44,1979-10-12
+94,Tusk,Fleetwood Mac,1980,track:Tusk artist:Fleetwood Mac,0mtUfOLDK1bYKMFS8tJcJs,39,1997-08-19
+95,I Wanna Be Your Lover,Prince,1980,track:I Wanna Be Your Lover artist:Prince,2XLAzm8bMDSI7MhbRW8nVj,57,1979-10-19
+95,I Wanna Be Your Lover,Prince,1980,track:I Wanna Be Your Lover artist:Prince,2kuJvOH9V7kuakRx6mvYca,39,1993-09-13
+95,I Wanna Be Your Lover,Prince,1980,track:I Wanna Be Your Lover artist:Prince,3WpgAA7BW8NeTZrJdaj7VE,16,2001-07-31
+95,I Wanna Be Your Lover,Prince,1980,track:I Wanna Be Your Lover artist:Prince,24kyd6WUnEUmZzdwYu5tKE,16,1993-09-14
+95,I Wanna Be Your Lover,Prince,1980,track:I Wanna Be Your Lover artist:Prince,0L6TQvoOoWDdKmBji5V9rr,16,2019-09-10
+96,In America,Charlie Daniels Band,1980,track:In America artist:Charlie Daniels Band,6IcoSnfvwFlYtYxu5TKbgg,38,1973
+96,In America,Charlie Daniels Band,1980,track:In America artist:Charlie Daniels Band,29j7cM4nqk8plXoSUPmbt6,32,1973
+96,In America,Charlie Daniels Band,1980,track:In America artist:Charlie Daniels Band,18AHGtnh9yuxIdqjebeBOV,19,1980
+96,In America,Charlie Daniels Band,1980,track:In America artist:Charlie Daniels Band,78YbJdfzm7vWVvmcTTqkiw,19,2003
+96,In America,Charlie Daniels Band,1980,track:In America artist:Charlie Daniels Band,4s4cAr0qBCtsavGNrpj5S5,13,2016-09-23
+97,Breakdown Dead Ahead,Boz Scaggs,1980,track:Breakdown Dead Ahead artist:Boz Scaggs,5FvXMfGmOvqbkEYRtcKUzE,39,1997
+97,Breakdown Dead Ahead,Boz Scaggs,1980,track:Breakdown Dead Ahead artist:Boz Scaggs,0285gn8Mdgn97TDJLi0r7l,26,1980
+97,Breakdown Dead Ahead,Boz Scaggs,1980,track:Breakdown Dead Ahead artist:Boz Scaggs,4No2FCBednOtAu66HAYsEv,24,2013-10-29
+97,Breakdown Dead Ahead,Boz Scaggs,1980,track:Breakdown Dead Ahead artist:Boz Scaggs,7p5YPanFYCetzUrV5f1Af8,22,2006
+97,Breakdown Dead Ahead,Boz Scaggs,1980,track:Breakdown Dead Ahead artist:Boz Scaggs,0xDpAYCUEE2XrvgrOpXTY6,12,1980
+98,Ships,Barry Manilow,1980,track:Ships artist:Barry Manilow,6lOF261K1uiPZgKtureE90,45,1979
+98,Ships,Barry Manilow,1980,track:Ships artist:Barry Manilow,29G4lxwdGV0Ia1uCTkWjjW,29,1973
+98,Ships,Barry Manilow,1980,track:Ships artist:Barry Manilow,4vT4qrrHHuDJO9E0AT4sgv,20,2005-04-26
+98,Ships,Barry Manilow,1980,track:Ships artist:Barry Manilow,4xRU3uJXjB9LiLquqGZVO6,22,2002-02-04
+98,Ships,Barry Manilow,1980,track:Ships artist:Barry Manilow,3B3d76DmmUIg7OR8ipS6eG,7,1992-11-10
+100,Refugee,Tom Petty and the Heartbreakers,1980,track:Refugee artist:Tom Petty and the Heartbreakers,4mcZYzoGwPRDdhWVlygiHf,65,1979-10-19
+100,Refugee,Tom Petty and the Heartbreakers,1980,track:Refugee artist:Tom Petty and the Heartbreakers,250UTGbkM9fIGNfapGA58b,35,2008-05-20
+100,Refugee,Tom Petty and the Heartbreakers,1980,track:Refugee artist:Tom Petty and the Heartbreakers,46fUIkFk2k7DlclqFxaUMq,34,1979-10-19
+100,Refugee,Tom Petty and the Heartbreakers,1980,track:Refugee artist:Tom Petty and the Heartbreakers,0xNTHshHwDtCAn04Lq2i4H,32,1979-10-19
+100,Refugee,Tom Petty and the Heartbreakers,1980,track:Refugee artist:Tom Petty and the Heartbreakers,5AFkGR5cORk4ZF7raIhg7I,33,2019-03-01

@@ -1,0 +1,460 @@
+Rank,Song,Artist(s),Year,Query,ID,Popularity,Release Date
+1,Yeah!,Usher  ,2004,track:Yeah! artist:Usher  ,5rb9QrpfcKFHM1EUbSIurX,82,2004-03-23
+1,Yeah!,Usher  ,2004,track:Yeah! artist:Usher  ,4IdjXFhGCUCJbUeo2dsw1z,35,2015-09-04
+1,Yeah!,Usher  ,2004,track:Yeah! artist:Usher  ,0utLWSIbolqT7KyppMuxKY,37,2018-12-07
+1,Yeah!,Usher  ,2004,track:Yeah! artist:Usher  ,6QzozTFfgDViqGGS1Se5oq,16,2017-08-04
+1,Yeah!,Usher  ,2004,track:Yeah! artist:Usher  ,4IHnAK9KToQkaJRCh3fnIf,17,2019-04-19
+2,Burn,Usher,2004,track:Burn artist:Usher,7z3N2W7Xz1t2G2sAO8wFVH,69,2004-03-23
+2,Burn,Usher,2004,track:Burn artist:Usher,6gpEUabUe4Qtc0jek4BC50,55,2004-03-08
+2,Burn,Usher,2004,track:Burn artist:Usher,3zjS56GwTsLxvV8kGam8DW,24,2004-03-08
+2,Burn,Usher,2004,track:Burn artist:Usher,5ef5pVEP2HruTsg7qmEcCL,23,2010-09-20
+2,Burn,Usher,2004,track:Burn artist:Usher,1z4Ppbk9VO51upIiYeVqO1,7,2004-02-11
+3,If I Ain t Got You,Alicia Keys,2004,track:If I Ain t Got You artist:Alicia Keys,3XVBdLihbNbxUwZosxcGuJ,78,2003-12-02
+3,If I Ain t Got You,Alicia Keys,2004,track:If I Ain t Got You artist:Alicia Keys,3VdLjuOdBfFHQ2TTCY7zKw,55,2004-02-17
+3,If I Ain t Got You,Alicia Keys,2004,track:If I Ain t Got You artist:Alicia Keys,7m8PEWF1Qjo4BmcjEYsacr,46,2018-02-02
+3,If I Ain t Got You,Alicia Keys,2004,track:If I Ain t Got You artist:Alicia Keys,2QcuQQRX2P0bhZcs861SJY,52,2005-10-11
+3,If I Ain t Got You,Alicia Keys,2004,track:If I Ain t Got You artist:Alicia Keys,3L310NpvnPHb4QRy0uXJWP,38,2004-02-17
+4,This Love,Maroon 5,2004,track:This Love artist:Maroon 5,6ECp64rv50XVz93WvxXMGF,78,2002
+4,This Love,Maroon 5,2004,track:This Love artist:Maroon 5,6YgV0EF8xJMZz0Zm6BTaT4,68,2002-06-25
+4,This Love,Maroon 5,2004,track:This Love artist:Maroon 5,0mIllpvSLn6pEgBNTkCmKX,37,2007
+4,This Love,Maroon 5,2004,track:This Love artist:Maroon 5,3d7pK1CqZaj5xbIGPy85rD,52,2004
+4,This Love,Maroon 5,2004,track:This Love artist:Maroon 5,4PNn9pMYbErIXMHmE0w4a2,40,2002
+5,The Way You Move,OutKast  ,2004,track:The Way You Move artist:OutKast  ,5z7mYFfhw6N6f23VwrokJD,66,2003
+5,The Way You Move,OutKast  ,2004,track:The Way You Move artist:OutKast  ,4TSdgufs5bHUjfS9mJpMSh,50,2003-09-23
+5,The Way You Move,OutKast  ,2004,track:The Way You Move artist:OutKast  ,2gnP10XdjvCyshnV1qODWQ,41,2003
+5,The Way You Move,OutKast  ,2004,track:The Way You Move artist:OutKast  ,0nDBhmfJ7ipBNFeyi16rFO,17,2003
+5,The Way You Move,OutKast  ,2004,track:The Way You Move artist:OutKast  ,4VZ3xoHi7RhKN8W7uKMBNR,0,2006-11-21
+6,The Reason,Hoobastank,2004,track:The Reason artist:Hoobastank,77loZpT5Y5PRP1S451P9Yz,80,2003-12-09
+6,The Reason,Hoobastank,2004,track:The Reason artist:Hoobastank,0XhCryba63PSYHkfGcxtcJ,1,2021-05-07
+6,The Reason,Hoobastank,2004,track:The Reason artist:Hoobastank,58AwxWLaRHn2lTqqH9dLkU,51,2010-01-01
+6,The Reason,Hoobastank,2004,track:The Reason artist:Hoobastank,60sMKR8s0Zs8tXRqKsI8VX,52,2003-12-09
+6,The Reason,Hoobastank,2004,track:The Reason artist:Hoobastank,1CobuGL6ysSrfCE2tWcfFU,54,2019-09-13
+7,I Don t Wanna Know,Mario Winans  ,2004,track:I Don t Wanna Know artist:Mario Winans  ,2yr2HnFYl7XvqJk4fXoQBt,67,2016-08-12
+7,I Don t Wanna Know,Mario Winans  ,2004,track:I Don t Wanna Know artist:Mario Winans  ,6BVYRmsrHSNRNYLT3YkS9E,22,2016-08-12
+7,I Don t Wanna Know,Mario Winans  ,2004,track:I Don t Wanna Know artist:Mario Winans  ,60kqVVo9XYU7A4zg9vIe3B,0,2000
+8,Hey Ya!,OutKast,2004,track:Hey Ya! artist:OutKast,2PpruBYCo4H7WOBJ7Q2EwM,79,2003
+8,Hey Ya!,OutKast,2004,track:Hey Ya! artist:OutKast,3AszgPDZd9q0DpDFt4HFBy,65,2003
+8,Hey Ya!,OutKast,2004,track:Hey Ya! artist:OutKast,2hopb3OJKYhhZ6L4ca9pBp,53,2015-09-04
+8,Hey Ya!,OutKast,2004,track:Hey Ya! artist:OutKast,1QoCMhH72F9MFDspvkfqId,28,2018-12-07
+8,Hey Ya!,OutKast,2004,track:Hey Ya! artist:OutKast,4MMvAam5KBCoiJ27DlcLg2,27,2018-04-10
+9,Goodies,Ciara  ,2004,track:Goodies artist:Ciara  ,3dFwpxh2yH7C7p9BGEKLVB,67,2004-09-27
+9,Goodies,Ciara  ,2004,track:Goodies artist:Ciara  ,00Guhx1B9TZjB12jn3AXGk,42,2004-09-27
+9,Goodies,Ciara  ,2004,track:Goodies artist:Ciara  ,6hspsQYK9iO15rNYnklsYm,34,2004-06-08
+9,Goodies,Ciara  ,2004,track:Goodies artist:Ciara  ,5iHk7Ucod6p5mwkT4lBtwd,14,2017-02-03
+9,Goodies,Ciara  ,2004,track:Goodies artist:Ciara  ,5sbecJgZOC6q4v6P1F1iv7,0,2018-09-25
+10,Lean Back,Terror Squad  ,2004,track:Lean Back artist:Terror Squad  ,2Ozc0me9PV5vlt8cokwdvI,65,2004-01-01
+10,Lean Back,Terror Squad  ,2004,track:Lean Back artist:Terror Squad  ,0rZAuePyZoXTxaXPDsH0tG,39,2004-05-11
+10,Lean Back,Terror Squad  ,2004,track:Lean Back artist:Terror Squad  ,7MTPoaLvTBj4zv3g2w4jmS,37,2004-05-11
+10,Lean Back,Terror Squad  ,2004,track:Lean Back artist:Terror Squad  ,2Pb8lC0cUaoOLGWHg7yiLO,41,2017-05-05
+10,Lean Back,Terror Squad  ,2004,track:Lean Back artist:Terror Squad  ,6JKJ6oEButwzA9qfElXrlV,37,2017-10-27
+11,Tipsy,J-Kwon,2004,track:Tipsy artist:J-Kwon,0jSMveIWvnhDIvzqN74Uc7,64,2004
+11,Tipsy,J-Kwon,2004,track:Tipsy artist:J-Kwon,2lVDc57IMK6nypg2iuEWVR,60,2004-01-25
+11,Tipsy,J-Kwon,2004,track:Tipsy artist:J-Kwon,6fqqAsCYfDOtXAD8Ydo06K,60,2001-01-01
+11,Tipsy,J-Kwon,2004,track:Tipsy artist:J-Kwon,2xuJikTaSUVvToK2UZXmTD,36,2004-08-24
+11,Tipsy,J-Kwon,2004,track:Tipsy artist:J-Kwon,3cWK4wkVasqw4SBvH2JAG8,38,2013-06-10
+12,Confessions Part II,Usher,2004,track:Confessions Part II artist:Usher,7wBThXx7BGZHJJ3aN3OPvv,67,2004-03-23
+12,Confessions Part II,Usher,2004,track:Confessions Part II artist:Usher,6xcz5MXwY36hItZg5PZj78,46,2004-03-23
+13,Slow Motion,Juvenile  ,2004,track:Slow Motion artist:Juvenile  ,6ihObRBTB8xdSH2mlERtOX,64,2003-01-01
+13,Slow Motion,Juvenile  ,2004,track:Slow Motion artist:Juvenile  ,2E2U9m4MPBq1CUXVfFfhti,29,2003-01-01
+13,Slow Motion,Juvenile  ,2004,track:Slow Motion artist:Juvenile  ,0Hb9k8vszGwwLZFWIbLV8Y,29,2004
+13,Slow Motion,Juvenile  ,2004,track:Slow Motion artist:Juvenile  ,2emv7E4xpJh1uanArJu1qV,27,2004-11-02
+13,Slow Motion,Juvenile  ,2004,track:Slow Motion artist:Juvenile  ,2v9bQJVXHjrWY2AuIGuWuT,22,2004-01-01
+14,Freek-a-Leek,Petey Pablo,2004,track:Freek-a-Leek artist:Petey Pablo,4MeDnO5yA2Zi6IMlVApRci,64,2004
+14,Freek-a-Leek,Petey Pablo,2004,track:Freek-a-Leek artist:Petey Pablo,7b2KXmdLXNvTtty4qDdvyC,45,2004-06-28
+14,Freek-a-Leek,Petey Pablo,2004,track:Freek-a-Leek artist:Petey Pablo,4zFyMSopXqcKWUbwVkC0vd,40,2004
+14,Freek-a-Leek,Petey Pablo,2004,track:Freek-a-Leek artist:Petey Pablo,6hdvyB8BlHx15z9KBxxuA6,39,2004-01-27
+14,Freek-a-Leek,Petey Pablo,2004,track:Freek-a-Leek artist:Petey Pablo,46NLwKEUdsgiV4jWKN7JQd,37,2019-04-19
+15,Here Without You,3 Doors Down,2004,track:Here Without You artist:3 Doors Down,3NLrRZoMF0Lx6zTlYqeIo4,75,2002-11-12
+15,Here Without You,3 Doors Down,2004,track:Here Without You artist:3 Doors Down,2ildSfsQWqEQTLLIUl4XCZ,1,2021-05-07
+15,Here Without You,3 Doors Down,2004,track:Here Without You artist:3 Doors Down,0tMz0v9VRUuLt9KSGULtdw,0,2021-05-12
+15,Here Without You,3 Doors Down,2004,track:Here Without You artist:3 Doors Down,2HIU8kiFo9sB5ih05q8wgP,48,2004-01-01
+15,Here Without You,3 Doors Down,2004,track:Here Without You artist:3 Doors Down,135cNW8kQtiTId7qcsJfVC,57,2012-01-01
+16,Slow Jamz,Twista  ,2004,track:Slow Jamz artist:Twista  ,3A4cpTBPaIQdtPFb5JxtaX,66,2004-02-10
+16,Slow Jamz,Twista  ,2004,track:Slow Jamz artist:Twista  ,1boHm9rjmvzxpJASd9dnGK,60,2004-01-27
+16,Slow Jamz,Twista  ,2004,track:Slow Jamz artist:Twista  ,0HGk5Btyhr1Qu6z4x2S29T,40,2004-01-27
+16,Slow Jamz,Twista  ,2004,track:Slow Jamz artist:Twista  ,6lxyoqQJXYpUXM3hc46zX4,32,2004-02-10
+16,Slow Jamz,Twista  ,2004,track:Slow Jamz artist:Twista  ,17Kh3I18Pl2QFzT1B0rYvQ,29,2003-10-28
+17,Someday,Nickelback,2004,track:Someday artist:Nickelback,4PkJ7c9y1CwpuVOiJODnCZ,69,2003-09-23
+17,Someday,Nickelback,2004,track:Someday artist:Nickelback,3yThbrigNsoQK9Oi0CsSj7,39,2001
+17,Someday,Nickelback,2004,track:Someday artist:Nickelback,64PQYii0URHzVIilIz267c,34,2020-10-02
+17,Someday,Nickelback,2004,track:Someday artist:Nickelback,5WJQApS84r6fhK30L3mITS,30,2020-10-02
+17,Someday,Nickelback,2004,track:Someday artist:Nickelback,3dRRgAVyFs6ze2nPLPhvQS,5,2018-06-22
+18,Naughty Girl,Beyoncé,2004,track:Naughty Girl artist:Beyoncé,0YGQ3hZcRLC5YX7o0hdmHg,62,2003-06-24
+18,Naughty Girl,Beyoncé,2004,track:Naughty Girl artist:Beyoncé,3ORyn13n4NOuo1Gx8jIPhO,39,2010-11-26
+18,Naughty Girl,Beyoncé,2004,track:Naughty Girl artist:Beyoncé,3E1Axr4kWMkhAhJM3S2EJ3,23,2004-05-18
+18,Naughty Girl,Beyoncé,2004,track:Naughty Girl artist:Beyoncé,2j9wIalfUOk9a0qoHm6YRW,25,2004-06-01
+18,Naughty Girl,Beyoncé,2004,track:Naughty Girl artist:Beyoncé,010tJvNdZHRzWWsveiWbur,13,2005-05-03
+19,My Immortal,Evanescence,2004,track:My Immortal artist:Evanescence,4UzVcXufOhGUwF56HT7b8M,74,2003-03-04
+19,My Immortal,Evanescence,2004,track:My Immortal artist:Evanescence,4YvSPAG8AOjEfrVkGvj5ey,0,2021-05-12
+19,My Immortal,Evanescence,2004,track:My Immortal artist:Evanescence,3PYdxIDuBIuJSDGwfptFx4,58,2003-03-04
+19,My Immortal,Evanescence,2004,track:My Immortal artist:Evanescence,1tytktwcHf48COyah7L0oU,36,2017-11-10
+19,My Immortal,Evanescence,2004,track:My Immortal artist:Evanescence,0umOKmb2xrgD9yutQHbCXz,44,2004-01-01
+20,Sunshine,Lil' Flip  ,2004,track:Sunshine artist:Lil' Flip  ,4s0o8TJHfX9LLHa0umnOzT,63,2004-03-30
+20,Sunshine,Lil' Flip  ,2004,track:Sunshine artist:Lil' Flip  ,3FaUH7ZMjW1hv9Jx6MIAIf,48,2004-03-30
+20,Sunshine,Lil' Flip  ,2004,track:Sunshine artist:Lil' Flip  ,0MoRTalVQ1zPdR5HucLJrP,35,2014-02-13
+20,Sunshine,Lil' Flip  ,2004,track:Sunshine artist:Lil' Flip  ,4TaWeBDmGUhSEjR9omko5R,35,2010-02-01
+20,Sunshine,Lil' Flip  ,2004,track:Sunshine artist:Lil' Flip  ,5VSnk53xAO9BmquVUqGZbV,22,2010-03-01
+21,Dirt Off Your Shoulder,Jay-Z,2004,track:Dirt Off Your Shoulder artist:Jay-Z,3IrkbGQCoEPAkzJ0Tkv8nm,63,2003-11-14
+21,Dirt Off Your Shoulder,Jay-Z,2004,track:Dirt Off Your Shoulder artist:Jay-Z,7dvd3b2oz7AFgXrPBIIYxR,56,2004-11-30
+21,Dirt Off Your Shoulder,Jay-Z,2004,track:Dirt Off Your Shoulder artist:Jay-Z,47SJcoi329tD5TwD6m9CJ4,48,2004-11-23
+21,Dirt Off Your Shoulder,Jay-Z,2004,track:Dirt Off Your Shoulder artist:Jay-Z,09RtW6BK033KbAGPRmM57W,35,2003-11-14
+21,Dirt Off Your Shoulder,Jay-Z,2004,track:Dirt Off Your Shoulder artist:Jay-Z,1uZWCIRKp4c4J6aUr1A0bG,36,2010-11-22
+22,Move Ya Body,Nina Sky,2004,track:Move Ya Body artist:Nina Sky,2ndnVdR8si7CW9T8vJRHyW,66,2004-01-01
+22,Move Ya Body,Nina Sky,2004,track:Move Ya Body artist:Nina Sky,5fXWcDrcJe85rolTOxDrC1,43,2004
+22,Move Ya Body,Nina Sky,2004,track:Move Ya Body artist:Nina Sky,5mXOzGTAVvd7YROqNgSLTH,22,2004-01-01
+22,Move Ya Body,Nina Sky,2004,track:Move Ya Body artist:Nina Sky,2Rd74r0bx95uQgSCh8wIeQ,24,2018-02-02
+22,Move Ya Body,Nina Sky,2004,track:Move Ya Body artist:Nina Sky,4ISNQSbdDhrSeiJD0CHyyU,18,2019-06-28
+23,Dip It Low,Christina Milian,2004,track:Dip It Low artist:Christina Milian,4L55p6txv9vuCWhpNnY6eY,55,2004-01-01
+23,Dip It Low,Christina Milian,2004,track:Dip It Low artist:Christina Milian,4lC9YAe6ZicEtxz6HQZFd5,44,2004
+23,Dip It Low,Christina Milian,2004,track:Dip It Low artist:Christina Milian,1uIUPCRVDHDqRllgrUqWgv,1,2021-05-07
+23,Dip It Low,Christina Milian,2004,track:Dip It Low artist:Christina Milian,3FccWOEKKF75qn9hBA2UNR,20,2004-01-01
+23,Dip It Low,Christina Milian,2004,track:Dip It Low artist:Christina Milian,4r1EB5fkgvxEye9Gi0Xkxh,39,2004-06-15
+25,One Call Away,Chingy  ,2004,track:One Call Away artist:Chingy  ,0UNTBB02C1aB55Fu4H63qd,60,2003-01-01
+25,One Call Away,Chingy  ,2004,track:One Call Away artist:Chingy  ,2uSyWo9UpSlQ489NmjjRkT,25,2003-01-01
+25,One Call Away,Chingy  ,2004,track:One Call Away artist:Chingy  ,3IeSestnFRMUZ0IG5jAwH3,22,2019-10-18
+25,One Call Away,Chingy  ,2004,track:One Call Away artist:Chingy  ,0qwwqLEr6SJq4o4pcB2jK3,14,2019-06-07
+25,One Call Away,Chingy  ,2004,track:One Call Away artist:Chingy  ,3LRGNzjh8UwEf8vSx1TLp2,9,2006-01-01
+26,"Me, Myself and I",Beyoncé,2004,"track:Me, Myself and I artist:Beyoncé",6XsT5UGfpaFeHQf5LRIy4W,65,2003-06-24
+26,"Me, Myself and I",Beyoncé,2004,"track:Me, Myself and I artist:Beyoncé",3cPqQp5ZWwUiUTnaNMeFSZ,26,2003-10-28
+27,Turn Me On,Kevin Lyttle,2004,track:Turn Me On artist:Kevin Lyttle,0RmXtDH1cBMGImRrmn5xL6,65,2004-03-30
+27,Turn Me On,Kevin Lyttle,2004,track:Turn Me On artist:Kevin Lyttle,0BBOLOV5JntPL3341swIre,66,2004-03-30
+27,Turn Me On,Kevin Lyttle,2004,track:Turn Me On artist:Kevin Lyttle,5Bp3CK60VhEI3b4XhTHfQG,2,2021-04-30
+27,Turn Me On,Kevin Lyttle,2004,track:Turn Me On artist:Kevin Lyttle,29EjGX9IZ19DSCZZNCGhCM,34,2005
+27,Turn Me On,Kevin Lyttle,2004,track:Turn Me On artist:Kevin Lyttle,2TTH19zJIJHooAXtNAqkzb,34,2004-03-30
+28,The First Cut Is the Deepest,Sheryl Crow,2004,track:The First Cut Is the Deepest artist:Sheryl Crow,7gN24J8E0pR3G2nsbhkcjw,48,2003-01-01
+28,The First Cut Is the Deepest,Sheryl Crow,2004,track:The First Cut Is the Deepest artist:Sheryl Crow,4PzPvpE63ttEbKyMDRWB6q,52,2005-01-25
+28,The First Cut Is the Deepest,Sheryl Crow,2004,track:The First Cut Is the Deepest artist:Sheryl Crow,0wyOnrfGOlDdWHdIybLr4n,45,2003-01-01
+28,The First Cut Is the Deepest,Sheryl Crow,2004,track:The First Cut Is the Deepest artist:Sheryl Crow,4jiOmSLPo9hkoCFr5SHMUI,25,2003-01-01
+28,The First Cut Is the Deepest,Sheryl Crow,2004,track:The First Cut Is the Deepest artist:Sheryl Crow,0LbqwZ07PTqfUajI1rn9AK,21,2007-01-01
+29,You Don t Know My Name,Alicia Keys,2004,track:You Don t Know My Name artist:Alicia Keys,6LGwYMXXgURfaequXipzHx,61,2003-12-02
+29,You Don t Know My Name,Alicia Keys,2004,track:You Don t Know My Name artist:Alicia Keys,4bElHWmDm18WshRGpd6yfZ,33,2003-12-02
+29,You Don t Know My Name,Alicia Keys,2004,track:You Don t Know My Name artist:Alicia Keys,2YpcIMAlj3xnB1Vr3qFYL1,33,2005-10-11
+29,You Don t Know My Name,Alicia Keys,2004,track:You Don t Know My Name artist:Alicia Keys,4uTJfl5bIG4mPJvINyw18A,15,2004-05-04
+29,You Don t Know My Name,Alicia Keys,2004,track:You Don t Know My Name artist:Alicia Keys,5GN64eubzE5lICCzMzcErB,29,2013-06-23
+30,My Place,Nelly  ,2004,track:My Place artist:Nelly  ,1NAyvpW70a9lxY0YlLWFV4,58,2004-09-14
+30,My Place,Nelly  ,2004,track:My Place artist:Nelly  ,3aptuXdWrGUnv0Lfy1yBjt,33,2005-11-22
+30,My Place,Nelly  ,2004,track:My Place artist:Nelly  ,0owSjKlZf5tvBrGmkmKFw5,25,2005-11-25
+30,My Place,Nelly  ,2004,track:My Place artist:Nelly  ,4gAZKrSyCstmOqPPXThvIO,20,2004-09-14
+30,My Place,Nelly  ,2004,track:My Place artist:Nelly  ,3FiXs3bi3qLtYhj32zU4FV,30,2005-11-25
+31,Overnight Celebrity,Twista,2004,track:Overnight Celebrity artist:Twista,2tOZtdbkAMQASWokLvSlzj,65,2004-01-27
+31,Overnight Celebrity,Twista,2004,track:Overnight Celebrity artist:Twista,024Q1MI4uaYHF6j2Q2ZYgF,56,2004-01-27
+31,Overnight Celebrity,Twista,2004,track:Overnight Celebrity artist:Twista,16CBDg1AM4lYZ4bUyD83DP,12,2019-05-31
+31,Overnight Celebrity,Twista,2004,track:Overnight Celebrity artist:Twista,6V82AWefTP0fko8KBgCCHZ,12,2021-03-05
+31,Overnight Celebrity,Twista,2004,track:Overnight Celebrity artist:Twista,1aCylS7linWzprc7KU81So,11,2018-06-28
+32,Hotel,Cassidy  ,2004,track:Hotel artist:Cassidy  ,4hHXhCRSnOKd6nMGaivmD0,55,2004-03-15
+32,Hotel,Cassidy  ,2004,track:Hotel artist:Cassidy  ,6iu9AmwP0Njf0zrNJW56uZ,37,2014-05-19
+32,Hotel,Cassidy  ,2004,track:Hotel artist:Cassidy  ,2do7t1NMxLTgblFuCvn7H7,31,2013-06-24
+32,Hotel,Cassidy  ,2004,track:Hotel artist:Cassidy  ,61S6qpVRNxRrnGvjWfce2i,16,2004-08-24
+32,Hotel,Cassidy  ,2004,track:Hotel artist:Cassidy  ,4d9AAQN6SsEIQuEyOWtBIX,19,2004-03-15
+33,Numb,Linkin Park,2004,track:Numb artist:Linkin Park,2nLtzopw4rPReszdYBJU6h,81,2003-03-24
+33,Numb,Linkin Park,2004,track:Numb artist:Linkin Park,0kO3njY9N1Rxgv27Ha1lLh,59,2003-03-24
+33,Numb,Linkin Park,2004,track:Numb artist:Linkin Park,3r7ob3H6WJJA0mf8eT9jQZ,44,2017-12-15
+33,Numb,Linkin Park,2004,track:Numb artist:Linkin Park,7CTwzCHZ6HnsUwOx10kwpw,43,2003-11-18
+33,Numb,Linkin Park,2004,track:Numb artist:Linkin Park,7pEVSKee47uKeqtazaiCnO,35,2012-06-05
+34,Diary,Alicia Keys  ,2004,track:Diary artist:Alicia Keys  ,5dxHF4lrDimKqnI3GaZUmC,56,2003-12-02
+34,Diary,Alicia Keys  ,2004,track:Diary artist:Alicia Keys  ,0gAziJg6yK4FdXY70BIZAH,29,2003-12-02
+34,Diary,Alicia Keys  ,2004,track:Diary artist:Alicia Keys  ,0oznE2fXDwAoja4j2R39lj,34,2005-10-11
+34,Diary,Alicia Keys  ,2004,track:Diary artist:Alicia Keys  ,1Iggi5TtSMybCRyy2T3fqF,12,2006-06-06
+34,Diary,Alicia Keys  ,2004,track:Diary artist:Alicia Keys  ,0BJwHrUuyw7msHP3AN9J54,4,2005-05-03
+35,She Will Be Loved,Maroon 5,2004,track:She Will Be Loved artist:Maroon 5,4llK75pXNWZz6KAho2Gp16,79,2002
+35,She Will Be Loved,Maroon 5,2004,track:She Will Be Loved artist:Maroon 5,7sapKrjDij2fpDVj0GxP66,73,2002-06-25
+35,She Will Be Loved,Maroon 5,2004,track:She Will Be Loved artist:Maroon 5,2sLS4tVaEoMYrNS67PVz0V,69,2004
+35,She Will Be Loved,Maroon 5,2004,track:She Will Be Loved artist:Maroon 5,0aoOzL2OjoBn7rg2YCu5um,35,2007
+35,She Will Be Loved,Maroon 5,2004,track:She Will Be Loved artist:Maroon 5,0HJdnuMSH9cR4GNUUtQBPM,41,2002
+36,White Flag,Dido,2004,track:White Flag artist:Dido,3adnLFXKO5rC1lhUNSeg3N,55,2003-09-03
+36,White Flag,Dido,2004,track:White Flag artist:Dido,4kbz7rHVbyjKasuuqelccQ,58,2003-09-29
+36,White Flag,Dido,2004,track:White Flag artist:Dido,1UvDsj1wLLfGBWZOOssP9k,42,2013-11-22
+36,White Flag,Dido,2004,track:White Flag artist:Dido,5ht9FVBi07F48ZAfIf7WdC,44,2003-09-09
+36,White Flag,Dido,2004,track:White Flag artist:Dido,5br4JmcFVlVjFhpMqTOkAv,19,1999-11-18
+37,Heaven,Los Lonely Boys,2004,track:Heaven artist:Los Lonely Boys,1XcUn5PE9d42zWamWgRG2x,59,2004-11-16
+37,Heaven,Los Lonely Boys,2004,track:Heaven artist:Los Lonely Boys,2mQ1RBK7s87mdPCzh97RSH,52,2003
+37,Heaven,Los Lonely Boys,2004,track:Heaven artist:Los Lonely Boys,6h105woFjAURx31uTrnrWJ,24,2004-11-16
+37,Heaven,Los Lonely Boys,2004,track:Heaven artist:Los Lonely Boys,4CfA7dcrqOSbaPbKPbaeIn,17,2003
+37,Heaven,Los Lonely Boys,2004,track:Heaven artist:Los Lonely Boys,0xg6wQUSppNAZqMVshxbE4,17,2004-05-04
+38,It s My Life,No Doubt,2004,track:It s My Life artist:No Doubt,2fOxxLz9JVe53itq6pfBak,59,2003-01-01
+38,It s My Life,No Doubt,2004,track:It s My Life artist:No Doubt,2b8nNIRZIfWFs1RUdCk4zg,12,2019-01-18
+38,It s My Life,No Doubt,2004,track:It s My Life artist:No Doubt,6uCuZlybPC70qAmEIa2LfC,7,2020-03-27
+38,It s My Life,No Doubt,2004,track:It s My Life artist:No Doubt,0cwQVULVcwKT9jyQZ2DupQ,9,2019-12-13
+38,It s My Life,No Doubt,2004,track:It s My Life artist:No Doubt,2ZPBh8JQNALpSbHZpctl9U,10,2021-02-04
+39,Pieces of Me,Ashlee Simpson,2004,track:Pieces of Me artist:Ashlee Simpson,7yXibbAYi4to5oQTeO738f,56,2004-01-01
+39,Pieces of Me,Ashlee Simpson,2004,track:Pieces of Me artist:Ashlee Simpson,2PlAxk4nGBAjXwYqq5DJuc,13,2004-01-01
+39,Pieces of Me,Ashlee Simpson,2004,track:Pieces of Me artist:Ashlee Simpson,6UeWeXU98W03TGYBX5KJic,6,2004-01-01
+39,Pieces of Me,Ashlee Simpson,2004,track:Pieces of Me artist:Ashlee Simpson,5awxiPwUfv2XuexrsZuCNx,13,2020-01-17
+39,Pieces of Me,Ashlee Simpson,2004,track:Pieces of Me artist:Ashlee Simpson,1OJMVmTbibtaptojQyWxqE,3,2021-03-20
+40,Leave (Get Out),JoJo,2004,track:Leave (Get Out) artist:JoJo,6nIcGJK6Pj1ThzC6r8O8hA,62,2018-12-21
+40,Leave (Get Out),JoJo,2004,track:Leave (Get Out) artist:JoJo,5dK1MdorDE54qNowuWm2Sz,0,2005-03-01
+40,Leave (Get Out),JoJo,2004,track:Leave (Get Out) artist:JoJo,35eJi7SJSr0YhsrmdwFi3P,0,2011-03-04
+40,Leave (Get Out),JoJo,2004,track:Leave (Get Out) artist:JoJo,0GrNBL5k2kvutDFg2MN56H,0,2005-09-20
+41,Milkshake,Kelis,2004,track:Milkshake artist:Kelis,2s0ouHqJebHfiQ6C1GUFJd,57,2003-12-05
+41,Milkshake,Kelis,2004,track:Milkshake artist:Kelis,4LmzPJDil70LpiApWfOI6O,56,2008
+41,Milkshake,Kelis,2004,track:Milkshake artist:Kelis,1EIxbLbBCR73asB6f2WZOe,38,2018-07-06
+41,Milkshake,Kelis,2004,track:Milkshake artist:Kelis,2qeWQQBJzzelDIBtCginUy,34,2004-01-01
+41,Milkshake,Kelis,2004,track:Milkshake artist:Kelis,4qcD0bWtQ56K2aeo8Tjczi,24,2008
+42,Splash Waterfalls,Ludacris,2004,track:Splash Waterfalls artist:Ludacris,2T8hXV9LUZMDBKR5RALGEa,50,2003-01-01
+42,Splash Waterfalls,Ludacris,2004,track:Splash Waterfalls artist:Ludacris,56cXDR4L4CYhrTCkOyi7pj,16,2020-05-15
+42,Splash Waterfalls,Ludacris,2004,track:Splash Waterfalls artist:Ludacris,14TrWpWKpOHuIoTz5EnLt4,10,2020-05-15
+42,Splash Waterfalls,Ludacris,2004,track:Splash Waterfalls artist:Ludacris,1sDERZEmX0ZvuQoHKnWJDF,7,2009-01-01
+43,Jesus Walks,Kanye West,2004,track:Jesus Walks artist:Kanye West,5g1vtHqi9uV7xtYeCcFOBx,68,2004-02-10
+43,Jesus Walks,Kanye West,2004,track:Jesus Walks artist:Kanye West,2kH3RZN9KdGBj1c1jL3GjO,38,2004-02-10
+43,Jesus Walks,Kanye West,2004,track:Jesus Walks artist:Kanye West,1qeSUSGkt0UsJ549Z5VG91,22,2005-10-25
+43,Jesus Walks,Kanye West,2004,track:Jesus Walks artist:Kanye West,2X2llNEsjqYeUXRHMOoZqk,20,2004-01-01
+43,Jesus Walks,Kanye West,2004,track:Jesus Walks artist:Kanye West,207wiDjCq7tQRj3KMmIUzU,10,2009-01-01
+44,Locked Up,Akon  ,2004,track:Locked Up artist:Akon  ,0YUrjFy4qFKOO5NhM9tYdV,55,2006-01-01
+44,Locked Up,Akon  ,2004,track:Locked Up artist:Akon  ,46txlkRpOA5RRkytXVSUwn,50,2004-01-01
+44,Locked Up,Akon  ,2004,track:Locked Up artist:Akon  ,48EQasc6XD0pOQtkIOWqOC,39,2005-01-01
+44,Locked Up,Akon  ,2004,track:Locked Up artist:Akon  ,6cRH2tm1qBWvnnpnaAxpV0,38,2004-01-01
+44,Locked Up,Akon  ,2004,track:Locked Up artist:Akon  ,20p0zLM8245xqgmMotPGA9,38,2006-01-01
+45,Stand Up,Ludacris  ,2004,track:Stand Up artist:Ludacris  ,2CtCwQhY0ZLvr8L2l8Bo6e,58,2003-01-01
+45,Stand Up,Ludacris  ,2004,track:Stand Up artist:Ludacris  ,7aSu6LKuIJDUOqb7aBQlBj,27,2003-01-01
+45,Stand Up,Ludacris  ,2004,track:Stand Up artist:Ludacris  ,6L4OJVZIHU4T18Aq7bkOmT,19,2019-10-18
+45,Stand Up,Ludacris  ,2004,track:Stand Up artist:Ludacris  ,0liTafhfOUk7WLwdb0tyn5,22,2003-08-19
+45,Stand Up,Ludacris  ,2004,track:Stand Up artist:Ludacris  ,6f24G2InJkwRslJNXZj5vM,17,2005-01-01
+46,Suga Suga,Baby Bash  ,2004,track:Suga Suga artist:Baby Bash  ,6Nq5lE0CeOAAAqN4qhkbZU,75,2003-01-01
+46,Suga Suga,Baby Bash  ,2004,track:Suga Suga artist:Baby Bash  ,14B2bUopOga5V3ypld7d6n,59,2003-01-01
+46,Suga Suga,Baby Bash  ,2004,track:Suga Suga artist:Baby Bash  ,5Z83wx7EqLCTEn9FuAvqSJ,36,2003-01-01
+46,Suga Suga,Baby Bash  ,2004,track:Suga Suga artist:Baby Bash  ,7Ir2UZHy0xVoWuBCHmLitM,27,2003-01-01
+46,Suga Suga,Baby Bash  ,2004,track:Suga Suga artist:Baby Bash  ,4HDLGMJPiCPF2oVEajgAzI,35,2017-10-20
+47,All Falls Down,Kanye West  ,2004,track:All Falls Down artist:Kanye West  ,5SkRLpaGtvYPhw02vZhQQ9,74,2004-02-10
+47,All Falls Down,Kanye West  ,2004,track:All Falls Down artist:Kanye West  ,6lUhpV6LjQ5uvcavlCutBF,39,2004-02-10
+47,All Falls Down,Kanye West  ,2004,track:All Falls Down artist:Kanye West  ,1V7mKfA04Mj0dZWUs8DmYQ,21,2004-01-01
+48,Toxic,Britney Spears,2004,track:Toxic artist:Britney Spears,6I9VzXrHxO9rA9A5euc8Ak,82,2003-11-13
+48,Toxic,Britney Spears,2004,track:Toxic artist:Britney Spears,717TY4sfgKQm4kFbYQIzgo,57,2004
+48,Toxic,Britney Spears,2004,track:Toxic artist:Britney Spears,48C9sYkAOavqzFn77bxGR3,56,2020-01-31
+48,Toxic,Britney Spears,2004,track:Toxic artist:Britney Spears,4fbaKWFRghusXd4bSBvvfN,60,2018-03-02
+48,Toxic,Britney Spears,2004,track:Toxic artist:Britney Spears,7BsNmVBbrOZsbtdSlasKYc,34,2004-04-06
+49,Salt Shaker,Ying Yang Twins  ,2004,track:Salt Shaker artist:Ying Yang Twins  ,4Kd0FzFpOgIGxlBl4HXuFn,62,2003-09-16
+49,Salt Shaker,Ying Yang Twins  ,2004,track:Salt Shaker artist:Ying Yang Twins  ,4K6lBxk6UCvJpqRbnknUXw,31,2003-09-16
+49,Salt Shaker,Ying Yang Twins  ,2004,track:Salt Shaker artist:Ying Yang Twins  ,1JF1W6Wqrjc4fIz7uTAaEE,32,2009-11-03
+49,Salt Shaker,Ying Yang Twins  ,2004,track:Salt Shaker artist:Ying Yang Twins  ,7mOG3Ja7FUAfQM9SO1ep0Z,31,2009-11-03
+50,With You,Jessica Simpson,2004,track:With You artist:Jessica Simpson,7pNJ1T9TGbVbNHKaLhhPri,58,2003
+50,With You,Jessica Simpson,2004,track:With You artist:Jessica Simpson,34PsixEmIceg39NpaYxBsH,54,1999-11-16
+50,With You,Jessica Simpson,2004,track:With You artist:Jessica Simpson,1wI8efY1D1tq2VssirAS8H,30,2001-12-29
+50,With You,Jessica Simpson,2004,track:With You artist:Jessica Simpson,5ZVo5MGb9gL8rbDcSJjr4E,26,2001-06-05
+50,With You,Jessica Simpson,2004,track:With You artist:Jessica Simpson,4jIgNRzwUAQCctDDM3Kxd4,28,2000-09-29
+51,Meant to Live,Switchfoot,2004,track:Meant to Live artist:Switchfoot,2md2i5QvelRFnafpnd6LOg,61,2003
+51,Meant to Live,Switchfoot,2004,track:Meant to Live artist:Switchfoot,79cAPxneo5AvbNgR6ch3Cj,52,2008-10-31
+51,Meant to Live,Switchfoot,2004,track:Meant to Live artist:Switchfoot,1z3L82jeYnTmYUjPc7zXcu,36,2003
+51,Meant to Live,Switchfoot,2004,track:Meant to Live artist:Switchfoot,1gV9ZiGSLbZ8wsN9NOBmQW,25,2004-06-18
+51,Meant to Live,Switchfoot,2004,track:Meant to Live artist:Switchfoot,2hV8nbjOBpf0sIGmC38SMy,10,2008-08-19
+52,I Like That,Houston  ,2004,track:I Like That artist:Houston  ,4MMqj7HaLL8BphbBZnlsdq,56,2004-01-01
+52,I Like That,Houston  ,2004,track:I Like That artist:Houston  ,0DRAmZDhhG5K2U70daPhbx,45,2003-10-07
+52,I Like That,Houston  ,2004,track:I Like That artist:Houston  ,2ihwel4BNkqSUQRHTGJtVF,22,2004-01-01
+52,I Like That,Houston  ,2004,track:I Like That artist:Houston  ,6az8NvLVDILxrqdtGZrG1Z,18,2003-11-04
+52,I Like That,Houston  ,2004,track:I Like That artist:Houston  ,6pE8RwwWVWmyxtsR9FvFAA,17,2019-11-01
+53,Sorry 2004,Ruben Studdard,2004,track:Sorry 2004 artist:Ruben Studdard,2u34ZVPVlr7hfN7vDr1512,41,2003-08-22
+53,Sorry 2004,Ruben Studdard,2004,track:Sorry 2004 artist:Ruben Studdard,4vey3VC7ZROIESUu0kgiBc,29,2003
+53,Sorry 2004,Ruben Studdard,2004,track:Sorry 2004 artist:Ruben Studdard,2wJjqO80iPtWABbINvlQIt,5,2004-05-04
+54,My Happy Ending,Avril Lavigne,2004,track:My Happy Ending artist:Avril Lavigne,6sqNctd7MlJoKDOxPVCAvU,69,2004
+54,My Happy Ending,Avril Lavigne,2004,track:My Happy Ending artist:Avril Lavigne,2tG8TslfMYcICUuDRx37wM,34,2004-06-16
+54,My Happy Ending,Avril Lavigne,2004,track:My Happy Ending artist:Avril Lavigne,3KrqbmoiBKDji24UOYTQ8f,34,2010-09-17
+54,My Happy Ending,Avril Lavigne,2004,track:My Happy Ending artist:Avril Lavigne,335synJj2ntwbVz2jZkcXI,10,2005
+54,My Happy Ending,Avril Lavigne,2004,track:My Happy Ending artist:Avril Lavigne,5GGjLvE5674GshSmooa9sF,8,2005-03-22
+55,On Fire,Lloyd Banks,2004,track:On Fire artist:Lloyd Banks,0B2ZuTLZnWQ6gz8RlNwBu1,58,2004-01-01
+55,On Fire,Lloyd Banks,2004,track:On Fire artist:Lloyd Banks,195hQWdsIkh7SnQcLaABl0,21,2004-01-01
+55,On Fire,Lloyd Banks,2004,track:On Fire artist:Lloyd Banks,1Ulr6buT4orNmNx08kXrWN,20,2004-01-01
+55,On Fire,Lloyd Banks,2004,track:On Fire artist:Lloyd Banks,30jFyEVFqfsXpSzUNouLYb,19,2004-01-01
+55,On Fire,Lloyd Banks,2004,track:On Fire artist:Lloyd Banks,4PuuWpxNUIpGTWOACUTfbB,18,2019-10-18
+56,Roses,Outkast,2004,track:Roses artist:Outkast,6bUNEbXT7HovLW6BgPCBsb,72,2003
+56,Roses,Outkast,2004,track:Roses artist:Outkast,4l8hbpGBFlNtWF4bTGzauc,29,2003-09-23
+56,Roses,Outkast,2004,track:Roses artist:Outkast,7B6sjKPO7tY3sWaD6L1I7i,34,2019-04-19
+56,Roses,Outkast,2004,track:Roses artist:Outkast,5yu3YEX3XVYYK2Wy2iKoys,2,2006-11-21
+57,Walked Outta Heaven,Jagged Edge,2004,track:Walked Outta Heaven artist:Jagged Edge,06ZDLodo1UDVavc3MXREZ3,54,2003-10-07
+57,Walked Outta Heaven,Jagged Edge,2004,track:Walked Outta Heaven artist:Jagged Edge,32faBpwH7Yb60Ar4mJruDU,20,2006-11-21
+57,Walked Outta Heaven,Jagged Edge,2004,track:Walked Outta Heaven artist:Jagged Edge,022zKxDRRYjY7jFx2ANXWo,19,2014-10-27
+57,Walked Outta Heaven,Jagged Edge,2004,track:Walked Outta Heaven artist:Jagged Edge,0FbEKtGlNwPykL1asheBlm,18,2011-02-01
+57,Walked Outta Heaven,Jagged Edge,2004,track:Walked Outta Heaven artist:Jagged Edge,5rmpwYB5pi5AwCL6JJknBP,14,2003-08-19
+58,Lose My Breath,Destiny's Child,2004,track:Lose My Breath artist:Destiny's Child,4dvQg9sD8k9y4qiEURuj8v,59,2004-11-16
+58,Lose My Breath,Destiny's Child,2004,track:Lose My Breath artist:Destiny's Child,2Jkg4Y2O6RHgKAnlyCmlUq,31,1999
+58,Lose My Breath,Destiny's Child,2004,track:Lose My Breath artist:Destiny's Child,5UKeTvdOncZCA9Avv2YsKB,26,2004-11-02
+58,Lose My Breath,Destiny's Child,2004,track:Lose My Breath artist:Destiny's Child,0oEKI2Vrd6hNQ1jGNUU71N,18,2004-10-05
+58,Lose My Breath,Destiny's Child,2004,track:Lose My Breath artist:Destiny's Child,2CeYTVhTCgd5t7MUbUbbD2,20,2005-08-16
+59,My Band,D12,2004,track:My Band artist:D12,4XHQyvbrBsQaaBUW1VvmsL,70,2004-01-01
+59,My Band,D12,2004,track:My Band artist:D12,2nVDtbHH264f3f6D9zxP9X,27,2014-11-24
+59,My Band,D12,2004,track:My Band artist:D12,1pBEKGKQpHwKS0WTs9E9IM,29,2004-01-01
+59,My Band,D12,2004,track:My Band artist:D12,0s6VtT3LvsKcN1NE9x7SAF,19,2004-01-01
+59,My Band,D12,2004,track:My Band artist:D12,4LF68wlK8MlhgmLdrCpUQr,21,2019-10-18
+60,I m Still in Love with You,Sean Paul  ,2004,track:I m Still in Love with You artist:Sean Paul  ,3MhdH8PxqH1FuQp3HBptUI,69,2002-11-12
+60,I m Still in Love with You,Sean Paul  ,2004,track:I m Still in Love with You artist:Sean Paul  ,1GcpjHpav9jlU2AF5duTp7,32,2002-11-12
+60,I m Still in Love with You,Sean Paul  ,2004,track:I m Still in Love with You artist:Sean Paul  ,6JZzDpa2TdBkB5yVG7amjQ,38,2005
+60,I m Still in Love with You,Sean Paul  ,2004,track:I m Still in Love with You artist:Sean Paul  ,7L2Rajn903JjYRiuetzQzz,35,2017-06-02
+60,I m Still in Love with You,Sean Paul  ,2004,track:I m Still in Love with You artist:Sean Paul  ,4ZKbHnIwc2vcBd6U64wO0p,34,2011-01-21
+61,Through the Wire,Kanye West,2004,track:Through the Wire artist:Kanye West,4mmkhcEm1Ljy1U9nwtsxUo,69,2004-02-10
+61,Through the Wire,Kanye West,2004,track:Through the Wire artist:Kanye West,0tDQlF2t00FEAlizuaHpbO,34,2004-02-10
+62,Why?,Jadakiss,2004,track:Why? artist:Jadakiss,58LflM1owDAzQkYIL7ayCX,52,2004-01-01
+62,Why?,Jadakiss,2004,track:Why? artist:Jadakiss,6KSNouHU95rpfqO4i0ca8s,17,2004-01-01
+62,Why?,Jadakiss,2004,track:Why? artist:Jadakiss,2SJQuGkiynFznieKep0kyl,1,2004-01-01
+62,Why?,Jadakiss,2004,track:Why? artist:Jadakiss,2cCLYJQM2fvHTcYwkEi4vU,0,2006-01-01
+63,Fuck It (I Don t Want You Back),Eamon,2004,track:Fuck It (I Don t Want You Back) artist:Eamon,1p5kC161fWMA2QlwV3Vi4W,65,2004-01-23
+63,Fuck It (I Don t Want You Back),Eamon,2004,track:Fuck It (I Don t Want You Back) artist:Eamon,7bchsHDaf9CRoe64ceIDYQ,43,2004-01-28
+63,Fuck It (I Don t Want You Back),Eamon,2004,track:Fuck It (I Don t Want You Back) artist:Eamon,2Jb4E6lRdCKLYFDO50t6pk,37,2013-06-24
+63,Fuck It (I Don t Want You Back),Eamon,2004,track:Fuck It (I Don t Want You Back) artist:Eamon,7KK3A8shLQZg5KersvqhpH,3,2004-07-26
+63,Fuck It (I Don t Want You Back),Eamon,2004,track:Fuck It (I Don t Want You Back) artist:Eamon,26m4WX5YFm6xWYNPSQhuAo,2,2004-08-24
+64,Read Your Mind,Avant  ,2004,track:Read Your Mind artist:Avant  ,6cR1U61DMpYbS2TtNTlSvo,55,2003-01-01
+64,Read Your Mind,Avant  ,2004,track:Read Your Mind artist:Avant  ,30niy9KWW5bXOZ3Jv1zpZI,23,2003-01-01
+64,Read Your Mind,Avant  ,2004,track:Read Your Mind artist:Avant  ,3rnjdWPWhlNGb1Cb6AMZ7Z,20,2011-01-01
+64,Read Your Mind,Avant  ,2004,track:Read Your Mind artist:Avant  ,5mkdXimSsS0Aj6Ok51qvnl,12,2003-01-01
+64,Read Your Mind,Avant  ,2004,track:Read Your Mind artist:Avant  ,3CCbA2TUxcLLj15TwuL0GI,4,2003-01-01
+65,Game Over (Flip),Lil' Flip,2004,track:Game Over (Flip) artist:Lil' Flip,79lmvU7Qmc8QpXilbSk37z,53,2004-03-30
+65,Game Over (Flip),Lil' Flip,2004,track:Game Over (Flip) artist:Lil' Flip,0SNjcUzVxirGHskSqLNVqG,31,2004-03-30
+65,Game Over (Flip),Lil' Flip,2004,track:Game Over (Flip) artist:Lil' Flip,5BWeQ3wujHiW4Kyqnefq2X,24,2004-05-11
+65,Game Over (Flip),Lil' Flip,2004,track:Game Over (Flip) artist:Lil' Flip,1xRB34RFSmN1uBiGMeeOnp,22,2014-02-13
+65,Game Over (Flip),Lil' Flip,2004,track:Game Over (Flip) artist:Lil' Flip,4tNuZJbMukwqC4IG7lDEk3,11,2004-02-24
+66,One Thing,Finger Eleven,2004,track:One Thing artist:Finger Eleven,2BepFzUWfczDk68DXj10w3,58,2003-01-01
+66,One Thing,Finger Eleven,2004,track:One Thing artist:Finger Eleven,2QXfV75RKSG5TtGq6AMctb,32,2007-01-01
+66,One Thing,Finger Eleven,2004,track:One Thing artist:Finger Eleven,48o0PPtAhUkvp04OiFokZc,33,2021-04-29
+67,Headsprung,LL Cool J,2004,track:Headsprung artist:LL Cool J,1GIN41bLhiKeEPeC2vXH8i,58,2004-08-31
+67,Headsprung,LL Cool J,2004,track:Headsprung artist:LL Cool J,6lY08rc5GaG5uyOOyUAWOU,31,2009-01-01
+67,Headsprung,LL Cool J,2004,track:Headsprung artist:LL Cool J,2ksMdjg5tS6TeA35eY776v,19,2019-10-18
+67,Headsprung,LL Cool J,2004,track:Headsprung artist:LL Cool J,74yE5ALtVG5RIj7KcNjfXz,11,2020-02-07
+67,Headsprung,LL Cool J,2004,track:Headsprung artist:LL Cool J,2VQdkRcYlEajGGbrzdFjW9,9,2019-05-24
+68,Damn!,YoungBloodZ  ,2004,track:Damn! artist:YoungBloodZ  ,5TpaWJKnuyA4MjzAbFXSTQ,55,2003-07-25
+68,Damn!,YoungBloodZ  ,2004,track:Damn! artist:YoungBloodZ  ,0tLOX3QEuQJtz4FMLxHh10,43,2006-11-21
+68,Damn!,YoungBloodZ  ,2004,track:Damn! artist:YoungBloodZ  ,4oDZaOkBt5DgU4AwzZ4tHZ,34,2003-06-30
+68,Damn!,YoungBloodZ  ,2004,track:Damn! artist:YoungBloodZ  ,7atV6dz8aTKYrn3ALgLX1F,20,2004-08-24
+68,Damn!,YoungBloodZ  ,2004,track:Damn! artist:YoungBloodZ  ,3aYR7XQAuLW0vsDEj9SGu3,23,2003-08-25
+69,Baby Boy,Beyoncé  ,2004,track:Baby Boy artist:Beyoncé  ,4WY3HyGXsWqjFRCVD6gnTe,65,2003-06-24
+69,Baby Boy,Beyoncé  ,2004,track:Baby Boy artist:Beyoncé  ,06iMNM7Q9kX93yBKXb7K8H,53,2019-04-17
+69,Baby Boy,Beyoncé  ,2004,track:Baby Boy artist:Beyoncé  ,1souRQnZaUmfncdjgUsy1D,37,2010-11-26
+69,Baby Boy,Beyoncé  ,2004,track:Baby Boy artist:Beyoncé  ,0LBqyyCQ0Z1u1Ddxdw14wT,29,2019-04-16
+69,Baby Boy,Beyoncé  ,2004,track:Baby Boy artist:Beyoncé  ,3Xur3Pj3EzfKrmTHxlNyS8,1,2006-08-29
+70,Get Low,Lil Jon & the East Side Boyz  ,2004,track:Get Low artist:Lil Jon & the East Side Boyz  ,0jrz4ZQKCsC6h2vzqgHiEp,67,2011-03-15
+70,Get Low,Lil Jon & the East Side Boyz  ,2004,track:Get Low artist:Lil Jon & the East Side Boyz  ,5CSossBRgqQUcBJGkI9H8S,47,2002-10-29
+70,Get Low,Lil Jon & the East Side Boyz  ,2004,track:Get Low artist:Lil Jon & the East Side Boyz  ,2ajUxpHW8NJWV6LnbhaZTI,30,2011-03-15
+70,Get Low,Lil Jon & the East Side Boyz  ,2004,track:Get Low artist:Lil Jon & the East Side Boyz  ,5KZEUbNfovz1edWybG99mg,18,2004-11-16
+70,Get Low,Lil Jon & the East Side Boyz  ,2004,track:Get Low artist:Lil Jon & the East Side Boyz  ,3egtDXPOcfvukrAz1egw8p,1,2004-11-16
+71,Drop It Like It s Hot,Snoop Dogg  ,2004,track:Drop It Like It s Hot artist:Snoop Dogg  ,2NBQmPrOEEjA8VbeWOQGxO,68,2004-01-01
+71,Drop It Like It s Hot,Snoop Dogg  ,2004,track:Drop It Like It s Hot artist:Snoop Dogg  ,7MJPJTtIcjtMkBftLvprJE,37,2004-01-01
+71,Drop It Like It s Hot,Snoop Dogg  ,2004,track:Drop It Like It s Hot artist:Snoop Dogg  ,18UhvUi9FjHtoTgnqX7kbl,33,2004-01-01
+71,Drop It Like It s Hot,Snoop Dogg  ,2004,track:Drop It Like It s Hot artist:Snoop Dogg  ,1CDjORoMxLHFURZhH8n0TS,33,2004-01-01
+71,Drop It Like It s Hot,Snoop Dogg  ,2004,track:Drop It Like It s Hot artist:Snoop Dogg  ,75iHQ4MCtrTUGnlwNsPueS,40,2017-10-27
+72,U Should ve Known Better,Monica,2004,track:U Should ve Known Better artist:Monica,0EQuu6hyNACWI7LT7N5pRv,56,2003
+72,U Should ve Known Better,Monica,2004,track:U Should ve Known Better artist:Monica,7nyqARhQV5d8UPZIApSF84,7,2004-05-18
+72,U Should ve Known Better,Monica,2004,track:U Should ve Known Better artist:Monica,2X3EeqpnBgWJON7p12UcEi,5,2004-05-18
+72,U Should ve Known Better,Monica,2004,track:U Should ve Known Better artist:Monica,10OZ55Rl8nn0viJF6ng3qT,1,2004-05-18
+73,On the Way Down,Ryan Cabrera,2004,track:On the Way Down artist:Ryan Cabrera,1GwVi2ceNb8dMFA3DZGnnY,50,2004-06-08
+73,On the Way Down,Ryan Cabrera,2004,track:On the Way Down artist:Ryan Cabrera,7gjAFoD7tgsNkvz7Qjgjzn,28,2004-06-08
+73,On the Way Down,Ryan Cabrera,2004,track:On the Way Down artist:Ryan Cabrera,4vM4Kn0A5JV9YmVoypme5q,13,2004-05-04
+73,On the Way Down,Ryan Cabrera,2004,track:On the Way Down artist:Ryan Cabrera,3jCpRdaw4HOZ294cgDJYzc,8,2004-09-21
+73,On the Way Down,Ryan Cabrera,2004,track:On the Way Down artist:Ryan Cabrera,6mQMVIPgWW3SPP4pqocQTE,3,2021-03-05
+74,Breakaway,Kelly Clarkson,2004,track:Breakaway artist:Kelly Clarkson,61Qhe2mHSLhUE04QeK4lkD,64,2004-01-17
+74,Breakaway,Kelly Clarkson,2004,track:Breakaway artist:Kelly Clarkson,63QfDCHl3lyhn8C7qfrNgc,33,2012-11-19
+74,Breakaway,Kelly Clarkson,2004,track:Breakaway artist:Kelly Clarkson,17xAjxyUW68z2BJ5tOQBee,37,2004-01-01
+74,Breakaway,Kelly Clarkson,2004,track:Breakaway artist:Kelly Clarkson,2oXYtfZz8vxYwfIKEFNBwM,13,2008-01-01
+74,Breakaway,Kelly Clarkson,2004,track:Breakaway artist:Kelly Clarkson,20ld6rbdzu3EbqZcIUreve,5,2018-12-12
+75,Why Don t You & I,Santana  ,2004,track:Why Don t You & I artist:Santana  ,43LdgobPlcCc5g9Kmactvy,53,2002-09-30
+75,Why Don t You & I,Santana  ,2004,track:Why Don t You & I artist:Santana  ,4Xfxmq0n9kMSIeb1EGcNoz,39,2007-09-25
+75,Why Don t You & I,Santana  ,2004,track:Why Don t You & I artist:Santana  ,2bH9vra2GeuliEF0tTrMWv,36,2003-12-15
+75,Why Don t You & I,Santana  ,2004,track:Why Don t You & I artist:Santana  ,0oB91LaNr5RYsw1Kmf6lYR,15,2003-10-07
+76,Are You Gonna Be My Girl,Jet,2004,track:Are You Gonna Be My Girl artist:Jet,305WCRhhS10XUcH6AEwZk6,76,2003-09-15
+76,Are You Gonna Be My Girl,Jet,2004,track:Are You Gonna Be My Girl artist:Jet,3tRMcxAVPS0YK00YcSc737,51,2009-08-25
+76,Are You Gonna Be My Girl,Jet,2004,track:Are You Gonna Be My Girl artist:Jet,0t89mE9h88MRRm3F7ATfLl,24,2016-11-25
+76,Are You Gonna Be My Girl,Jet,2004,track:Are You Gonna Be My Girl artist:Jet,0KCFkxHksPiDhDVOUXnhWo,25,2018-05-26
+76,Are You Gonna Be My Girl,Jet,2004,track:Are You Gonna Be My Girl artist:Jet,7aMrkarO55kodxytHWhmVQ,24,2009-08-25
+77,100 Years,Five for Fighting,2004,track:100 Years artist:Five for Fighting,2lFlveK1y13WWp3vnQtrr3,65,2003
+77,100 Years,Five for Fighting,2004,track:100 Years artist:Five for Fighting,0B5KeB25moPkcQUnbDvj3t,56,2004-02-03
+77,100 Years,Five for Fighting,2004,track:100 Years artist:Five for Fighting,5gBQ3x6u7DCvMW1QoP3CpG,38,1997
+77,100 Years,Five for Fighting,2004,track:100 Years artist:Five for Fighting,1p8oANzu6ox7CknutKQ7gk,14,2007-10-29
+77,100 Years,Five for Fighting,2004,track:100 Years artist:Five for Fighting,5greBs1hYLRkl51PiXWY4F,14,2018-10-12
+78,Step in the Name of Love,R. Kelly,2004,track:Step in the Name of Love artist:R. Kelly,7lrAsaTw9CTh5uSr0fvHOd,47,2003
+78,Step in the Name of Love,R. Kelly,2004,track:Step in the Name of Love artist:R. Kelly,3UAXVxOVqegxni5snW3Lht,42,2003
+78,Step in the Name of Love,R. Kelly,2004,track:Step in the Name of Love artist:R. Kelly,2GtFOkArU10Lr11BbVKl28,41,2014-05-19
+78,Step in the Name of Love,R. Kelly,2004,track:Step in the Name of Love artist:R. Kelly,6vb7pqjfeoccALgALAsEax,26,2003-09-23
+78,Step in the Name of Love,R. Kelly,2004,track:Step in the Name of Love artist:R. Kelly,16NTJIUlJUH4HbxBGS5rvy,22,2005-11-14
+79,Breaking the Habit,Linkin Park,2004,track:Breaking the Habit artist:Linkin Park,6n8TMVyFKoUmDc4apxceRD,66,2003-03-24
+79,Breaking the Habit,Linkin Park,2004,track:Breaking the Habit artist:Linkin Park,4HcDu9IGRCvSTJE4yW5Ugv,57,2003-03-24
+79,Breaking the Habit,Linkin Park,2004,track:Breaking the Habit artist:Linkin Park,0rwncgTIcvArbZoEJiDsbo,38,2012-06-05
+79,Breaking the Habit,Linkin Park,2004,track:Breaking the Habit artist:Linkin Park,4ochGpQdr0nAvXSsT3IS9j,33,2008-11-21
+79,Breaking the Habit,Linkin Park,2004,track:Breaking the Habit artist:Linkin Park,04ycgZmmMKEPCxStpwkA0z,16,2010-09-13
+80,Gigolo,Nick Cannon  ,2004,track:Gigolo artist:Nick Cannon  ,1T1ZUKX4X87tVLaBGjwFv4,41,2003-03-13
+80,Gigolo,Nick Cannon  ,2004,track:Gigolo artist:Nick Cannon  ,5M1HrxA1bUGzpacvv3kp6j,6,2004-08-24
+81,Live Like You Were Dying,Tim McGraw,2004,track:Live Like You Were Dying artist:Tim McGraw,7B1QliUMZv7gSTUGAfMRRD,68,2004-08-17
+81,Live Like You Were Dying,Tim McGraw,2004,track:Live Like You Were Dying artist:Tim McGraw,5uaTGZyDMK1iZ9eW1qeBEX,53,2010-11-30
+81,Live Like You Were Dying,Tim McGraw,2004,track:Live Like You Were Dying artist:Tim McGraw,59LXFrfOHlS4S9skq4VwNf,34,2015-06-16
+81,Live Like You Were Dying,Tim McGraw,2004,track:Live Like You Were Dying artist:Tim McGraw,5V7UewhCUr4H9lGUOgH9hL,28,2016-10-21
+81,Live Like You Were Dying,Tim McGraw,2004,track:Live Like You Were Dying artist:Tim McGraw,144l8XW7jrclSiP0m9nI8h,22,2006-03-28
+82,Remember When,Alan Jackson,2004,track:Remember When artist:Alan Jackson,1nCSr7oGeUv7sUEoYuAJFF,63,2010-11-19
+82,Remember When,Alan Jackson,2004,track:Remember When artist:Alan Jackson,1M1HscO3JywTvswsVx1GcI,49,1991
+82,Remember When,Alan Jackson,2004,track:Remember When artist:Alan Jackson,46wsj9yMktwifcIhXhqj1b,40,2003-10-09
+82,Remember When,Alan Jackson,2004,track:Remember When artist:Alan Jackson,6frDDMJeVZPcjhoDfqdRIW,33,2015-11-06
+82,Remember When,Alan Jackson,2004,track:Remember When artist:Alan Jackson,60tb2tX49RbtKxvAYLOSgo,30,2012-04-17
+83,Everytime,Britney Spears,2004,track:Everytime artist:Britney Spears,0dRhSF9LV0HR8Jwd3MMMKJ,64,2003-11-13
+83,Everytime,Britney Spears,2004,track:Everytime artist:Britney Spears,5SGaMw1Xj2LohN5SwVKMbx,30,2004
+83,Everytime,Britney Spears,2004,track:Everytime artist:Britney Spears,1Qq7tEkWRJB9v1aAAeoruA,41,2014-07-29
+83,Everytime,Britney Spears,2004,track:Everytime artist:Britney Spears,2a0pbMoFSftTjwfQKW7d3j,19,2004
+83,Everytime,Britney Spears,2004,track:Everytime artist:Britney Spears,4CtkDiFsFUZQiQODJNL1Tc,44,2009-11-09
+84,Southside,Lloyd  ,2004,track:Southside artist:Lloyd  ,7lurcq2Yw96B1K0KOJAHxg,61,2004-01-01
+84,Southside,Lloyd  ,2004,track:Southside artist:Lloyd  ,3X8JREdtkxxOFIyeIHekUm,37,2004-01-01
+84,Southside,Lloyd  ,2004,track:Southside artist:Lloyd  ,1NkspcpOiynq9JZoi5MXQv,34,2004-01-01
+84,Southside,Lloyd  ,2004,track:Southside artist:Lloyd  ,68Z7kNWCtWT9hk5NXpI2Ma,23,2003
+84,Southside,Lloyd  ,2004,track:Southside artist:Lloyd  ,36J3YFtajlw7XPvtyXFYyR,12,2010-11-30
+85,Dude,Beenie Man,2004,track:Dude artist:Beenie Man,746nPV2NXSoxW3imGpG8gk,53,2004-01-01
+85,Dude,Beenie Man,2004,track:Dude artist:Beenie Man,5XWjx5tHMsOI7BZh8wjeSu,50,2005-01-01
+85,Dude,Beenie Man,2004,track:Dude artist:Beenie Man,1z9XknrCyiyHBElDoRy5Sd,27,2004-01-01
+85,Dude,Beenie Man,2004,track:Dude artist:Beenie Man,2UFVMUUPJUAihtkUfCJMGY,27,2005
+85,Dude,Beenie Man,2004,track:Dude artist:Beenie Man,37x4pxxBym5g4kdbTWrccE,23,2003-01-01
+86,Wanna Get to Know You,G-Unit  ,2004,track:Wanna Get to Know You artist:G-Unit  ,1dHJETCn2X1R1YwVlMvSza,62,2003-01-01
+86,Wanna Get to Know You,G-Unit  ,2004,track:Wanna Get to Know You artist:G-Unit  ,4dMzUKKdghZD9GKtZkmk91,36,2017-10-27
+86,Wanna Get to Know You,G-Unit  ,2004,track:Wanna Get to Know You artist:G-Unit  ,2kffI7Pg0K9v4M1UJ9bLjt,11,2020-02-21
+86,Wanna Get to Know You,G-Unit  ,2004,track:Wanna Get to Know You artist:G-Unit  ,4zpdD65475ba6hSnXluQIn,12,2019-08-23
+86,Wanna Get to Know You,G-Unit  ,2004,track:Wanna Get to Know You artist:G-Unit  ,5izXdbsdXjG93KTElPrOHJ,7,2020-09-11
+87,Holidae In,Chingy  ,2004,track:Holidae In artist:Chingy  ,0FmCLEHfINGqwlyzvklNqy,60,2003-01-01
+87,Holidae In,Chingy  ,2004,track:Holidae In artist:Chingy  ,3D4ujK4uinSZCDwoIYXhKK,28,2003-01-01
+87,Holidae In,Chingy  ,2004,track:Holidae In artist:Chingy  ,1fgyz3KqEx9KGiLQ3P2L3p,26,2004-01-01
+87,Holidae In,Chingy  ,2004,track:Holidae In artist:Chingy  ,4TMMZOfpKWS2iWf8gVcci2,20,2019-08-23
+87,Holidae In,Chingy  ,2004,track:Holidae In artist:Chingy  ,2eRq2PrQH1RzCvF6f0t4cc,8,2006-01-01
+88,Let s Get It Started,The Black Eyed Peas,2004,track:Let s Get It Started artist:The Black Eyed Peas,6Pag4ElNe0Cfdn7kNmgzEH,0,2013-08-28
+88,Let s Get It Started,The Black Eyed Peas,2004,track:Let s Get It Started artist:The Black Eyed Peas,5uBV7GrFE2vq7JhUZIcZh0,0,2015-12-04
+88,Let s Get It Started,The Black Eyed Peas,2004,track:Let s Get It Started artist:The Black Eyed Peas,2NUEnCpJjUtJlbWFeIxtJ1,0,2015-11-06
+88,Let s Get It Started,The Black Eyed Peas,2004,track:Let s Get It Started artist:The Black Eyed Peas,4ZSP4eSQQZ3TJgiNFgHvgu,0,2011-03-21
+88,Let s Get It Started,The Black Eyed Peas,2004,track:Let s Get It Started artist:The Black Eyed Peas,6GYAjjbANo2l9jJsTPBWYk,0,2014-09-25
+89,When the Sun Goes Down,Kenny Chesney  ,2004,track:When the Sun Goes Down artist:Kenny Chesney  ,5vLonpxn4VN0A8GtQOBSG0,66,2004-01-22
+89,When the Sun Goes Down,Kenny Chesney  ,2004,track:When the Sun Goes Down artist:Kenny Chesney  ,6KbpvmsV6L8JsON1C3JHAV,56,2009-05-19
+89,When the Sun Goes Down,Kenny Chesney  ,2004,track:When the Sun Goes Down artist:Kenny Chesney  ,6bSme7F8Jp5uwkWKghzTMw,46,2004-02-02
+89,When the Sun Goes Down,Kenny Chesney  ,2004,track:When the Sun Goes Down artist:Kenny Chesney  ,7pQK5p4esbVIzuXI5dATaw,36,2006-09-16
+89,When the Sun Goes Down,Kenny Chesney  ,2004,track:When the Sun Goes Down artist:Kenny Chesney  ,6qPd9vMm04aeTBudM71CfV,30,2004-02-02
+90,American Soldier,Toby Keith,2004,track:American Soldier artist:Toby Keith,0oVWPlnK5eAqnJCVB0FvpP,58,2003-11-04
+90,American Soldier,Toby Keith,2004,track:American Soldier artist:Toby Keith,4cG1Bu2EdPA9KqrOCviKP0,43,2008-01-01
+90,American Soldier,Toby Keith,2004,track:American Soldier artist:Toby Keith,6lWSfsSgdh8eUU9NKCh1Q7,13,2018-06-22
+90,American Soldier,Toby Keith,2004,track:American Soldier artist:Toby Keith,5u3Nftkih0ajZNidE75nkM,7,2019-12-27
+90,American Soldier,Toby Keith,2004,track:American Soldier artist:Toby Keith,5x95XH92HPO3aZi19Ki6PD,2,2020-05-22
+91,Change Clothes,Jay-Z,2004,track:Change Clothes artist:Jay-Z,1xE7osYAtzz1PvLoVdOp5E,50,2003-11-14
+91,Change Clothes,Jay-Z,2004,track:Change Clothes artist:Jay-Z,0r7ILXX8J0MKX9WjB2xUkS,25,2003-11-14
+91,Change Clothes,Jay-Z,2004,track:Change Clothes artist:Jay-Z,1xJznXfomL7fZJLOYb0K10,15,2003-11-14
+92,Don t Tell Me,Avril Lavigne,2004,track:Don t Tell Me artist:Avril Lavigne,0dEQaNYfp5G7Sflek2Qnde,59,2004
+92,Don t Tell Me,Avril Lavigne,2004,track:Don t Tell Me artist:Avril Lavigne,6LpuH5mti0vAKG5FTAJR61,0,2005-03-01
+92,Don t Tell Me,Avril Lavigne,2004,track:Don t Tell Me artist:Avril Lavigne,2IBKDmhxk8WgRXcSHhIAGN,0,2005-09-20
+93,You ll Think of Me,Keith Urban,2004,track:You ll Think of Me artist:Keith Urban,0lZxd99ZIjA0zUdQAY3FXr,55,2007-01-01
+93,You ll Think of Me,Keith Urban,2004,track:You ll Think of Me artist:Keith Urban,68Iw932AjRCDEPLIzpmOtF,50,2002-01-01
+93,You ll Think of Me,Keith Urban,2004,track:You ll Think of Me artist:Keith Urban,2cvIplJWt8tF5ASde7hEvY,33,2005-01-01
+93,You ll Think of Me,Keith Urban,2004,track:You ll Think of Me artist:Keith Urban,5mUz68yJD51PITDZtNya0e,21,2005-01-01
+94,Happy People,R. Kelly,2004,track:Happy People artist:R. Kelly,266hoXlxTshUk4XsNQK5to,38,2004-08-23
+94,Happy People,R. Kelly,2004,track:Happy People artist:R. Kelly,51ohTObAvYM3lxK5mJMEwK,35,2014-05-19
+95,Hey Mama,The Black Eyed Peas,2004,track:Hey Mama artist:The Black Eyed Peas,7DVHyTZHUgJM4XwMiAhNMp,0,2011-12-11
+95,Hey Mama,The Black Eyed Peas,2004,track:Hey Mama artist:The Black Eyed Peas,577CnmbTFPNOt17j2UCfO4,0,2010-09-28
+95,Hey Mama,The Black Eyed Peas,2004,track:Hey Mama artist:The Black Eyed Peas,4i7uAq2Z7gs1LbgeSNMODs,0,2013-08-28
+95,Hey Mama,The Black Eyed Peas,2004,track:Hey Mama artist:The Black Eyed Peas,3matMQgHs2nhoefcm02CmI,0,2006-12-20
+96,Over and Over,Nelly  ,2004,track:Over and Over artist:Nelly  ,2b8QQqf8Vwb7bfz22ja8Fk,61,2004-09-14
+96,Over and Over,Nelly  ,2004,track:Over and Over artist:Nelly  ,1yOYcCTPcepDgrLz7cU1rW,41,2005-11-25
+96,Over and Over,Nelly  ,2004,track:Over and Over artist:Nelly  ,3XlqAdd4uGkJpJ9rrtHJKH,35,2005-11-22
+96,Over and Over,Nelly  ,2004,track:Over and Over artist:Nelly  ,1cNBk9UqXEvy2s5g7yBbIS,28,2004-09-14
+96,Over and Over,Nelly  ,2004,track:Over and Over artist:Nelly  ,0knakATr0VugDjy5LVKR0f,34,2005-11-25
+97,Redneck Woman,Gretchen Wilson,2004,track:Redneck Woman artist:Gretchen Wilson,26bL4gSULWDgdIMX0pRFrG,64,2004-05-11
+97,Redneck Woman,Gretchen Wilson,2004,track:Redneck Woman artist:Gretchen Wilson,5pQtfVIaQvINzl0XIGKNrC,57,2010-01-19
+97,Redneck Woman,Gretchen Wilson,2004,track:Redneck Woman artist:Gretchen Wilson,7pI9VoSszVeNycmCdpOX6G,17,2012
+97,Redneck Woman,Gretchen Wilson,2004,track:Redneck Woman artist:Gretchen Wilson,1fTkTUCfKV4rphbXfWqwVu,18,2010-12-10
+97,Redneck Woman,Gretchen Wilson,2004,track:Redneck Woman artist:Gretchen Wilson,5QbRnhusCoi918HW7RLZDJ,15,2014-10-27
+98,Just Lose It,Eminem,2004,track:Just Lose It artist:Eminem,0qcjuYtMWhBjXg0Xwt5SzS,66,2004-11-12
+98,Just Lose It,Eminem,2004,track:Just Lose It artist:Eminem,4S06iZrLlGsSqKlK6paOv8,54,2005-12-06
+98,Just Lose It,Eminem,2004,track:Just Lose It artist:Eminem,6onQaeFDa4kW00ee428KDl,43,2005-12-06
+98,Just Lose It,Eminem,2004,track:Just Lose It artist:Eminem,4l8obfskxYvHJDOUSIawQO,38,2004-11-12
+98,Just Lose It,Eminem,2004,track:Just Lose It artist:Eminem,6pocsnip9WtmYlBQSfawfq,35,2004-11-01
+99,Letters from Home,John Michael Montgomery,2004,track:Letters from Home artist:John Michael Montgomery,15cGdiAHmezm0P04jVAjMo,57,2004-04-20
+99,Letters from Home,John Michael Montgomery,2004,track:Letters from Home artist:John Michael Montgomery,18bIggGYKnOLrPADxCgeh6,13,2019-01-04
+99,Letters from Home,John Michael Montgomery,2004,track:Letters from Home artist:John Michael Montgomery,2Ewjrq6mTatCZMlHBDW81E,7,2018-06-15
+99,Letters from Home,John Michael Montgomery,2004,track:Letters from Home artist:John Michael Montgomery,4VVuktzt9UKbsqvbYuZykG,3,2017-10-20
+99,Letters from Home,John Michael Montgomery,2004,track:Letters from Home artist:John Michael Montgomery,2QSLEIXOurBxH1SJpqtfBF,0,2020-04-24
+100,I Go Back,Kenny Chesney,2004,track:I Go Back artist:Kenny Chesney,57I7CUbXo4XlWuTVB8pXW6,62,2004-01-22
+100,I Go Back,Kenny Chesney,2004,track:I Go Back artist:Kenny Chesney,0Ox458KpvZQ1Kuj9mUNPLL,52,2009-05-19
+100,I Go Back,Kenny Chesney,2004,track:I Go Back artist:Kenny Chesney,1OiVtrpSYKTtg3S3EHyvY1,47,2004-02-02
+100,I Go Back,Kenny Chesney,2004,track:I Go Back artist:Kenny Chesney,30hwGPq5dbDoB87glPiqtV,33,2017-10-27
+100,I Go Back,Kenny Chesney,2004,track:I Go Back artist:Kenny Chesney,13D7XTvRIV8s5mebCppPQx,30,2006-09-16
