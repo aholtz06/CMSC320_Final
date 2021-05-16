@@ -1,3 +1,4 @@
 config.json
 src/.cache
 src/test.ipynb
+.vscode
